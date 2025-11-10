@@ -197,6 +197,8 @@ key_binder:
     - {accept: KP_Add,      send: plus,     when: composing}
     - {accept: KP_Subtract, send: minus,    when: composing}
     - {accept: KP_Divide,   send: slash,    when: composing}
+    # 右侧小键盘的回车键映射为主键盘回车，保证在 composing 时能提交当前输入（例如英文）
+    - { when: composing, accept: KP_Enter, send: Return }
 
 recognizer:
   patterns:
