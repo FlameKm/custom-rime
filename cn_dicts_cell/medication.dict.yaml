@@ -43,7 +43,7 @@ use_preset_vocabulary: false
 艾实	ai;cx;cx;ci;zy;tk,xk;lb;aq;cx; shi;bd;bd;bt;ix;jk;wm;pu;gd;	0
 艾条	ai;cx;cx;ci;zy;tk,xk;lb;aq;cx; tiao;wm;wm;wm;jf;hd;he;ts;wx;	57
 矮陀陀	ai;un;un;uw;ey;ov;ob;td;un; tuo;eb;eb;et;ba;np;tv;bp;eb; tuo;eb;eb;et;ba;np;tv;bp;eb;	0
-矮卫矛	ai;un;un;uw;ey;ov;ob;td;un; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+矮卫矛	ai;un;un;uw;ey;ov;ob;td;un; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 矮杨梅果	ai;un;un;uw;ey;ov;ob;td;un; yang;mp;mp;my;wu;dh;ee;sn;lp; mei;mm;mm;mm;wh;dy;ek;st;lm; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
 矮杨梅皮	ai;un;un;uw;ey;ov;ob;td;un; yang;mp;mp;my;wu;dh;ee;sn;lp; mei;mm;mm;mm;wh;dy;ek;st;lm; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy;	0
 矮叶书带蕨	ai;un;un;uw;ey;ov;ob;td;un; ye;ku;ku;ku;os;rj;dn;kf;ku; shu;vd;vd;ad,vd;rh;is;ai;nn;vd; dai;cj;fj;jb;zy;tb;lr;gk;aj; jue;cq;cr;cj,cq;ze;to;le;ad;cr;	0
@@ -180,7 +180,7 @@ use_preset_vocabulary: false
 白草莓	bai;po;po;pa,po;ss;ha;ub;rr;po; cao;cu;cu;cz;zs;tj;ln;aj;cu; mei;cm;cm;cm;zh;ty;lk;at;cm;	18
 白侧耳	bai;po;po;pa,po;ss;ha;ub;rr;po; ce;rd;rd;rz;xi;on;jp;wm;rd; er;ol;aa;aa;dd,du;sj;qe;bg;aa;	0
 白常山	bai;po;po;pa,po;ss;ha;ub;rr;po; chang;xj;xj;jk,xd,dd;hy;fb;sr;ip;ej; shan;kl;lk;aa;pp;uu;vs;mm;aa;	0
-百齿卫矛	bai;ab;ab;ab;ds;ma;fu;dj;ab; chi;vr;vk;vk;rp;yo;lc;hw;va; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+百齿卫矛	bai;ab;ab;ab;ds;ma;fu;dj;ab; chi;vr;vk;vk;rp;yo;lc;hw;va; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 百虫窝	bai;ab;ab;ab;ds;ma;fu;dj;ab; chong;vd;vd;ad,vd;ff;li;cc;jh;vd; wo;bn;bn;xn,xg,bn,bg;ie;jb;ej;pw;gn;	0
 白丑	bai;po;po;pa,po;ss;ha;ub;rr;po; chou;vt;va;aa,at,vt;rg;ng;ag;nf;va;	2
 白刺花	bai;po;po;pa,po;ss;ha;ub;rr;po; ci;ud;ad;dc;di;dn;ep;gm;ad; hua;cb;cb;ch;za;tp;lv;aw;cb;	0
@@ -1524,7 +1524,7 @@ use_preset_vocabulary: false
 肠重复畸形	chang;op;op;oy;lu;bh;ve;en;op; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; ji;tk;tk;tq;wj;wr;qz;ld;tk; xing;kp;kp;pk;uu;mh;fe;ga;kp;	0
 长春七	chang;pn;pn;pd;uh;po;pc;ta;pn; chun;io;fo;of,fo;uv;qa;ao;dw;ao; qi;av;av;ag;aa;ju;rq;ag;av;	0
 常春藤子	chang;xj;xj;jk,xd,dd;hy;fb;sr;ip;ej; chun;io;fo;of,fo;uv;qa;ao;dw;ao; teng;cu;cu;ct;zo;te;lk;ae;cu; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
-常春卫矛	chang;xj;xj;jk,xd,dd;hy;fb;sr;ip;ej; chun;io;fo;of,fo;uv;qa;ao;dw;ao; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+常春卫矛	chang;xj;xj;jk,xd,dd;hy;fb;sr;ip;ej; chun;io;fo;of,fo;uv;qa;ao;dw;ao; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 肠道集合淋巴结	chang;op;op;oy;lu;bh;ve;en;op; dao;zz;zz;zu;fq;yu;hu;ut;zm; ji;rm;rm;mv,vm;xw;od;ue;wy;rl; he;rk;rk;rk;eo;or;jd;wg;rk; lin;dm;dm;dl;kw;ed;ke;is;dl; ba;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; jie;sk;sk;sj;eo;vr;id;xf;sk;	0
 肠道气滞证	chang;op;op;oy;lu;bh;ve;en;op; dao;zz;zz;zu;fq;yu;hu;ut;zm; qi;pv;pv;py,ry;ss;on,xn;vq;rn;pv; zhi;dj;dj;dd;ky;eb;kr;ig;dj; zheng;yv;yv;yv;cr;im;ss;yg;yv;	0
 肠道实热证	chang;op;op;oy;lu;bh;ve;en;op; dao;zz;zz;zu;fq;yu;hu;ut;zm; shi;bd;bd;bt;ix;jk;wm;pu;gd; re;fh;fh;hv;jn;qf;uc;rv;fe; zheng;yv;yv;yv;cr;im;ss;yg;yv;	0
@@ -1851,7 +1851,7 @@ use_preset_vocabulary: false
 齿松牙衄	chi;vr;vk;vk;rp;yo;lc;hw;va; song;mg;ms;mg;wp;di;ek;sw;lv; ya;gp,ac;ap;ap;du;mh;ly;ah;ap; nv;pi;xi;xi;ug;hg;tg;tl;xi;	0
 赤铜屑	chi;tb;td;tb,ty;gf,gi;gc;gc;fo;td; tong;jk;jk;jt;do;or;zd;qm;jk; xie;uo;uo;ux;ql;sb;cv;ni;uo;	0
 鸱头	chi;un;dn;nd;uc;hm,xy;bx;qa;un; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
-翅卫矛	chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+翅卫矛	chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 赤小豆花	chi;tb;td;tb,ty;gf,gi;gc;gc;fo;td; xiao;lb;ld;ad;ii;nc;yx;ih;vd; dou;ab;aa;aa,aq;dd;mt;zd;gk;aa; hua;cb;cb;ch;za;tp;lv;aw;cb;	0
 赤小豆芽	chi;tb;td;tb,ty;gf,gi;gc;gc;fo;td; xiao;lb;ld;ad;ii;nc;yx;ih;vd; dou;ab;aa;aa,aq;dd;mt;zd;gk;aa; ya;cy;cy;cy;zu;th;ll;aa;cy;	0
 赤小豆叶	chi;tb;td;tb,ty;gf,gi;gc;gc;fo;td; xiao;lb;ld;ad;ii;nc;yx;ih;vd; dou;ab;aa;aa,aq;dd;mt;zd;gk;aa; ye;ku;ku;ku;os;rj;dn;kf;ku;	0
@@ -2164,8 +2164,8 @@ use_preset_vocabulary: false
 垂盆草	chui;qt;pa;pa;sg;hm;lg;tg;pa; pen;fm;bm;mf;fa;ct;ha;wv;bm; cao;cu;cu;cz;zs;tj;ln;aj;cu;	2
 垂屏式氧合器	chui;qt;pa;pa;sg;hm;lg;tg;pa; ping;uk;uk;ub;qp;st;cl;nu;uk; shi;yg;yg;gy,yg;ap;im;pu;aa;gg; yang;qy;qy;qy;sp;oq;vg;rn;qy; he;rk;rk;rk;eo;or;jd;wg;rk; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	0
 吹乳	chui;kq;kr;kq;oe;ro;de;kq;kr; ru;vv;pv;gf,fg;hr;bu;ya;eb;pv;	0
-垂丝卫矛	chui;qt;pa;pa;sg;hm;lg;tg;pa; si;sa;va;aa;ee;vm;ii;xx;ss; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
-垂丝卫矛果	chui;qt;pa;pa;sg;hm;lg;tg;pa; si;sa;va;aa;ee;vm;ii;xx;ss; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
+垂丝卫矛	chui;qt;pa;pa;sg;hm;lg;tg;pa; si;sa;va;aa;ee;vm;ii;xx;ss; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+垂丝卫矛果	chui;qt;pa;pa;sg;hm;lg;tg;pa; si;sa;va;aa;ee;vm;ii;xx;ss; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
 垂穗荛花	chui;qt;pa;pa;sg;hm;lg;tg;pa; sui;hx;hx;hh;un;hp;xh;tg;hx; rao;cw;cw;cy;zk;tu,xu;lp;aa;ce; hua;cb;cb;ch;za;tp;lv;aw;cb;	0
 垂体切除术	chui;qt;pa;pa;sg;hm;lg;tg;pa; ti;rb;rb;rb;xd;om;jf;ws;rb; qie;qd;qd;dq,qd;ai;ph;rp;av;qd; chu;em;eh;ey;bf;nd;tx;bw;ex; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
 垂体腺癌	chui;qt;pa;pa;sg;hm;lg;tg;pa; ti;rb;rb;rb;xd;om;jf;ws;rb; xian;ou;ou;oq;lo;be;vk;er;ou; ai;bu;be;bu;mp;ku;av;uk;bs;	0
@@ -2244,7 +2244,7 @@ use_preset_vocabulary: false
 慈姑叶	ci;bx;bx;xz;fn;tp;hh;ux;ex; gu;ng;nk;ng;yo;vr;bc;vd;nk; ye;ku;ku;ku;os;rj;dn;kf;ku;	0
 刺瓜米草	ci;ud;ad;dc;di;dn;ep;gm;ad; gua;in,vd;pn;pd;uh;ho;yg;rc;pn; mi;bm;dm;dd;ll;fd;pm;oy;dl; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
 刺果藤	ci;ud;ad;dc;di;dn;ep;gm;ad; guo;tm;ln;ad,tm;vw;wd;qe;js;an; teng;cu;cu;ct;zo;te;lk;ae;cu;	0
-刺果卫矛	ci;ud;ad;dc;di;dn;ep;gm;ad; guo;tm;ln;ad,tm;vw;wd;qe;js;an; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+刺果卫矛	ci;ud;ad;dc;di;dn;ep;gm;ad; guo;tm;ln;ad,tm;vw;wd;qe;js;an; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 雌核卵块发育	ci;vv;vf;vc;ra;yg;su;hx;va; he;mr;mr;mh;we;do;ek;sy;lr; luan;pd;pd;pd,md;uh;hi;bl;qy;pd; kuai;tg;tg;td,tg;gx;gk;gj;fn;tn; fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; yu;wo;wo;os,wo;il;yb;bv;yc;wo;	0
 刺槐花	ci;ud;ad;dc;di;dn;ep;gm;ad; huai;mg;mg;mg;ws;di;ea;sr;lv; hua;cb;cb;ch;za;tp;lv;aw;cb;	0
 刺黄柏	ci;ud;ad;dc;di;dn;ep;gm;ad; huang;cb;cb;ad,cb;zy;tc;nh;am;cb; bai;mb;mb;mb;ws;da;eu;sr;lb;	0
@@ -2490,7 +2490,7 @@ use_preset_vocabulary: false
 大果臭椿皮	da;ar;un;ad;xx;kk;md;dd;an; guo;tm;ln;ad,tm;vw;wd;qe;js;an; chou;zq;zq;zq;sb;hk;om;th;zq; chun;mo;mo;mi;wv;da;eo;sd;lo; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy;	0
 大过路黄	da;ar;un;ad;xx;kk;md;dd;an; guo;zc;zc;zc;kq;yi;ku;fp;zc; lu;zk;zk;zg;go;rr;ps;kh;zk; huang;cb;cb;ad,cb;zy;tc;nh;am;cb;	0
 大过山龙	da;ar;un;ad;xx;kk;md;dd;an; guo;zc;zc;zc;kq;yi;ku;fp;zc; shan;kl;lk;aa;pp;uu;vs;mm;aa; long;yp;ud;ad;sh;ip;tl;dx;ab;	0
-大果卫矛	da;ar;un;ad;xx;kk;md;dd;an; guo;tm;ln;ad,tm;vw;wd;qe;js;an; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+大果卫矛	da;ar;un;ad;xx;kk;md;dd;an; guo;tm;ln;ad,tm;vw;wd;qe;js;an; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 大寒犯肺证	da;ar;un;ad;xx;kk;md;dd;an; han;bd;bd;bd;ih;jy;ww;pf;gd; fan;qv;qv;qe;bt;ku;mz;qt;qv; fei;oj;ol,oj;of,oj;ly;bb;vr;eg;oa; zheng;yv;yv;yv;cr;im;ss;yg;yv;	0
 大寒肺热证	da;ar;un;ad;xx;kk;md;dd;an; han;bd;bd;bd;ih;jy;ww;pf;gd; fei;oj;ol,oj;of,oj;ly;bb;vr;eg;oa; re;fh;fh;hv;jn;qf;uc;rv;fe; zheng;yv;yv;yv;cr;im;ss;yg;yv;	0
 大汗腺癌	da;ar;un;ad;xx;kk;md;dd;an; han;dg;dg;dg;ks;ej;ke;if;dg; xian;ou;ou;oq;lo;be;vk;er;ou; ai;bu;be;bu;mp;ku;av;uk;bs;	0
@@ -3369,7 +3369,7 @@ use_preset_vocabulary: false
 东北雷公藤	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; lei;yt;yt;yt;yw;mw;tq;fl;yt; gong;bs;bs;sb,bs;fp;ci;hk;wc;bv; teng;cu;cu;ct;zo;te;lk;ae;cu;	0
 东北桤木	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; qi;mj;mj;mj,mq;wt;du;ev;sm;lj; mu;ur;un,an;ad;ww;dd;em;ss;un;	0
 东北溲疏	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; sou;dy;dy;ds,dy;kl;ee;kr;iv;dy; shu;vi;vv;pi,ag,vg,vi;rr;nu;to;nh;vv;	0
-东北卫矛	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+东北卫矛	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 东北细辛	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; xi;st;st;st;ew;vw;iq;xl;st; xin;lu;lu;lu;bs;yj;nx;uy;lu;	0
 东北延胡索	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; yan;zv;zv;zv;uq;nm,nv;tu;th;zv; hu;go;uo;og;sl;jb;cv;de;uo; suo;ux;ux;sb,us;si;jf;ni;fp;ux;	0
 东北羊角芹	dong;ax;ad;ad,qx;di,ai;kd;ry;ai;ad; bei;lb;lb;ap,bj;la;lp;av;ux;ab; yang;bf;bl;da;fp;tq;gy;ud;ea; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; qin;cj;cj;cj;zp;tl;lt;ar;cj;	0
@@ -6757,7 +6757,7 @@ use_preset_vocabulary: false
 化痰平喘	hua;rb;rb;rb;xa;op;jv;wx;rb; tan;bh;bh;by;mt;kf;ac;uo;bh; ping;au;au;aa,gb;ds;mj;eh;gu;au; chuan;ke;ke;ke;ob;rb;dl;km;ke;	4
 化痰熄风	hua;rb;rb;rb;xa;op;jv;wx;rb; tan;bh;bh;by;mt;kf;ac;uo;bh; xi;hx;hx;hx;tn;fp;ch;ot;hx; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
 铧头草	hua;ju;ju;jh;ds;oj;zn;qw;ju; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
-华卫矛	hua;ru;ru;uh;xs;oj;jn;wx;ru; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+华卫矛	hua;ru;ru;uh;xs;oj;jn;wx;ru; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 华西小石积	hua;ru;ru;uh;xs;oj;jn;wx;ru; xi;ak,wk;aa;aa;pp;mw;vx;sg;aa; xiao;lb;ld;ad;ii;nc;yx;ih;vd; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; ji;hv;hb;hv;uf;hc;xh;tk;hb;	0
 化香树果	hua;rb;rb;rb;xa;op;jv;wx;rb; xiang;ho;ho;ho;uv;ha;xo;tj;ho; shu;mc;mc;md;wk;di;ek;sc;lc; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
 化香树叶	hua;rb;rb;rb;xa;op;jv;wx;rb; xiang;ho;ho;ho;uv;ha;xo;tj;ho; shu;mc;mc;md;wk;di;ek;sc;lc; ye;ku;ku;ku;os;rj;dn;kf;ku;	0
@@ -8063,9 +8063,9 @@ use_preset_vocabulary: false
 交叉循环	jiao;wf;wx;li,wf,df;iy;yk;ab;uq;wx; cha;yd;yd;dy,yd;lh;ei,xi;ri;cy;yd; xun;ro;io;xd;hs;hu;wq;tr;rm; huan;wb;wb;wb;ah;mf;nc;gg;wb;	3
 交肠病	jiao;wf;wx;li,wf,df;iy;yk;ab;uq;wx; chang;op;op;oy;lu;bh;ve;en;op; bing;bn;bb;bb;me;kb;aj;ug;bb;	0
 交翅木	jiao;wf;wx;li,wf,df;iy;yk;ab;uq;wx; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; mu;ur;un,an;ad;ww;dd;em;ss;un;	0
-角翅卫矛	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
-角翅卫矛根	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; gen;mg;mg;mg;wh;dv;ei;sv;lh;	0
-角翅卫矛果	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
+角翅卫矛	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+角翅卫矛根	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; gen;mg;mg;mg;wh;dv;ei;sv;lh;	0
+角翅卫矛果	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chi;vx;ux;vy,yv;sd;jm;cz;fc;ux; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
 椒疮病	jiao;my;my;mu;wl;de;er;sh;ly; chuang;bv;bv;bc;mt;ku;az;uw;bv; bing;bn;bb;bb;me;kb;aj;ug;bb;	0
 角蛋白小体	jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi; bai;po;po;pa,po;ss;ha;ub;rr;po; xiao;lb;ld;ad;ii;nc;yx;ih;vd; ti;rb;rb;rb;xd;om;jf;ws;rb;	0
 交感神经手术	jiao;wf;wx;li,wf,df;iy;yk;ab;uq;wx; gan;wx;xx,wx;xx;rn;ip;nh;dg;kx; shen;pu;pu;uu;hp;il;fg;py;pu; jing;sj;sg;sg;ep;vm;iu;x,xc;sg; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
@@ -9717,7 +9717,7 @@ use_preset_vocabulary: false
 蕾状牙	lei;ct;ct;cl;zw;tw;lq;af;ct; zhuang;lq;dq;jq,pq,qp;lb;lk;am;ud;dq; ya;gp,ac;ap;ap;du;mh;ly;ah;ap;	0
 冷藏组织移植物	leng;ds;ds;dl;fp;ii;wk;uw;dv; cang;ci;ci;cg,ci;zh;ts;lq;ad;cg; zu;sq;sq;sq;eu;vm;if;xe;sq; zhi;sv;sb;sv;ef;vc;ih;xk;sb; yi;hx;hx;hd;uf;hn;xl;tq;hx; zhi;mq;mq;mv;wd,wu;dm;ef;sf;lv; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
 冷超敏性	leng;ds;ds;dl;fp;ii;wk;uw;dv; chao;tk;tk;zv;qo;gr;pd;fh;tk; min;pw;pw;wm;ej;ok;eh;tx;mw; xing;xu;xu;xu;na;pm;hl;nt;xu;	0
-冷地卫矛	leng;ds;ds;dl;fp;ii;wk;uw;dv; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+冷地卫矛	leng;ds;ds;dl;fp;ii;wk;uw;dv; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 冷冻超薄切片术	leng;ds;ds;dl;fp;ii;wk;uw;dv; dong;dd;dd;dd;fi;id;wy;ua;dd; chao;tk;tk;zv;qo;gr;pd;fh;tk; bao;cc;cc;cc,cp;zk;ti;lk;ai;cc; qie;qd;qd;dq,qd;ai;ph;rp;av;qd; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
 冷冻断裂	leng;ds;ds;dl;fp;ii;wk;uw;dv; dong;dd;dd;dd;fi;id;wy;ua;dd; duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh;	0
 冷冻干燥法组织贮存	leng;ds;ds;dl;fp;ii;wk;uw;dv; dong;dd;dd;dd;fi;id;wy;ua;dd; gan;au;au;aa;ss;mj;eg;fg;au; zao;hm;hm;hz;tw;fd;ce;ok;hl; fa;dq;ds;dq;kp;ei;kk;if;dv; zu;sq;sq;sq;eu;vm;if;xe;sq; zhi;sv;sb;sv;ef;vc;ih;xk;sb; zhu;bv;ka;ba;md;bm;of;mp;ba; cun;uz;uz;uz,za;sa;kd;nh;dh;az;	0
@@ -9757,7 +9757,7 @@ use_preset_vocabulary: false
 冷心脏麻痹法	leng;ds;ds;dl;fp;ii;wk;uw;dv; xin;dd;dd;dd;nn;pp;hx;ny;dd; zang;ot;ot;ov;lg;bg;vg;ey;ot; ma;gm;gm;gl;dd;id,ic;zm;ys;gl; bi;bw;bl;bb,bq;mp;kl;al;ul;ba; fa;dq;ds;dq;kp;ei;kk;if;dv;	0
 冷心脏停搏	leng;ds;ds;dl;fp;ii;wk;uw;dv; xin;dd;dd;dd;nn;pp;hx;ny;dd; zang;ot;ot;ov;lg;bg;vg;ey;ot; ting;rd;rd;rt;xj;on;ja;wy;rd; bo;fc;fc;fc,ff;jk;qi;uk;rg;fc;	0
 冷心脏停搏液	leng;ds;ds;dl;fp;ii;wk;uw;dv; xin;dd;dd;dd;nn;pp;hx;ny;dd; zang;ot;ot;ov;lg;bg;vg;ey;ot; ting;rd;rd;rt;xj;on;ja;wy;rd; bo;fc;fc;fc,ff;jk;qi;uk;rg;fc; ye;dw;dn;dy;kh;ek;kv;iy;dy;	0
-棱枝卫矛	leng;mw;mw;ml,mw;wj;de;eh;sf;lw; zhi;mv;my;mv;wl;de;ec;sf;ly; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+棱枝卫矛	leng;mw;mw;ml,mw;wj;de;eh;sf;lw; zhi;mv;my;mv;wl;de;ec;sf;ly; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 棱状巨尿道	leng;mw;mw;ml,mw;wj;de;eh;sf;lw; zhuang;lq;dq;jq,pq,qp;lb;lk;am;ud;dq; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; niao;uu;uu;uu;qo;se;ck;ni;uu; dao;zz;zz;zu;fq;yu;hu;ut;zm;	0
 棱子芹	leng;mw;mw;ml,mw;wj;de;eh;sf;lw; zi;la;va;aa,vh;aa;nd;hi;bb;va; qin;cj;cj;cj;zp;tl;lt;ar;cj;	1
 棱子芹根	leng;mw;mw;ml,mw;wj;de;eh;sf;lw; zi;la;va;aa,vh;aa;nd;hi;bb;va; qin;cj;cj;cj;zp;tl;lt;ar;cj; gen;mg;mg;mg;wh;dv;ei;sv;lh;	0
@@ -10046,7 +10046,7 @@ use_preset_vocabulary: false
 蓼子草	liao;cp;cp;cl,cp;zu;th;le;an;cp; zi;la;va;aa,vh;aa;nd;hi;bb;va; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
 列当	lie;dd;dd;dd;fi;mn;gp;gq;dd; dang;xe;xe;xx;hs;fm;yb;iv;ea;	0
 裂点簇区	lie;dy;dy;yl;fk;mv;gt;gq;dh; dian;vh;lh;hv;pn;yf,xf;yc;hk;ve; cu;vu;vu;vz;nx;hk;ro;ty;vd; qu;kx;kx;ki;dr;sk;nb;aq;kx;	0
-裂果卫矛	lie;dy;dy;yl;fk;mv;gt;gq;dh; guo;tm;ln;ad,tm;vw;wd;qe;js;an; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+裂果卫矛	lie;dy;dy;yl;fk;mv;gt;gq;dh; guo;tm;ln;ad,tm;vw;wd;qe;js;an; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 列联表	lie;dd;dd;dd;fi;mn;gp;gq;dd; lian;et;et;eg;dx;sk;qm;bu;ed; biao;fy;fy;fy;ah;qv;at;ge;ah;	13
 鬣羚骨	lie;ev;av;il,iu;dr;sv;pp;de;iv; ling;ys;ys;yl;fp;ti;gk;ud;ev; gu;go;lo;go,ob,og;cc;bb;fg;me;ao;	0
 鬣羚角	lie;ev;av;il,iu;dr;sv;pp;de;iv; ling;ys;ys;yl;fp;ti;gk;ud;ev; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey;	0
@@ -10231,7 +10231,7 @@ use_preset_vocabulary: false
 柳叶剑蕨	liu;me;me;mm;wb;dl;eb;sq;le; ye;ku;ku;ku;os;rj;dn;kf;ku; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; jue;cq;cr;cj,cq;ze;to;le;ad;cr;	0
 柳叶见血飞	liu;me;me;mm;wb;dl;eb;sq;le; ye;ku;ku;ku;os;rj;dn;kf;ku; jian;ke;ke;ag,ek,ke;pk;bu;ej;mq;av; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; fei;vd;vd;yd;rh;no,xo;cf;nu;vd;	0
 六叶龙胆	liu;wb;wb;wb,dd,db;if;yc;al;uy;wb; ye;ku;ku;ku;os;rj;dn;kf;ku; long;yp;ud;ad;sh;ip;tl;dx;ab; dan;od;oa;od;ld;bm;vf;ej;od;	0
-柳叶卫矛	liu;me;me;mm;wb;dl;eb;sq;le; ye;ku;ku;ku;os;rj;dn;kf;ku; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+柳叶卫矛	liu;me;me;mm;wb;dl;eb;sq;le; ye;ku;ku;ku;os;rj;dn;kf;ku; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 柳叶藓	liu;me;me;mm;wb;dl;eb;sq;le; ye;ku;ku;ku;os;rj;dn;kf;ku; xian;cy;cy;cx;zp;tq;lg;aq;cy;	0
 柳叶亚菊蒿	liu;me;me;mm;wb;dl;eb;sq;le; ye;ku;ku;ku;os;rj;dn;kf;ku; ya;ay;ay;ay;dd;mc;fc;go;ay; ju;cm;cm;cj,cm;zl;td;lp;aq;cm; hao;ck;ck;cg;zo;tb;lg;ay;ck;	0
 留饮	liu;pt;pt;td,tl,lt;uw;hw;bq;qy;pt; yin;uq;ur;uq;ge;no;qe;qn;ur;	1
@@ -12522,7 +12522,7 @@ use_preset_vocabulary: false
 披针骨牌蕨	pi;fp;fy;fp;jl;qe;ur;rh;fy; zhen;ju;ju;ju;ds;oj,xj;zn;qf;ju; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; pai;pu;pu;pb;us;lj;an;th;pu; jue;cq;cr;cj,cq;ze;to;le;ad;cr;	0
 披针叶毛茛	pi;fp;fy;fp;jl;qe;ur;rh;fy; zhen;ju;ju;ju;ds;oj,xj;zn;qf;ju; ye;ku;ku;ku;os;rj;dn;kf;ku; mao;pv;pv;pg;ur;hu;vm;tf;pv; gen;cg;cg;cg;zh;tv;li;av;ch;	0
 披针叶兔耳风	pi;fp;fy;fp;jl;qe;ur;rh;fy; zhen;ju;ju;ju;ds;oj,xj;zn;qf;ju; ye;ku;ku;ku;os;rj;dn;kf;ku; tu;dd;dd;dd;gh;ni;wt;qk;ed; er;ol;aa;aa;dd,du;sj;qe;bg;aa; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
-披针叶卫矛	pi;fp;fy;fp;jl;qe;ur;rh;fy; zhen;ju;ju;ju;ds;oj,xj;zn;qf;ju; ye;ku;ku;ku;os;rj;dn;kf;ku; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+披针叶卫矛	pi;fp;fy;fp;jl;qe;ur;rh;fy; zhen;ju;ju;ju;ds;oj,xj;zn;qf;ju; ye;ku;ku;ku;os;rj;dn;kf;ku; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 痞证	pi;bk;bk;bf;mo;kr;ad;ug;bk; zheng;yv;yv;yv;cr;im;ss;yg;yv;	0
 皮之不存毛将安附焉	pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; zhi;dn;dn;dd;hh;io;ri;pp;dn; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; cun;uz;uz;uz,za;sa;kd;nh;dh;az; mao;pv;pv;pg;ur;hu;vm;tf;pv; jiang;lc;dc;dc,jc,pc;lk;li;ak;uq;dc; an;bn;bn;bn;iy;jv;wb;pv;gn; fu;ec;ec;ef;bw,bk;ni;tk;bw;ec; yan;vh;vh;vh;dn;mf;fc;gh;ve;	0
 皮质醇增多症	pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; zhi;ib;pr;bu,pb;um;ho;xo;rf;pr; chun;yz;yz;yx;pa;md;yh;sg;yz; zeng;to;to;tc;gv;ga;go;fu;to; duo;xx;xx;xx;ff;ni;ll;qq;xx; zheng;bv;bv;bv;mr;km;as;ug;bv;	5
@@ -18215,7 +18215,7 @@ use_preset_vocabulary: false
 五倍子苗	wu;aw;aa;aa;gg;mm;wu;gg;aa; bei;rk;rk;rk,rp;xo;or;jd;wu;rk; zi;la;va;aa,vh;aa;nd;hi;bb;va; miao;ct;ct;ct;zw;tw;lq;al;ct;	0
 勿避险巇	wu;bp;bp;gp;ii;ph;ne;qr;pp; bi;zx;zu;zb,zx;qq;yj;cu;nk;zu; xian;eq;ea;ea,eq;bd;nm;tf;bw;ea; xi;ug;eg;ug,ux;pa;ui;vp;mh;sg;	1
 乌藨连	wu;pa;pa;pa;ud;pm;xu;qn;pa; biao;ch;ch;cb,ch;zn;tf;lc;ay;ce; lian;zi;zi;zi;tq;yq;yu;lp;zi;	0
-无柄卫矛	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; bing;mn;mb;mb;we;db;ej;sg;lb; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+无柄卫矛	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; bing;mn;mb;mb;we;db;ej;sg;lb; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 误差均方	wu;yt;yt;yw;cx;ik;sm;yk;yt; cha;yg;yg;yg;fp;tm;gu;ud;eg; jun;ty;td;ty;gf;gm;gw;fq;td; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	0
 五迟	wu;aw;aa;aa;gg;mm;wu;gg;aa; chi;zi;zi;zi;qq;yo;cu;ny;zi;	5
 五齿剑	wu;aw;aa;aa;gg;mm;wu;gg;aa; chi;vr;vk;vk;rp;yo;lc;hw;va; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
@@ -20185,7 +20185,7 @@ use_preset_vocabulary: false
 牙齿排列	ya;gp,ac;ap;ap;du;mh;ly;ah;ap; chi;vr;vk;vk;rp;yo;lc;hw;va; pai;ff;ff;ff;ju;qy;ur;rd;ff; lie;dd;dd;dd;fi;mn;gp;gq;dd;	29
 牙齿形态学	ya;gp,ac;ap;ap;du;mh;ly;ah;ap; chi;vr;vk;vk;rp;yo;lc;hw;va; xing;kp;kp;pk;uu;mh;fe;ga;kp; tai;tx;tx;xt;xn;kp;mh;dy;tx; xue;xz;xz;dz,zb;ha;fd;kh;ip;ez;	0
 牙齿移植	ya;gp,ac;ap;ap;du;mh;ly;ah;ap; chi;vr;vk;vk;rp;yo;lc;hw;va; yi;hx;hx;hd;uf;hn;xl;tq;hx; zhi;mq;mq;mv;wd,wu;dm;ef;sf;lv;	0
-鸦椿卫矛	ya;yn;yn;ny,yn;dc;mm;lx;ah;yn; chun;mo;mo;mi;wv;da;eo;sd;lo; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+鸦椿卫矛	ya;yn;yn;ny,yn;dc;mm;lx;ah;yn; chun;mo;mo;mi;wv;da;eo;sd;lo; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 鸦葱	ya;yn;yn;ny,yn;dc;mm;lx;ah;yn; cong;cx;cx;cc,cx;zn;tp;lh;aq;cx;	0
 鸭胆	ya;jn;jn;nj,jn;vc;wm;sx;lq;jn; dan;od;oa;od;ld;bm;vf;ej;od;	0
 鸦胆子油口服乳液	ya;yn;yn;ny,yn;dc;mm;lx;ah;yn; dan;od;oa;od;ld;bm;vf;ej;od; zi;la;va;aa,vh;aa;nd;hi;bb;va; you;dy;dy;dy;kp;ew;kd;im;dy; kou;la;la;aa;oo;rr;dk;kk;aa; fu;oy;oy;oy;ll;be;vr;eb;oy; ru;vv;pv;gf,fg;hr;bu;ya;eb;pv; ye;dw;dn;dy;kh;ek;kv;iy;dy;	0
@@ -23501,7 +23501,7 @@ use_preset_vocabulary: false
 紫花杜鹃	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; du;mt;mt;mt;wg;dg;eg;sf;lt; juan;kn;kn;no,ny;oc;rm;dx;ke;kn;	0
 紫花芥子	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; jie;cj;cl;cj;zp;tl,xl;lp;aw;cj; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 紫花络石	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; luo;sk;sk;sg;er,eo;vr;is;xt;sk; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
-紫花卫矛	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+紫花卫矛	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 紫花一炷香	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; yi;aa;aa;aa;dd;mm;fi;g,gg;aa; zhu;hv;hv;hv;tg,ta;fg;cn;oy;hv; xiang;ho;ho;ho;uv;ha;xo;tj;ho;	0
 紫花鱼灯草	zi;vx;vx;sc;ri;yf;si;hx;vx; hua;cb;cb;ch;za;tp;lv;aw;cb; yu;da;da;da;qq;nm;wv;qg;ea; deng;hd;hd;hd;tj;fn;ca;os;hd; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
 自毁性综合征	zi;po;po;pa,po;ss;hu;oi;th;pm; hui;ju;jy;jy,ug;sl;he;pr;va;jy; xing;xu;xu;xu;na;pm;hl;nt;xu; zong;su;sx;sz;ei;vf;if;xp;sx; he;rk;rk;rk;eo;or;jd;wg;rk; zheng;rv;iv;xv;hr;hm;ws;tg;rv;	0
@@ -34188,7 +34188,7 @@ use_preset_vocabulary: false
 二溴甘露醇	er;aa;aa;aa;uu;mm;me;fg;aa; xiu;dq;dq;di;kb;ek;km;it;dq; gan;ca;na,aa;aa,ca;vv;tm;zg;af;aa; lu;yk;yk;yl;yr,yo;mr;ts;fk;yk; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
 二溴甘露醇胶囊	er;aa;aa;aa;uu;mm;me;fg;aa; xiu;dq;dq;di;kb;ek;km;it;dq; gan;ca;na,aa;aa,ca;vv;tm;zg;af;aa; lu;yk;yk;yl;yr,yo;mr;ts;fk;yk; chun;yz;yz;yx;pa;md;yh;sg;yz; jiao;of;ox;oj;ly;bk;vb;eu;ox; nang;gy;ay;ay;dh;jv;nt;gk;ah;	0
 二溴化物	er;aa;aa;aa;uu;mm;me;fg;aa; xiu;dq;dq;di;kb;ek;km;it;dq; hua;rb;rb;rb;xa;op;jv;wx;rb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
-二溴卫矛醇	er;aa;aa;aa;uu;mm;me;fg;aa; xiu;dq;dq;di;kb;ek;km;it;dq; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
+二溴卫矛醇	er;aa;aa;aa;uu;mm;me;fg;aa; xiu;dq;dq;di;kb;ek;km;it;dq; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
 二亚甲基双氧安非他明	er;aa;aa;aa;uu;mm;me;fg;aa; ya;ay;ay;ay;dd;mc;fc;go;ay; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; yang;qy;qy;qy;sp;oq;vg;rn;qy; an;bn;bn;bn;iy;jv;wb;pv;gn; fei;ls;la;aa;pu;ly;rf;dj;aa; ta;ry;ry;ry;xr;od;je;wb;ry; ming;oo;oo;oo;vl;ab;ov;je;oo;	0
 二盐酸氟哌噻吨	er;aa;aa;aa;uu;mm;me;fg;aa; yan;tm;tm;mb;ga;gt;ga;fh;tm; suan;yw;yw;yj,yw;pj;me;yh;sg;yw; fu;qf;qf;qf;sp;on;vt;rn;qf; pai;ky;kn;kp;oh;rv;dt;kr;kh; sai;kt;kt;ks;og;rg;dg;kp;kt; dun;kt;kt;kt;or;ru;ds;kg;kt;	0
 二盐酸奎宁	er;aa;aa;aa;uu;mm;me;fg;aa; yan;tm;tm;mb;ga;gt;ga;fh;tm; suan;yw;yw;yj,yw;pj;me;yh;sg;yw; kui;dt;dt;dg;xg;kg;mg;df;dt; ning;bd;bd;bd;ij;jn;wa;ps;gd;	1
@@ -47267,7 +47267,7 @@ use_preset_vocabulary: false
 毛鞘	mao;pv;pv;pg;ur;hu;vm;tf;pv; qiao;go;go;gx;vl;tb;tv;af;co;	3
 毛蕊花糖	mao;pv;pv;pg;ur;hu;vm;tf;pv; rui;cx;cx;cr,cx;zn;tp;lh;an;cx; hua;cb;cb;ch;za;tp;lv;aw;cb; tang;mk;mk;mt;lo;fr;pd;oy;mk;	0
 毛束草碱	mao;pv;pv;pg;ur;hu;vm;tf;pv; shu;gr;an;ad,mk;df;dl;xs;gk;an; cao;cu;cu;cz;zs;tj;ln;aj;cu; jian;uk;uk;ux;th;mr;md;dd;ug;	0
-矛头蝮蛇毒酶	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; fu;iw;iw;if;fj;le;ch;jt;iw; she;ib;ib;it;fa;lp;cv;jp;ib; du;fm;fm;fm;ah;qi;ak;gx;am; mei;ym;ym;ym;ph;my;yk;sg;ym;	0
+矛头蝮蛇毒酶	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; fu;iw;iw;if;fj;le;ch;jt;iw; she;ib;ib;it;fa;lp;cv;jp;ib; du;fm;fm;fm;ah;qi;ak;gx;am; mei;ym;ym;ym;ph;my;yk;sg;ym;	0
 毛突	mao;pv;pv;pg;ur;hu;vm;tf;pv; tu;bq;bq;xq,bq;ib;jk;em;pw;gq;	0
 毛细管等电聚焦	mao;pv;pv;pg;ur;hu;vm;tf;pv; xi;st;st;st;ew;vw;iq;xl;st; guan;vl;vk;vg;nd;hr;rk;tp;vg; deng;vc;vc;vs;nk;hi;rk;tf;vc; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; ju;eu;en;ed,ey,qd,yq;dh;so;qk;bc;en; jiao;rh;rh;hv,vh;xn;of;uc;wy;re;	0
 毛细管电极	mao;pv;pv;pg;ur;hu;vm;tf;pv; xi;st;st;st;ew;vw;iq;xl;st; guan;vl;vk;vg;nd;hr;rk;tp;vg; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; ji;mj,mn;mj;mj;wh;de;ec;se;lj;	0
@@ -51123,7 +51123,7 @@ use_preset_vocabulary: false
 祛署露	qu;pq;ps;uq;hp;ii;fk;py;pv; shu;so;so;sv;av;wa;yo;lf;so; lu;yk;yk;yl;yr,yo;mr;ts;fk;yk;	0
 祛暑片	qu;pq;ps;uq;hp;ii;fk;py;pv; shu;oo;oo;ov;vv;aa;oo;jf;oo; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	0
 祛暑丸	qu;pq;ps;uq;hp;ii;fk;py;pv; shu;oo;oo;ov;vv;aa;oo;jf;oo; wan;jd;pd;jd,pd;uh;ki;ki;vy;pd;	0
-去水卫矛醇	qu;ts;ts;ts;gp;gi;gk;fc;tv; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
+去水卫矛醇	qu;ts;ts;ts;gp;gi;gk;fc;tv; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
 趋水性	qu;te;te;zi,zx;qs;gm;pb;fh;ta; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; xing;xu;xu;xu;na;pm;hl;nt;xu;	0
 曲司氯铵	qu;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; si;vk;vk;gk,ka;ro;sr;ad;ng;vk; lv;qu;qu;ql;so;oe;vk;rn;qu; an;jn;jn;ja;dy;ov;zb;qp;jn;	0
 曲他胺	qu;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; ta;ry;ry;ry;xr;od;je;wb;ry; an;on;on;oa;ly;bv;vb;ep;on;	0
@@ -57142,8 +57142,8 @@ use_preset_vocabulary: false
 威麦宁胶囊	wei;wn;xn,ad,wn;gn,ng,wn;rh;iv;nb;dg;ng; mai;fw;fw;fw;aj;qe;ah;gt;aw; ning;bd;bd;bd;ij;jn;wa;ps;gd; jiao;of;ox;oj;ly;bk;vb;eu;ox; nang;gy;ay;ay;dh;jv;nt;gk;ah;	0
 胃盲刻宁片	wei;to;to;ot,to;wl;wb;qv;le;to; mang;wo;wo;ow;is;yu;fq;yn;wm; ke;wd;wd;dh;ii;yn;kp;yn;wd; ning;bd;bd;bd;ij;jn;wa;ps;gd; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	0
 微毛	wei;rj;iw;xw;hj,hi;hk;wh;tm;rw; mao;pv;pv;pg;ur;hu;vm;tf;pv;	2
-卫矛醇	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
-卫矛科生物碱	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ke;hd;hu;hd;us;hj;xj;tu;hu; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; wu;nw;nw;nw;bi;hh;qe;tr;nw; jian;uk;uk;ux;th;mr;md;dd;ug;	0
+卫矛醇	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
+卫矛科生物碱	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ke;hd;hu;hd;us;hj;xj;tu;hu; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; wu;nw;nw;nw;bi;hh;qe;tr;nw; jian;uk;uk;ux;th;mr;md;dd;ug;	0
 卫每加	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mei;pm;pm;pm,rm;eh;oi;ek;tx;pm; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk;	0
 卫美佳	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; jia;rt;rt;rg;xg;og;jg;wf;rt;	0
 胃酶解肽	wei;to;to;ot,to;wl;wb;qv;le;to; mei;ym;ym;ym;ph;my;yk;sg;ym; jie;dn;dn;jn;gb;nq;xq;qe;en; tai;ot;ot;ot;lh;bi,xi;vi;ed;ot;	0
@@ -65694,7 +65694,7 @@ use_preset_vocabulary: false
 注射用去甲万古霉素	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; qu;ts;ts;ts;gp;gi;gk;fc;tv; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; wan;av;ap;ag,ap;du;ms;fp;dn;ap; gu;uk;uk;uk;so;jr;cg;dg;uk; mei;ym;ym;ym;yh;my;tk;ft;ym; su;fx;fx;sf,fs;ai;qf;ai;gx;ax;	0
 注射用曲克芦丁	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; qu;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; lu;ch;ch;ch;zq;ts;lm;ay;ch; ding;al;al;aa;jj;mn;ad;sg;av;	0
 注射用曲普瑞林	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; qu;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; pu;bo;bo;ob,bo;fv;ta;ho;uo;eo; rui;we;we;we;ab;mb;nl;gm;we; lin;mm;mm;mm;ww;dd;ee;ss;ll;	0
-注射用去水卫矛醇	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; qu;ts;ts;ts;gp;gi;gk;fc;tv; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
+注射用去水卫矛醇	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; qu;ts;ts;ts;gp;gi;gk;fc;tv; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; chun;yz;yz;yx;pa;md;yh;sg;yz;	0
 注射用绒促性素	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; rong;su;su;sr;es,ea;vj,xj;in;xa;sg; cu;rz;rr;rz;xg;oo;jp;wk;rr; xing;xu;xu;xu;na;pm;hl;nt;xu; su;fx;fx;sf,fs;ai;qf;ai;gx;ax;	0
 注射用绒毛膜促性腺激素	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; rong;su;su;sr;es,ea;vj,xj;in;xa;sg; mao;pv;pv;pg;ur;hu;vm;tf;pv; mo;od;od;om;lx;bk;vm;ea;od; cu;rz;rr;rz;xg;oo;jp;wk;rr; xing;xu;xu;xu;na;pm;hl;nt;xu; xian;ou;ou;oq;lo;be;vk;er;ou; ji;dw;dw;dj,dw;kj;ek;kh;ir;dw; su;fx;fx;sf,fs;ai;qf;ai;gx;ax;	0
 注射用溶媒	zhu;dv;dv;dv;kg,ka;eg;kn;iy;dv; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; rong;dg;dk;dr;ko;er;kh;ip;dk; mei;nm;nm;nm;yw;vd;be;va;nl;	0
@@ -122035,7 +122035,7 @@ use_preset_vocabulary: false
 氯沙坦氢氯噻嗪	lv;qu;qu;ql;so;oe;vk;rn;qu; sha;du;du;du;ki;eh;kt;ii;du; tan;td;ta;td;gd;gm;gf;fj;td; qing;qj;qg;qg;sp;om;vu;rn;qg; lv;qu;qu;ql;so;oe;vk;rn;qu; sai;kt;kt;ks;og;rg;dg;kp;kt; qin;kh;kh;kq;ow;rd;dx;kd;kh;	0
 马破伤风免疫球蛋白	ma;va;va;aa,vh;zz;nm;nm;cn;va; po;up;uy;up;tl;me;mr;dh;uy; shang;rl;rl;rl;xu;os;js;wt;rl; feng;jx;jx;ji;iy;hk;ob;mq;jx; mian;de;dv;de,dm;gk;nu;wp;qk;ev; yi;bu;by;bu;ml;ke;ar;um;by; qiu;wq;wq;wq;ah;me;ni;gf;wq; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi; bai;po;po;pa,po;ss;ha;ub;rr;po;	0
 麦考酚钠	mai;fw;fw;fw;aj;qe;ah;gt;aw; kao;lk;lv;lk;gr;js;qa;ft;uv; fen;yf;yd;yf;pi;mh;yp;sg;yd; na;jn;jn;jn;de;ob;zj;qm;jn;	0
-矛头蝮蛇血凝酶	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; fu;iw;iw;if;fj;le;ch;jt;iw; she;ib;ib;it;fa;lp;cv;jp;ib; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; ning;dz;dr;dy;fe;io;wt;ux;dr; mei;ym;ym;ym;ph;my;yk;sg;ym;	0
+矛头蝮蛇血凝酶	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; fu;iw;iw;if;fj;le;ch;jt;iw; she;ib;ib;it;fa;lp;cv;jp;ib; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; ning;dz;dr;dy;fe;io;wt;ux;dr; mei;ym;ym;ym;ph;my;yk;sg;ym;	0
 美金刚	mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; gang;kd;kd;dg;oi;bn;mp;mq;gd;	5
 美沙拉秦	mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; sha;du;du;du;ki;eh;kt;ii;du; la;fl;fl;fl;jb;qt;ui;ru;fl; qin;ih;fh;hf,fh;uw;qd;ax;dw;ah;	3
 孟鲁司特	meng;zm;zm;mz,zm;aa;nt;ha;bl;zm; lu;yo;ao;yo;qv;na;wo;qg;eo; si;vk;vk;gk,ka;ro;sr;ad;ng;vk; te;nc;nc;ns;bk;hi;qk;tr;nc;	10
@@ -124373,7 +124373,7 @@ use_preset_vocabulary: false
 埋药疗法	mai;tl;tl;tl;gg;gg;gd;fj;tl; yao;cu;cu;cy;zh;ti;li;ax;cu; liao;bl;bl;bl;mp;kn;ar;ub;bl; fa;dq;ds;dq;kp;ei;kk;if;dv;	0
 埋针疗法	mai;tl;tl;tl;gg;gg;gd;fj;tl; zhen;ju;ju;ju;ds;oj,xj;zn;qf;ju; liao;bl;bl;bl;mp;kn;ar;ub;bl; fa;dq;ds;dq;kp;ei;kk;if;dv;	0
 埋植疗法	mai;tl;tl;tl;gg;gg;gd;fj;tl; zhi;mq;mq;mv;wd,wu;dm;ef;sf;lv; liao;bl;bl;bl;mp;kn;ar;ub;bl; fa;dq;ds;dq;kp;ei;kk;if;dv;	0
-矛盾草	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
+矛盾草	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
 毛鸡	mao;pv;pv;pg;ur;hu;vm;tf;pv; ji;yn;yn;ny,yn;lc;em;rx;cq;yn;	9
 卯酉主金	mao;pe;pe;ep,em,me;ub;hl;bm;qt;pe; you;xa;xa,aa;aa;pd;mm;yy;sg;aa; zhu;wt;dw;dw;ig;yg;in;y,yg;wt; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra;	0
 秘传抱龙丸	mi;hb;hb;hb;uu;hh;xt;tn;hb; chuan;rv;rv;rv;xh;oi;ji;wf;rv; bao;fb;fs;fb;jt;qu;uv;rq;fv; long;yp;ud;ad;sh;ip;tl;dx;ab; wan;jd;pd;jd,pd;uh;ki;ki;vy;pd;	0
@@ -129417,4 +129417,3 @@ use_preset_vocabulary: false
 静脉采血	jing;fy;fl;qv;ap;qd;ab;ge;qv; mai;oy;oy;oy;lh;be;vk;ey;oy; cai;vm;pm;mv,vm;hw;bd;ye;es;pl; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm;	18
 亚甲炎	ya;ay;ay;ay;dd;mc;fc;go;ay; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; yan;hh;hh;hh;tt;ff;cc;oo;hh;	2
 优思明	you;ry;ry;ry;xh;ou;jo;wd;ry; si;tx;tx;tx,xt;wn;wp;qh;ln;tx; ming;oo;oo;oo;vl;ab;ov;je;oo;	141
-

@@ -1172,7 +1172,7 @@ sort: by_weight
 按流量	an;fn;fn;fa;jy;qv;ub;rp;fn; liu;di;dv;di;kr;eu;ko;iy;dv; liang;ol;ol;ol;vg;ag;od;jg;dl;	26
 按流量计费	an;fn;fn;fa;jy;qv;ub;rp;fn; liu;di;dv;di;kr;eu;ko;iy;dv; liang;ol;ol;ol;vg;ag;od;jg;dl; ji;yu;yu;yu;cs;ij;sn;yf;yu; fei;fb;fr;bf,fb;rm;lo;to;xj;fr;	13
 唵嘛呢叭咪哞	an;kd;kd;kd,ky;oe;ru;da;kd;kd; ma;km;km;km;od;rd,rc;dz;ky;kl; ne;kb;kb;kn;oa;rp;dv;kn;kb; ba;kb;kb;kb;of;rc,xc;dh;kw;kb; mi;km;km;km;ol;rd;dp;ko;km; mou;kn;kn;km,kn;ob;rq;dq;kc;kn;	8
-暗矛巨魔	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; mo;gg;gg;gm,mg;ds;ii;za;ys;gv;	28
+暗矛巨魔	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; mo;gg;gg;gm,mg;ds;ii;za;ys;gv;	28
 安眉带眼	an;bn;bn;bn;iy;jv;wb;pv;gn; mei;uo;vo;om,uo;qs;au;cq;nh;vm; dai;cj;fj;jb;zy;tb;lr;gk;aj; yan;og;og;og;sh;bv;qi;hv;mh;	1
 暗门子	an;oo;oo;oy;vc;aa;ox;ju;oo; men;dv;dv;dg;oo;ls;am;uy;dv; zi;la;va;aa,vh;aa;nd;hi;bb;va;	4
 按秒计算	an;fn;fn;fa;jy;qv;ub;rp;fn; miao;hu;hu;hu;ui;hh;xt;ti;hu; ji;yu;yu;yu;cs;ij;sn;yf;yu; suan;vc;vc;vc;np;ht;rl;th;va;	9
@@ -11122,7 +11122,7 @@ sort: by_weight
 不咳嗽	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;kr;kr;kh;oe;ro;dk;ky;kr; sou;kq;kr;kq,ku;oe;ro;de;kg;kr;	47
 不咳嗽了	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;kr;kr;kh;oe;ro;dk;ky;kr; sou;kq;kr;kq,ku;oe;ro;de;kg;kr; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	8
 不可调	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;dk;dk;dk;jj;mr;zk;sk;av; tiao;yk;yk;yv;co;ir;sd;ym;yk;	64
-不可调和的矛盾	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;dk;dk;dk;jj;mr;zk;sk;av; tiao;yk;yk;yv;co;ir;sd;ym;yk; he;hk;hk;hk;uo;hr;xd;t,tk;hk; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	160
+不可调和的矛盾	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;dk;dk;dk;jj;mr;zk;sk;av; tiao;yk;yk;yv;co;ir;sd;ym;yk; he;hk;hk;hk;uo;hr;xd;t,tk;hk; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	160
 不可调节	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;dk;dk;dk;jj;mr;zk;sk;av; tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce;	49
 不可同年而语	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;dk;dk;dk;jj;mr;zk;sk;av; tong;kk;kk;kk;oo;br;md;m,mg;ak; nian;pf;pl;ra,pa;es;oq;ev;rh;pa; er;al;al;aa;bb;ml;le;dm;aa; yu;yk;yk;yw;co;ir;sd;yg;yk;	5
 不可同日	bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ke;dk;dk;dk;jj;mr;zk;sk;av; tong;kk;kk;kk;oo;br;md;m,mg;ak; ri;ka;ka;aa,or,ri;vv;aa;or;jj;wa;	5
@@ -16928,7 +16928,7 @@ sort: by_weight
 产生了巨大的影响	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; da;ar;un;ad;xx;kk;md;dd;an; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ying;op;op;pj;vu;ah;oe;jy;op; xiang;kk;kk;kx;oo;rr;dd;kt;kk;	72
 产生了巨大影响	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; da;ar;un;ad;xx;kk;md;dd;an; ying;op;op;pj;vu;ah;oe;jy;op; xiang;kk;kk;kx;oo;rr;dd;kt;kk;	48
 产生了抗体	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; kang;fj;fj;fk;ji;qn;uo;ry;fj; ti;rb;rb;rb;xd;om;jf;ws;rb;	9
-产生了矛盾	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	59
+产生了矛盾	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	59
 产生了浓厚的兴趣	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; nong;dy;dn;dn;kh;ev;kt;ip;dh; hou;iz;iz;iz;ra;md;xh;dj;iz; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xing;xb;xb;ba,db;hf;fc;kh;iw;eb; qu;ty;ty;zq;ql;ge;pr;fh;ty;	125
 产生了误解	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; wu;yt;yt;yw;cx;ik;sm;yk;yt; jie;dn;dn;jn;gb;nq;xq;qe;en;	40
 产生了兴趣	chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; xing;xb;xb;ba,db;hf;fc;kh;iw;eb; qu;ty;ty;zq;ql;ge;pr;fh;ty;	250
@@ -17847,12 +17847,12 @@ sort: by_weight
 长螺旋	chang;pn;pn;pd;uh;po;pc;ta;pn; luo;ix;ix;il;fi;lf;ci;jl;ix; xuan;fz;fr;fp;fe;yo;lt;yt;fr;	1
 长螺旋钻机	chang;pn;pn;pd;uh;po;pc;ta;pn; luo;ix;ix;il;fi;lf;ci;jl;ix; xuan;fz;fr;fp;fe;yo;lt;yt;fr; zuan;jv;jk;jv;do;or;zd;qh;jk; ji;mj;mj;mj;wi;dn;eo;sm;lj;	1
 长马甲	chang;pn;pn;pd;uh;po;pc;ta;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	7
-长矛兵	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;qb;qb;qb;uf;oc;th;rg;qb;	20
+长矛兵	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;qb;qb;qb;uf;oc;th;rg;qb;	20
 长毛地毯	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; tan;mh;mh;my;ut;hf;vc;tf;mh;	2
 长毛发	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy;	3
 长毛怪	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; guai;xt;xt;xu;ng;pg;hg;nc;xt;	3
 长毛犬	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; quan;dd;dd;dd,ad;bb;ik;mq;dg;dd;	2
-长矛手	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	27
+长矛手	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	27
 长毛衣	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; yi;wy;wy;dd;kk;yv;ti;ye;wh;	8
 长毛猪	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; zhu;qo;qo;qv;bv;ka;mo;qt;qo;	3
 长眉毛	chang;pn;pn;pd;uh;po;pc;ta;pn; mei;uo;vo;om,uo;qs;au;cq;nh;vm; mao;pv;pv;pg;ur;hu;vm;tf;pv;	18
@@ -22251,7 +22251,7 @@ sort: by_weight
 重重机关	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; ji;mj;mj;mj;wi;dn;eo;sm;lj; guan;bt;bt;bt,qd;fx;tk;hm;ud;et;	11
 重重考验	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; kao;lk;lv;lk;gr;js;qa;ft;uv; yan;mq;ma;ma,mq;zd;nm;nf;cw;ma;	43
 重重困境	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; kun;km;km;km;nw;wd,xd;re;ls;wl; jing;te;te;tj;gk;gu;gp;fu;te;	8
-重重矛盾	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	10
+重重矛盾	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	10
 重重迷雾	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mi;zm;zm;zm;lq;yd;pu;op;zm; wu;yl;yl;yw;yu;ms;ts;ft;yl;	42
 重重磨难	chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; chong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mo;gu;gu;mu,um;dt;ir;zm;ys;gk; nan;yv;yf;yv;la;eg;ru;cw;ya;	19
 充充气	chong;wy;we;dy,es,wy;ik;yu;bp;yc;we; chong;wy;we;dy,es,wy;ik;yu;bp;yc;we; qi;pv;pv;py,ry;ss;on,xn;vq;rn;pv;	2
@@ -28684,7 +28684,7 @@ sort: by_weight
 打弹子	da;fd;fd;fd;jj;qn;ua;rs;fd; dan;gu;gl;gd;rs;nj;bn;xu;gd; zi;la;va;aa,vh;aa;nd;hi;bb;va;	3
 搭档关系	da;fk;fk;fd,fh;jo;qr;ud;ra;fk; dang;me;me;md;ws;dm;eb;si;ld; guan;bt;bt;bt,qd;fx;tk;hm;ud;et; xi;px;px;ps;ui;hf;ti;tx;px;	8
 大道不孤	da;ar;un;ad;xx;kk;md;dd;an; dao;zz;zz;zu;fq;yu;hu;ut;zm; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; gu;zg;zg;zg;ah;no;hy;br;zg;	1
-大刀长矛	da;ar;un;ad;xx;kk;md;dd;an; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	29
+大刀长矛	da;ar;un;ad;xx;kk;md;dd;an; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	29
 大道朝天	da;ar;un;ad;xx;kk;md;dd;an; dao;zz;zz;zu;fq;yu;hu;ut;zm; chao;uo;uo;ou,uo;sl;jb;nv;fj;uo; tian;ad;ad;ad;ue;mk;fm;gd;ad;	2
 达到高峰	da;zd;zd;zd;xq;yk,xk;mu;dp;zd; dao;gd;ad;dv;di;mn;yp;gc;vd; gao;wk;wk;wk;io;yr;gg;ym;wk; feng;uf;ef;uf;pa;uj;va;mt;sf;	109
 大刀阔斧地	da;ar;un;ad;xx;kk;md;dd;an; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; kuo;mu;mk;mh;oo;lr;aa;ui;mk; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj; de;ty;ty;ty;gr,ga;gd;ge;f,fb;ty;	90
@@ -44190,6 +44190,7 @@ sort: by_weight
 二者之一	er;aa;aa;aa;uu;mm;me;fg;aa; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; zhi;dn;dn;dd;hh;io;ri;pp;dn; yi;aa;aa;aa;dd;mm;fi;g,gg;aa;	10
 而这种力量	er;al;al;aa;bb;ml;le;dm;aa; zhe;zw;zw;zw;jq;yk;vu;p,yp;zx; zhong;hv;hv;hv;up;hl;xg;tk;hv; li;vp;vp;gp;uu;ks;sl;lt;vp; liang;ol;ol;ol;vg;ag;od;jg;dl;	9
 二周目	er;aa;aa;aa;uu;mm;me;fg;aa; zhou;kk;kk;kj,kk;oo,uo;br;md;mf;pk; mu;ke;ka;aa,om,mu;ss;bu;qm;hh;we;	546
+多周目	er;xx;xx;xx;ff;ni;ll;qq;xx; zhou;kk;kk;kj,kk;oo,uo;br;md;mf;pk; mu;ke;ka;aa,om,mu;ss;bu;qm;hh;we;	211
 二柱子	er;aa;aa;aa;uu;mm;me;fg;aa; zhu;mv;mv;mv;wa,wg;dg;en;sy;lv; zi;la;va;aa,vh;aa;nd;hi;bb;va;	76
 儿子成长	er;pv;pv;pg;kk;lu;pe;qt;pv; zi;la;va;aa,vh;aa;nd;hi;bb;va; cheng;wv;wv;gg,wg;rh;is;na;dn;vg; zhang;pn;pn;pd;uh;po;pc;ta;pn;	8
 儿子大了	er;pv;pv;pg;kk;lu;pe;qt;pv; zi;la;va;aa,vh;aa;nd;hi;bb;va; da;ar;un;ad;xx;kk;md;dd;an; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	8
@@ -44672,7 +44673,7 @@ sort: by_weight
 发生了交通事故	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; jiao;wf;wx;li,wf,df;iy;yk;ab;uq;wx; tong;zy;zy;zy;pq;yb;ku;ce;zy; shi;gy;al;aa;dp;jn;fb;gk;av; gu;gw;uw;wg;sj;jk;ch;dt;uw;	20
 发生了巨大的变化	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; da;ar;un;ad;xx;kk;md;dd;an; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; bian;wy;wy;wy,yy;il;ye;zr;yo;wy; hua;rb;rb;rb;xa;op;jv;wx;rb;	125
 发生了口角	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; kou;la;la;aa;oo;rr;dk;kk;aa; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey;	17
-发生了矛盾	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	35
+发生了矛盾	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	35
 发生了啥	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; sha;kg;kk;ku;oo;rr,xr;da;kw;kk;	82
 发生了什么情况	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; shen;ru;ru;ru;xs;oj;jn;wf;ru; me;ps;ps;ps;up;hi;tk;tc;pv; qing;xo;xo;xq;nl;pb;hv;ng;xo; kuang;dx;de;dx;fk;iu;wp;uk;de;	18
 发生了什么事	fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; shen;ru;ru;ru;xs;oj;jn;wf;ru; me;ps;ps;ps;up;hi;tk;tc;pv; shi;gy;al;aa;dp;jn;fb;gk;av;	289
@@ -48723,7 +48724,7 @@ sort: by_weight
 复仇者联盟一	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; lian;et;et;eg;dx;sk;qm;bu;ed; meng;om;om;mm;va;at;oa;je;om; yi;aa;aa;aa;dd;mm;fi;g,gg;aa;	11
 复仇者系列	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; xi;px;px;ps;ui;hf;ti;tx;px; lie;dd;dd;dd;fi;mn;gp;gq;dd;	16
 复仇之魂	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; zhi;dn;dn;dd;hh;io;ri;pp;dn; hun;yg;eg;gy,yg;us;mi;ba;fc;ev;	27
-复仇之矛	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	3
+复仇之矛	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	3
 付出惨重代价	fu;rc;rc;rc;ww,xk;oi;jk;wf;rc; chu;uu;vk;ck,aa;pp;uu;sm;bm;va; can;xp;xp;xc;nu;ph;he;nc;xp; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; dai;ry;ry;ry;xa;op;jp;wa;rg; jia;rj;rl;rj;xp;ol;jp;ww;rj;	19
 付出惨重的代价	fu;rc;rc;rc;ww,xk;oi;jk;wf;rc; chu;uu;vk;ck,aa;pp;uu;sm;bm;va; can;xp;xp;xc;nu;ph;he;nc;xp; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; dai;ry;ry;ry;xa;op;jp;wa;rg; jia;rj;rl;rj;xp;ol;jp;ww;rj;	27
 付出沉重代价	fu;rc;rc;rc;ww,xk;oi;jk;wf;rc; chu;uu;vk;ck,aa;pp;uu;sm;bm;va; chen;dj;dj;dj,dr;ki;en,eu,xu;ko;ip;dj; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; dai;ry;ry;ry;xa;op;jp;wa;rg; jia;rj;rl;rj;xp;ol;jp;ww;rj;	21
@@ -53834,7 +53835,7 @@ sort: by_weight
 根本就无法理解	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; jiu;wy;wy;yj;ih;yu;go;yi;wy; wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; li;wl;wl;wl;ag;mg;nd;gj;wl; jie;dn;dn;jn;gb;nq;xq;qe;en;	3
 根本来不及	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; lai;am;an;am,wb;uf,ef;dt;ah;go;an; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ji;pn;pn;nd,pd;uh;ne;cj;ey;pn;	253
 根本买不起	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; mai;ad;vd;at,vt;rx;nk;am;nu;vd; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; qi;tj;tj;zj;qt;gu;pv;fh;tj;	52
-根本矛盾	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	103
+根本矛盾	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	103
 根本没	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; mei;du;dy;du;kl;ee;kr;im;dy;	2934
 根本没办法	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; mei;du;dy;du;kl;ee;kr;im;dy; ban;lb;ld;lb;uf;kc;sh;lw;ld; fa;dq;ds;dq;kp;ei;kk;if;dv;	472
 根本没必要	gen;mg;mg;mg;wh;dv;ei;sv;lh; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; mei;du;dy;du;kl;ee;kr;im;dy; bi;xp;dd;dd,xp;nu;ph;ht;nt;dd; yao;xn;xn;xn;py;mv;vb;s,sv;xn;	348
@@ -67000,7 +67001,7 @@ sort: by_weight
 花洁夫人	hua;cb;cb;ch;za;tp;lv;aw;cb; jie;dk;dk;dj;ko;er;kd;if;dk; fu;er;an;ad,er;ee;qo;hf;fw;an; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	5
 化解了	hua;rb;rb;rb;xa;op;jv;wx;rb; jie;dn;dn;jn;gb;nq;xq;qe;en; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	303
 化解了尴尬	hua;rb;rb;rb;xa;op;jv;wx;rb; jie;dn;dn;jn;gb;nq;xq;qe;en; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; gan;ym;ym,um;yj;sa;kt;oa;dn;am; ga;yj;yl,ul;yj;sp;kl;op;dn;aj;	13
-化解了矛盾	hua;rb;rb;rb;xa;op;jv;wx;rb; jie;dn;dn;jn;gb;nq;xq;qe;en; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	5
+化解了矛盾	hua;rb;rb;rb;xa;op;jv;wx;rb; jie;dn;dn;jn;gb;nq;xq;qe;en; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	5
 化解重大风险	hua;rb;rb;rb;xa;op;jv;wx;rb; jie;dn;dn;jn;gb;nq;xq;qe;en; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; feng;jx;jx;ji;iy;hk;ob;mq;jx; xian;eq;ea;ea,eq;bd;nm;tf;bw;ea;	1
 花金币	hua;cb;cb;ch;za;tp;lv;aw;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; bi;pj;pj;pj;uy;hb;tr;tm;pj;	13
 划进去	hua;gd;gd;dg,gd;ai;in;pp;aj;gd; jin;zj;zj;zj;uq;yt;qu;fj;zj; qu;ts;ts;ts;gp;gi;gk;fc;tv;	3
@@ -68055,7 +68056,7 @@ sort: by_weight
 环印城	huan;wb;wb;wb;ah;mf;nc;gg;wb; yin;pe;pe;ey,pe;ub;hl;bz;qg;pe; cheng;ti;ti;ti;gh;gs;ga;fd;tg;	20
 欢迎参观	huan;yq;yr;yq;le;eo;re;cq;yr; ying;ze;ze;ze;uq;yl;bu;qb;ze; can;sp;sp;sp;pu;ih;ke;cd;vp; guan;yj;ye;jy,yj;lk;eu;re;cm;yj;	14
 欢迎参加	huan;yq;yr;yq;le;eo;re;cq;yr; ying;ze;ze;ze;uq;yl;bu;qb;ze; can;sp;sp;sp;pu;ih;ke;cd;vp; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk;	53
-幻影长矛手	huan;yv;yv;yg;rr;vs,xs;ia;xn;sv; ying;op;op;pj;vu;ah;oe;jy;op; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	10
+幻影长矛手	huan;yv;yv;yg;rr;vs,xs;ia;xn;sv; ying;op;op;pj;vu;ah;oe;jy;op; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	10
 幻影刺客	huan;yv;yv;yg;rr;vs,xs;ia;xn;sv; ying;op;op;pj;vu;ah;oe;jy;op; ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk;	120
 欢迎的态度	huan;yq;yr;yq;le;eo;re;cq;yr; ying;ze;ze;ze;uq;yl;bu;qb;ze; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; tai;tx;tx;xt;xn;kp;mh;dy;tx; du;gy;gy;gy;rl;ie;xr;ya;gy;	7
 欢迎订阅	huan;yq;yr;yq;le;eo;re;cq;yr; ying;ze;ze;ze;uq;yl;bu;qb;ze; ding;yd;yd;yd;cj;in;sa;ys;yd; yue;mx;me;md;ok;lu;ap;uu;me;	87
@@ -73654,7 +73655,7 @@ sort: by_weight
 家校联动	jia;bu;bu;bu;ih;jo;wj;pe;gn; xiao;mf;mx;mj;wy;dk;eb;su;lx; lian;et;et;eg;dx;sk;qm;bu;ed; dong;yl;el;ly,yl;uu;ms;bs;fc;el;	1
 家校联合	jia;bu;bu;bu;ih;jo;wj;pe;gn; xiao;mf;mx;mj;wy;dk;eb;su;lx; lian;et;et;eg;dx;sk;qm;bu;ed; he;rk;rk;rk;eo;or;jd;wg;rk;	2
 家校联系	jia;bu;bu;bu;ih;jo;wj;pe;gn; xiao;mf;mx;mj;wy;dk;eb;su;lx; lian;et;et;eg;dx;sk;qm;bu;ed; xi;px;px;ps;ui;hf;ti;tx;px;	6
-家校矛盾	jia;bu;bu;bu;ih;jo;wj;pe;gn; xiao;mf;mx;mj;wy;dk;eb;su;lx; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	3
+家校矛盾	jia;bu;bu;bu;ih;jo;wj;pe;gn; xiao;mf;mx;mj;wy;dk;eb;su;lx; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	3
 驾校排名	jia;lm;lm;mj;uz;km;sn;lk;lm; xiao;mf;mx;mj;wy;dk;eb;su;lx; pai;ff;ff;ff;ju;qy;ur;rd;ff; ming;xk;xk;xk;fo;nr;ld;qk;xk;	1
 家校配合	jia;bu;bu;bu;ih;jo;wj;pe;gn; xiao;mf;mx;mj;wy;dk;eb;su;lx; pei;yj;yj;yj;pt;mu;yv;sg;yj; he;rk;rk;rk;eo;or;jd;wg;rk;	12
 驾校培训	jia;lm;lm;mj;uz;km;sn;lk;lm; xiao;mf;mx;mj;wy;dk;eb;su;lx; pei;tk;tk;tk,tp;go;gr;gd;fu;tk; xun;yi;yi;yi;cp;il;so;yk;yi;	6
@@ -77208,7 +77209,7 @@ sort: by_weight
 解决一下吧	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; yi;aa;aa;aa;dd;mm;fi;g,gg;aa; xia;ab;ab;ab,ad;dh;my;fy;gh;ab; ba;kb;kb;kb;ot;ru;dm;kc;kb;	3
 解决一些问题	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; yi;aa;aa;aa;dd;mm;fi;g,gg;aa; xie;ve;ve;ec;ru;ym;sm;hx;ve; wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or;	82
 解决执行难	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; zhi;fw;fw;fw;jh;qi;ui;rv;fw; xing;rd;ii;xd,xi;hs;hn;px;tf;rd; nan;yv;yf;yv;la;eg;ru;cw;ya;	6
-解决重大矛盾	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	2
+解决重大矛盾	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	2
 解决重大问题	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or;	2
 解决住宿	jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn; zhu;rv;rv;rv;xa,xg;og;jn;wy;rv; su;bb;bb;bb;is,io;ja;wu;pw;go;	7
 揭开了面纱	jie;fr;fv;fh;jr;qv;uf;rj;fv; kai;ac;ac;ac;up;mt;fl;ga;aa; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mian;ao;aa;aa;dd;ml;bm;dm;aa; sha;su;su;su;ei;vh;it;xi;su;	6
@@ -97175,13 +97176,13 @@ sort: by_weight
 猫丢了呀	mao;qt;qt;qm;bw;kw;mq;qt;qt; diu;pq;ps;pq,ps;up;hi;tk;tf;pv; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ya;ky;ky;ky;ou;rh;dl;ka;ky;	1
 毛都没有	mao;pv;pv;pg;ur;hu;vm;tf;pv; dou;le;le;ev;gb;jl;qt;ft;ue; mei;du;dy;du;kl;ee;kr;im;dy; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao;	91
 毛都没长齐	mao;pv;pv;pg;ur;hu;vm;tf;pv; dou;le;le;ev;gb;jl;qt;ft;ue; mei;du;dy;du;kl;ee;kr;im;dy; zhang;pn;pn;pd;uh;po;pc;ta;pn; qi;wl;wl;wa,wp;jp;yl;qq;yj;wa;	16
-矛盾的地方	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	116
-矛盾关系	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; guan;bt;bt;bt,qd;fx;tk;hm;ud;et; xi;px;px;ps;ui;hf;ti;tx;px;	62
-矛盾规律	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; gui;fj;fe;fj,jf;ek;qu;he;fw;fj; lv;ry;iy;xy;hp;hq;wb;tv;ra;	10
-矛盾纠纷	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; jiu;sj;sl;sj;ep;vl;ii;xn;sa; fen;sf;sd;sf;ei;vh;ip;xw;sd;	21
-矛盾了	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	188
-矛盾调处	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; tiao;yk;yk;yv;co;ir;sd;ym;yk; chu;wb;wb;wb;jh;ho,hy,xy;hy;th;wb;	1
-矛盾通往	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; tong;zy;zy;zy;pq;yb;ku;ce;zy; wang;rv;iv;xv;ha,hg;hg;wn;ty;rv;	1
+矛盾的地方	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	116
+矛盾关系	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; guan;bt;bt;bt,qd;fx;tk;hm;ud;et; xi;px;px;ps;ui;hf;ti;tx;px;	62
+矛盾规律	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; gui;fj;fe;fj,jf;ek;qu;he;fw;fj; lv;ry;iy;xy;hp;hq;wb;tv;ra;	10
+矛盾纠纷	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; jiu;sj;sl;sj;ep;vl;ii;xn;sa; fen;sf;sd;sf;ei;vh;ip;xw;sd;	21
+矛盾了	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	188
+矛盾调处	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; tiao;yk;yk;yv;co;ir;sd;ym;yk; chu;wb;wb;wb;jh;ho,hy,xy;hy;th;wb;	1
+矛盾通往	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; tong;zy;zy;zy;pq;yb;ku;ce;zy; wang;rv;iv;xv;ha,hg;hg;wn;ty;rv;	1
 茅盾文学奖得主	mao;cm;cp;cm;zu;th;lt;ac;cm; dun;io;po;po;us;hu;xq;rf;pm; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx; xue;xz;xz;dz,zb;ha;fd;kh;ip;ez; jiang;ld;dd;dx;lx;lk;am;uq;dd; de;rc;ic;xc;hk;hi;wk;tj;rc; zhu;wt;dw;dw;ig;yg;in;y,yg;wt;	2
 猫儿山	mao;qt;qt;qm;bw;kw;mq;qt;qt; er;pv;pv;pg;kk;lu;pe;qt;pv; shan;kl;lk;aa;pp;uu;vs;mm;aa;	38
 毛发长	mao;pv;pv;pg;ur;hu;vm;tf;pv; fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; chang;pn;pn;pd;uh;po;pc;ta;pn;	1
@@ -97290,7 +97291,7 @@ sort: by_weight
 冒天下之不韪	mao;oo;ko,oo;oo;vs;au;oq;jh;am; tian;ad;ad;ad;ue;mk;fm;gd;ad; xia;ab;ab;ab,ad;dh;my;fy;gh;ab; zhi;dn;dn;dd;hh;io;ri;pp;dn; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; wei;ow;ow;uw,wu;vp;as;og;jg;ow;	2
 毛头小鹰	mao;pv;pv;pg;ur;hu;vm;tf;pv; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; xiao;lb;ld;ad;ii;nc;yx;ih;vd; ying;gn;gn;gn,nv;rc;im;xx;yw;gn;	1
 猫头夜鹰	mao;qt;qt;qm;bw;kw;mq;qt;qt; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; ye;ww;wn;wd,ww;ih;yk;zv;yw;wn; ying;gn;gn;gn,nv;rc;im;xx;yw;gn;	5
-矛头指向	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhi;fo;fo;fv;jv;qa;uo;rx;fo; xiang;pk;pk;pk;uo;hr;td;tm;pk;	206
+矛头指向	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhi;fo;fo;fv;jv;qa;uo;rx;fo; xiang;pk;pk;pk;uo;hr;td;tm;pk;	206
 毛乌素沙漠	mao;pv;pv;pg;ur;hu;vm;tf;pv; wu;pa;pa;pa;ud;pm;xu;qn;pa; su;fx;fx;sf,fs;ai;qf;ai;gx;ax; sha;du;du;du;ki;eh;kt;ii;du; mo;dd;dd;dm;kx;ek;km;ia;dd;	86
 茅屋为秋风所破	mao;cm;cp;cm;zu;th;lt;ac;cm; wu;ut;ut;uv;qg;sg;cy;ng;ut; wei;ld;dd;dd;uu;ii;ii;o,yl;dd; qiu;hh;hh;hh;ut;hf;xc;to;hh; feng;jx;jx;ji;iy;hk;ob;mq;jx; suo;hj;pj;hj,jh;up;hl;mt;rn;pj; po;up;uy;up;tl;me;mr;dh;uy;	5
 茅屋为秋风所破歌	mao;cm;cp;cm;zu;th;lt;ac;cm; wu;ut;ut;uv;qg;sg;cy;ng;ut; wei;ld;dd;dd;uu;ii;ii;o,yl;dd; qiu;hh;hh;hh;ut;hf;xc;to;hh; feng;jx;jx;ji;iy;hk;ob;mq;jx; suo;hj;pj;hj,jh;up;hl;mt;rn;pj; po;up;uy;up;tl;me;mr;dh;uy; ge;kq;dr;qg;je;mo;ze;sk;gr;	40
@@ -98931,7 +98932,7 @@ sort: by_weight
 没毛病啊	mei;du;dy;du;kl;ee;kr;im;dy; mao;pv;pv;pg;ur;hu;vm;tf;pv; bing;bn;bb;bb;me;kb;aj;ug;bb; a;kk;kk;ka;oj;rr;dz;kb;kk;	108
 没毛病吧	mei;du;dy;du;kl;ee;kr;im;dy; mao;pv;pv;pg;ur;hu;vm;tf;pv; bing;bn;bb;bb;me;kb;aj;ug;bb; ba;kb;kb;kb;ot;ru;dm;kc;kb;	149
 美貌度	mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; mao;ve;ve;ve,vm;uk;bu;mp;ee;pe; du;gy;gy;gy;rl;ie;xr;ya;gy;	7
-没矛盾	mei;du;dy;du;kl;ee;kr;im;dy; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	21
+没矛盾	mei;du;dy;du;kl;ee;kr;im;dy; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	21
 眉毛生长	mei;uo;vo;om,uo;qs;au;cq;nh;vm; mao;pv;pv;pg;ur;hu;vm;tf;pv; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; zhang;pn;pn;pd;uh;po;pc;ta;pn;	52
 美貌与智慧	mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; mao;ve;ve;ve,vm;uk;bu;mp;ee;pe; yu;va;aa;aa;dd;ym;ff;gn;aa; zhi;uo;uo;ov;ev;oa;oo;td;uo; hui;fx;fx;xh,fx;an;qp;ah;dh;fx;	12
 美貌与智慧并存	mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; mao;ve;ve;ve,vm;uk;bu;mp;ee;pe; yu;va;aa;aa;dd;ym;ff;gn;aa; zhi;uo;uo;ov;ev;oa;oo;td;uo; hui;fx;fx;xh,fx;an;qp;ah;dh;fx; bing;bk;bk;bk,qc;fp;tt,xt;hl;ua;ek; cun;uz;uz;uz,za;sa;kd;nh;dh;az;	10
@@ -106322,14 +106323,14 @@ sort: by_weight
 闹来闹去	nao;mj;mj;mu;oy;lb;ar;uy;mj; lai;am;an;am,wb;uf,ef;dt;ah;go;an; nao;mj;mj;mu;oy;lb;ar;uy;mj; qu;ts;ts;ts;gp;gi;gk;fc;tv;	13
 闹了半天	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ban;bf;dl;bf;fp;fq;hu;uf;da; tian;ad;ad;ad;ue;mk;fm;gd;ad;	27
 闹了个大乌龙	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ge;rl;rl;ra,pa;ep;ol,xl;jg;wh;ra; da;ar;un;ad;xx;kk;md;dd;an; wu;pa;pa;pa;ud;pm;xu;qn;pa; long;yp;ud;ad;sh;ip;tl;dx;ab;	2
-闹了矛盾	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	41
+闹了矛盾	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	41
 挠了挠头	nao;fw;fw;fy;jk;qu;up;ra;fe; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; nao;fw;fw;fy;jk;qu;up;ra;fe; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	110
 闹了起来	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; qi;tj;tj;zj;qt;gu;pv;fh;tj; lai;am;an;am,wb;uf,ef;dt;ah;go;an;	17
 闹了乌龙	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; wu;pa;pa;pa;ud;pm;xu;qn;pa; long;yp;ud;ad;sh;ip;tl;dx;ab;	9
 闹了笑话	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; xiao;vy;vy;vy;nx;hk;rm;tt;vy; hua;yu;yk;yu;co;ir;sa;yt;yk;	30
 闹了一场	nao;mj;mj;mu;oy;lb;ar;uy;mj; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; yi;aa;aa;aa;dd;mm;fi;g,gg;aa; chang;tp;tp;ty;gu;gh;ge;fn;tp;	10
 脑力风暴	nao;ox;ok;ox;lp;bk;vm;ey;ox; li;vp;vp;gp;uu;ks;sl;lt;vp; feng;jx;jx;ji;iy;hk;ob;mq;jx; bao;ou;ou;ou;vo;ae;ok;ja;ou;	7
-闹矛盾了	nao;mj;mj;mu;oy;lb;ar;uy;mj; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	29
+闹矛盾了	nao;mj;mj;mu;oy;lb;ar;uy;mj; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	29
 脑门上	nao;ox;ok;ox;lp;bk;vm;ey;ox; men;dv;dv;dg;oo;ls;am;uy;dv; shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa;	252
 闹明白	nao;mj;mj;mu;oy;lb;ar;uy;mj; ming;oo;oo;oo;vl;ab;ov;je;oo; bai;po;po;pa,po;ss;ha;ub;rr;po;	16
 闹哪样	nao;mj;mj;mu;oy;lb;ar;uy;mj; na;ke;ke;kn;ob;rl;dt;kv;ke; yang;my;my;my;wp;dq;eg;su;ly;	91
@@ -120839,7 +120840,7 @@ sort: by_weight
 人的一天	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yi;aa;aa;aa;dd;mm;fi;g,gg;aa; tian;ad;ad;ad;ue;mk;fm;gd;ad;	36
 人的长相	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zhang;pn;pn;pd;uh;po;pc;ta;pn; xiang;mo;mo;mo;ws;du;eq;sh;lm;	104
 人地关系	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; guan;bt;bt;bt,qd;fx;tk;hm;ud;et; xi;px;px;ps;ui;hf;ti;tx;px;	22
-人地矛盾	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	32
+人地矛盾	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	32
 认定你了	ren;yr;yr;yr;ce;io;sj;yw;yr; ding;bz;br;bp;ie;jo;wt;pg;gr; ni;rx;rx;re;xi;of;jy;wq;rx; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	2
 认定书	ren;yr;yr;yr;ce;io;sj;yw;yr; ding;bz;br;bp;ie;jo;wt;pg;gr; shu;vd;vd;ad,vd;rh;is;ai;nn;vd;	214
 人都会	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; dou;le;le;ev;gb;jl;qt;ft;ue; hui;ry;rs;ry;ep;oi;jb;wf;rv;	548
@@ -140586,7 +140587,7 @@ sort: by_weight
 所有角色	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; jue;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; se;db;db;db;gt;nu;xm;qc;eb;	368
 所有快乐	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; kuai;xg;xg;xd,xg;nx;pk;hj;nn;xn; le;px;pd;pd,px;ui;hd;by;qi;pd;	10
 所有联系人	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; lian;et;et;eg;dx;sk;qm;bu;ed; xi;px;px;ps;ui;hf;ti;tx;px; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	5
-所有矛头	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	3
+所有矛头	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	3
 所有明亮的地方	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; ming;oo;oo;oo;vl;ab;ov;je;oo; liang;wj;wj;wj,jb;ii;yn,yu;go;yp;wj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	1
 所有命运赠送的礼物	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; ming;re;re;re;eb;ol;jz;wg;re; yun;zy;zs;zy;uq;yi;bu;fc;zv; zeng;bo;ko;bc;mv;ba;oo;mu;bo; song;zt;zt;zg;fq;yk;hu;ud;zd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; li;pv;pv;ug;hr;iu;fa;py;pv; wu;nw;nw;nw;bi;hh;qe;tr;nw;	28
 所有模型	suo;hj;pj;hj,jh;up;hl;mt;rn;pj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; mo;md;md;mm;wx;dk;em;sa;ld; xing;kt;kt;tx;ug;mg;fg;ga;kt;	31
@@ -144844,8 +144845,8 @@ sort: by_weight
 调节灵敏度	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; min;pw;pw;wm;ej;ok;eh;tx;mw; du;gy;gy;gy;rl;ie;xr;ya;gy;	7
 调节流量	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce; liu;di;dv;di;kr;eu;ko;iy;dv; liang;ol;ol;ol;vg;ag;od;jg;dl;	3
 调节螺丝	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce; luo;ix;ix;il;fi;lf;ci;jl;ix; si;sa;va;aa;ee;vm;ii;xx;ss;	6
-调解矛盾	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;dn;dn;jn;gb;nq;xq;qe;en; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	9
-调解矛盾纠纷	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;dn;dn;jn;gb;nq;xq;qe;en; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; jiu;sj;sl;sj;ep;vl;ii;xn;sa; fen;sf;sd;sf;ei;vh;ip;xw;sd;	1
+调解矛盾	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;dn;dn;jn;gb;nq;xq;qe;en; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	9
+调解矛盾纠纷	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;dn;dn;jn;gb;nq;xq;qe;en; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; jiu;sj;sl;sj;ep;vl;ii;xn;sa; fen;sf;sd;sf;ei;vh;ip;xw;sd;	1
 调节门	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce; men;dv;dv;dg;oo;ls;am;uy;dv;	1
 调节免疫	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce; mian;de;dv;de,dm;gk;nu;wp;qk;ev; yi;bu;by;bu;ml;ke;ar;um;by;	36
 调节免疫功能	tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce; mian;de;dv;de,dm;gk;nu;wp;qk;ev; yi;bu;by;bu;ml;ke;ar;um;by; gong;gl;gl;gl,lg;pu;ms;us;al;gl; neng;sb;sb;sb;pa;ip;kv;ce;vb;	7
@@ -152269,7 +152270,7 @@ sort: by_weight
 问题不大	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; da;ar;un;ad;xx;kk;md;dd;an;	2728
 问题大了	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; da;ar;un;ad;xx;kk;md;dd;an; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	33
 问题得到解决	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; de;rc;ic;xc;hk;hi;wk;tj;rc; dao;gd;ad;dv;di;mn;yp;gc;vd; jie;dn;dn;jn;gb;nq;xq;qe;en; jue;dg;dg;dd,dg;fx;ik;wj;un;dn;	46
-问题的矛盾	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	8
+问题的矛盾	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	8
 问题的严重	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yan;ai;yp;ap,yp;dr;mh;fx;go;ai; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa;	13
 问题的严重程度	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yan;ai;yp;ap,yp;dr;mh;fx;go;ai; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; cheng;hw;hw;hi;ua;hg;xn;tk;hw; du;gy;gy;gy;rl;ie;xr;ya;gy;	17
 问题的严重性	wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yan;ai;yp;ap,yp;dr;mh;fx;go;ai; zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; xing;xu;xu;xu;na;pm;hl;nt;xu;	285
@@ -155821,7 +155822,7 @@ sort: by_weight
 无法替代	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; ti;fo;fo;of,fo;ev;qa;ho;fw;fo; dai;ry;ry;ry;xa;op;jp;wa;rg;	371
 无法调	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tiao;yk;yk;yv;co;ir;sd;ym;yk;	1
 无法调和	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tiao;yk;yk;yv;co;ir;sd;ym;yk; he;hk;hk;hk;uo;hr;xd;t,tk;hk;	67
-无法调和的矛盾	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tiao;yk;yk;yv;co;ir;sd;ym;yk; he;hk;hk;hk;uo;hr;xd;t,tk;hk; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	19
+无法调和的矛盾	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tiao;yk;yk;yv;co;ir;sd;ym;yk; he;hk;hk;hk;uo;hr;xd;t,tk;hk; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	19
 无法调节	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tiao;yk;yk;yv;co;ir;sd;ym;yk; jie;ce;ce;ce;zb;tl;lz;ab;ce;	49
 无法调整	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tiao;yk;yk;yv;co;ir;sd;ym;yk; zheng;uv;uv;vi,vw;dr,ur;dm;xs;gk;uv;	41
 无法通行	wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; fa;dq;ds;dq;kp;ei;kk;if;dv; tong;zy;zy;zy;pq;yb;ku;ce;zy; xing;rd;ii;xd,xi;hs;hn;px;tf;rd;	21
@@ -167421,9 +167422,9 @@ sort: by_weight
 羞死人	xiu;yi;yi;yi;fg;tg;gg;ud;ei; si;db;db;db;ff;mp;gv;gq;db; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	1
 羞死人了	xiu;yi;yi;yi;fg;tg;gg;ud;ei; si;db;db;db;ff;mp;gv;gq;db; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv;	3
 休四天	xiu;rm;rm;rm;xw;od;je;ws;rl; si;ke;ke;aa,ke;nk;wc;ys;lh;we; tian;ad;ad;ad;ue;mk;fm;gd;ad;	32
-修我戈矛	xiu;rp;rp;rp;xu;oh;je;wh;rp; wo;ga;pd;pd,pp;uh,ud;hi,zz;tp;q,tr;pg; ge;yp;ad;ad;aa,ha;ii;pg;ag;ad; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	10
+修我戈矛	xiu;rp;rp;rp;xu;oh;je;wh;rp; wo;ga;pd;pd,pp;uh,ud;hi,zz;tp;q,tr;pg; ge;yp;ad;ad;aa,ha;ii;pg;ag;ad; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	10
 修我甲兵	xiu;rp;rp;rp;xu;oh;je;wh;rp; wo;ga;pd;pd,pp;uh,ud;hi,zz;tp;q,tr;pg; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; bing;qb;qb;qb;uf;oc;th;rg;qb;	6
-修我矛戟	xiu;rp;rp;rp;xu;oh;je;wh;rp; wo;ga;pd;pd,pp;uh,ud;hi,zz;tp;q,tr;pg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ji;ug;ug;gu,ug;sa;ji;np;fj;ug;	5
+修我矛戟	xiu;rp;rp;rp;xu;oh;je;wh;rp; wo;ga;pd;pd,pp;uh,ud;hi,zz;tp;q,tr;pg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ji;ug;ug;gu,ug;sa;ji;np;fj;ug;	5
 休五天	xiu;rm;rm;rm;xw;od;je;ws;rl; wu;aw;aa;aa;gg;mm;wu;gg;aa; tian;ad;ad;ad;ue;mk;fm;gd;ad;	5
 休息的地方	xiu;rm;rm;rm;xw;od;je;ws;rl; xi;zx;zx;xz,zx;sn;hp;oh;th;zx; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	47
 休息地	xiu;rm;rm;rm;xw;od;je;ws;rl; xi;zx;zx;xz,zx;sn;hp;oh;th;zx; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty;	9
@@ -174437,7 +174438,7 @@ sort: by_weight
 一个做	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; ge;rl;rl;ra,pa;ep;ol,xl;jg;wh;ra; zuo;rw;rw;rg;xj;ok;jh;wd;rw;	590
 一个座位	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; ge;rl;rl;ra,pa;ep;ol,xl;jg;wh;ra; zuo;gr;gt;gz;rg;ig;xg;yw;gt; wei;rl;rl;rl;xb;ot;ji;wu;rl;	65
 一根棒子	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; gen;mg;mg;mg;wh;dv;ei;sv;lh; bang;mf;ml;mf;wp;dq;eu;sd;lf; zi;la;va;aa,vh;aa;nd;hi;bb;va;	14
-一根长矛	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; gen;mg;mg;mg;wh;dv;ei;sv;lh; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	6
+一根长矛	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; gen;mg;mg;mg;wh;dv;ei;sv;lh; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	6
 一根刺	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; gen;mg;mg;mg;wh;dv;ei;sv;lh; ci;ud;ad;dc;di;dn;ep;gm;ad;	111
 一根葱	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; gen;mg;mg;mg;wh;dv;ei;sv;lh; cong;cx;cx;cc,cx;zn;tp;lh;aq;cx;	22
 一根地线	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; gen;mg;mg;mg;wh;dv;ei;sv;lh; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; xian;sj;sj;sj;ea;vj;ip;xg;sg;	10
@@ -192362,7 +192363,7 @@ sort: by_weight
 证券经纪人	zheng;yv;yv;yv;cr;im;ss;yg;yv; quan;jd;jd;df,jd;fi;fh;hp;ud;dd; jing;sj;sg;sg;ep;vm;iu;x,xc;sg; ji;sj;sj;sj;et;vu;iv;xn;sj; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	221
 争权力	zheng;dy;dl;dy;gp;nd;xb;qv;ev; quan;my;my;my;wl;de;er;sc;ly; li;vp;vp;gp;uu;ks;sl;lt;vp;	1
 证券期货行业	zheng;yv;yv;yv;cr;im;ss;yg;yv; quan;jd;jd;df,jd;fi;fh;hp;ud;dd; qi;co;qo;oq,qo;vl;tb;zv;ad;qo; huo;rb;rr;bh;xm;oo;jo;wx;rr; hang;rd;ii;xd,xi;hs;hn;px;tf;rd; ye;la;la;aa;pd;tc,xc;cy;og;aa;	5
-正确处理人民内部矛盾	zheng;av;av;av;dr;mm;fs;gh;av; que;uy;uy;uj;tp;mg,mq;mt;dq;uy; chu;wb;wb;wb;jh;ho,hy,xy;hy;th;wb; li;wl;wl;wl;ag;mg;nd;gj;wl; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; min;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; nei;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; bu;le;le;ek,ep;bb;yl;it;uk;le; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	11
+正确处理人民内部矛盾	zheng;av;av;av;dr;mm;fs;gh;av; que;uy;uy;uj;tp;mg,mq;mt;dq;uy; chu;wb;wb;wb;jh;ho,hy,xy;hy;th;wb; li;wl;wl;wl;ag;mg;nd;gj;wl; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; min;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; nei;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; bu;le;le;ek,ep;bb;yl;it;uk;le; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	11
 正确的打开方式	zheng;av;av;av;dr;mm;fs;gh;av; que;uy;uy;uj;tp;mg,mq;mt;dq;uy; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; da;fd;fd;fd;jj;qn;ua;rs;fd; kai;ac;ac;ac;up;mt;fl;ga;aa; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp; shi;yg;yg;gy,yg;ap;im;pu;aa;gg;	114
 正确的道路	zheng;av;av;av;dr;mm;fs;gh;av; que;uy;uy;uj;tp;mg,mq;mt;dq;uy; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; dao;zz;zz;zu;fq;yu;hu;ut;zm; lu;zk;zk;zg;go;rr;ps;kh;zk;	153
 正确的道路上	zheng;av;av;av;dr;mm;fs;gh;av; que;uy;uy;uj;tp;mg,mq;mt;dq;uy; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; dao;zz;zz;zu;fq;yu;hu;ut;zm; lu;zk;zk;zg;go;rr;ps;kh;zk; shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa;	46
@@ -195606,7 +195607,7 @@ sort: by_weight
 重大历史意义	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; li;il;il;il;ru;ms,xs;xs;dl;il; shi;kn;ln;ad,ki;oy;lk;db;kq;an; yi;lx;lx;xy,lx;bn,cn;yp;xh;uj;lx; yi;dx;dx;di,id;hy,yh;ik,xk;ib;yq;dx;	11
 重大理由	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; li;wl;wl;wl;ag;mg;nd;gj;wl; you;ol,lt;la;aa,ao;vp;lw;dy;mh;aa;	4
 重大漏洞	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; lou;dy;dy;dl,dy;ky;eb;kt;in;dy; dong;dk;dk;dt;ko;er;kd;im;dk;	17
-重大矛盾	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	10
+重大矛盾	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm;	10
 重大秘密	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; mi;hb;hb;hb;uu;hh;xt;tn;hb; mi;bu;be;ub,bu;ip;ju;wv;pn;gs;	3
 重大民生	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; min;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa;	3
 重大民生工程	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; da;ar;un;ad;xx;kk;md;dd;an; min;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; gong;aa;aa;aa;pp;mm;ug;a,aa;aa; cheng;hw;hw;hi;ua;hg;xn;tk;hw;	3
@@ -212154,7 +212155,7 @@ sort: by_weight
 名主播	ming;xk;xk;xk;fo;nr;ld;qk;xk; zhu;wt;dw;dw;ig;yg;in;y,yg;wt; bo;ft;ft;ff;jw;qw;uq;rt;ft;	6
 名井南	ming;xk;xk;xk;fo;nr;ld;qk;xk; jing;ac,el;al;aa,ep;up;tt;qj;fj;aa; nan;ug;ug,ag;ua,uy;ss;jj;ng;fm;uu;	2
 名优特产	ming;xk;xk;xk;fo;nr;ld;qk;xk; you;ry;ry;ry;xh;ou;jo;wd;ry; te;nc;nc;ns;bk;hi;qk;tr;nc; chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi;	4
-名列前矛	ming;xk;xk;xk;fo;nr;ld;qk;xk; lie;dd;dd;dd;fi;mn;gp;gq;dd; qian;bd;bd;bd,qd;fi;tn;hp;ue;ed; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	9
+名列前矛	ming;xk;xk;xk;fo;nr;ld;qk;xk; lie;dd;dd;dd;fi;mn;gp;gq;dd; qian;bd;bd;bd,qd;fi;tn;hp;ue;ed; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	9
 名和利	ming;xk;xk;xk;fo;nr;ld;qk;xk; he;hk;hk;hk;uo;hr;xd;t,tk;hk; li;hd;hd;hd,dh;ui;hn;xp;tj;hd;	72
 名商网	ming;xk;xk;xk;fo;nr;ld;qk;xk; shang;wk;wk;wk,lk,dk;io;yr;id;um;wk; wang;kx;kx;ki;oy;bk;mb;mq;ax;	1
 名垂千史	ming;xk;xk;xk;fo;nr;ld;qk;xk; chui;qt;pa;pa;sg;hm;lg;tg;pa; qian;pu;pu;pa;;hj;lq;tf;pu; shi;kn;ln;ad,ki;oy;lk;db;kq;an;	7
@@ -225230,7 +225231,7 @@ sort: by_weight
 瞻部洲	zhan;ok;ok;ov,oy;sc;br;qs;hq;mk; bu;le;le;ek,ep;bb;yl;it;uk;le; zhou;dv;dv,dl;dv;kp;el;ko;iy;dv;	1
 瞿式耜	qu;ov;of;vo,ov,vm;sa;bg;qu;hh;ma; shi;yg;yg;gy,yg;ap;im;pu;aa;gg; si;ll;lk;lg;ad;qr;ak;di;fa;	5
 瞿泽林	qu;ov;of;vo,ov,vm;sa;bg;qu;hh;ma; ze;df;dl;df;kp;eq;ku;ic;da; lin;mm;mm;mm;ww;dd;ee;ss;ll;	4
-矛与盾	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; yu;va;aa;aa;dd;ym;ff;gn;aa; dun;io;po;po;us;hu;xq;rf;pm;	25
+矛与盾	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; yu;va;aa;aa;dd;ym;ff;gn;aa; dun;io;po;po;us;hu;xq;rf;pm;	25
 矢状位	shi;pd;pt;pd,pt,rd;ex;ok;os;td;pt; zhuang;lq;dq;jq,pq,qp;lb;lk;am;ud;dq; wei;rl;rl;rl;xb;ot;ji;wu;rl;	5
 知之不多	zhi;uk;uk;uk,ku;eo;or;od;td;uk; zhi;dn;dn;dd;hh;io;ri;pp;dn; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; duo;xx;xx;xx;ff;ni;ll;qq;xx;	8
 知其雄	zhi;uk;uk;uk,ku;eo;or;od;td;uk; qi;cb;qb;ba,ad,hb;vf;tc;zh;ad;ab; xiong;uv;uf;vh,vs;sa;kg;nu;dc;aa;	11
@@ -235535,4 +235536,3 @@ sort: by_weight
 中国社会科学出版社	zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; guo;ky;ky;ky;na;wi;ri;l,lg;wy; she;pt;pt;ut,tu;hg;ig;fg;py;pt; hui;ry;rs;ry;ep;oi;jb;wf;rv; ke;hd;hu;hd;us;hj;xj;tu;hu; xue;xz;xz;dz,zb;ha;fd;kh;ip;ez; chu;uu;vk;ck,aa;pp;uu;sm;bm;va; ban;py;py;pf;ul;le,xe;ar;th;py; she;pt;pt;ut,tu;hg;ig;fg;py;pt;	135
 敦煌文物研究所	dun;ww;ww;wx;ij;yk;gh;yb;ww; huang;hw;hw;hh;ta;fg;cn;or;hw; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx; wu;nw;nw;nw;bi;hh;qe;tr;nw; yan;uk;uk;uk;tp;mt;ml;dg;uk; jiu;bj;bj;xj,bj;ir;jn;ek;pw;gj; suo;hj;pj;hj,jh;up;hl;mt;rn;pj;	10
 哮天犬	xiao;kz;kz;kx;oa;rd;dh;kf;kz; tian;ad;ad;ad;ue;mk;fm;gd;ad; quan;dd;dd;dd,ad;bb;ik;mq;dg;dd;	100
-

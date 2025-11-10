@@ -1730,7 +1730,7 @@ use_preset_vocabulary: false
 粗制棒槌	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; bang;mf;ml;mf;wp;dq;eu;sd;lf; chui;ml;mz;mv;wq;dr;eu;sw;lv;	0
 粗制匕首	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; bi;pv;pv;pg;aa;uh;vb;xt;pv; shou;bz;bz;qz;fs;tu;ho;ut;em;	0
 粗制长弓	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; chang;pn;pn;pd;uh;po;pc;ta;pn; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
-粗制长矛	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+粗制长矛	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 粗制长枪	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; chang;pn;pn;pd;uh;po;pc;ta;pn; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
 粗制单手剑	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; dan;bu;bl;ba,bd;fs;cj;hn;uj;ea; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 粗制短弓	cu;mq;mq;mq;lu;fm;pf;oe;mq; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; duan;ub;ua;ud;ed;ot;oz;td;ud; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
@@ -1786,11 +1786,11 @@ use_preset_vocabulary: false
 粉碎之斧	fen;mf;md;mf;li;fh;pp;ow;md; sui;uu;uu;uz;ts;mj;mn;dy;uu; zhi;dn;dn;dd;hh;io;ri;pp;dn; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
 凤凰护盾	feng;jy;jy;jy;il;he;or;mc;jy; huang;jw;jw;jh;ia;hg;on;mr;jw; hu;fh;fh;fh;jq;qs;um;ry;fh; dun;io;po;po;us;hu;xq;rf;pm;	0
 风精	feng;jx;jx;ji;iy;hk;ob;mq;jx; jing;mo;mo;mq;ll;fb;pv;og;mo;	5
-疯狂长矛	feng;bf;bx;bf;my;kk;ab;um;bx; kuang;qw;qw;qw;ba;kg;mn;qt;qw; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+疯狂长矛	feng;bf;bx;bf;my;kk;ab;um;bx; kuang;qw;qw;qw;ba;kg;mn;qt;qw; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 疯狂灰熊	feng;bf;bx;bf;my;kk;ab;um;bx; kuang;qw;qw;qw;ba;kg;mn;qt;qw; hui;uh;uh;hu,uh;st;kf;nc;do;ah; xiong;sh;sh;hn;pn;if;kc;ce;ve;	0
 疯狂精灵	feng;bf;bx;bf;my;kk;ab;um;bx; kuang;qw;qw;qw;ba;kg;mn;qt;qw; jing;mo;mo;mq;ll;fb;pv;og;mo; ling;eh;eh;hx,xh;st;sf;bc;vo;vh;	0
 疯狂野猪	feng;bf;bx;bf;my;kk;ab;um;bx; kuang;qw;qw;qw;ba;kg;mn;qt;qw; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; zhu;qo;qo;qv;bv;ka;mo;qt;qo;	0
-锋利长矛	feng;jf;jf;jf;da;oj;za;qt;jf; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+锋利长矛	feng;jf;jf;jf;da;oj;za;qt;jf; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 风魔	feng;jx;jx;ji;iy;hk;ob;mq;jx; mo;gg;gg;gm,mg;ds;ii;za;ys;gv;	66
 风之丛林	feng;jx;jx;ji;iy;hk;ob;mq;jx; zhi;dn;dn;dd;hh;io;ri;pp;dn; cong;ra;ra;ac,ra;ed;om;jf;ww;ra; lin;mm;mm;mm;ww;dd;ee;ss;ll;	0
 风之丛林豺狼	feng;jx;jx;ji;iy;hk;ob;mq;jx; zhi;dn;dn;dd;hh;io;ri;pp;dn; cong;ra;ra;ac,ra;ed;om;jf;ww;ra; lin;mm;mm;mm;ww;dd;ee;ss;ll; chai;vc;vc;vc;uu;bh;mt;ee;pc; lang;ql;ql;ql;bh;kv;mi;qt;qh;	0
@@ -2024,7 +2024,7 @@ use_preset_vocabulary: false
 魔刃剑	mo;gg;gg;gm,mg;ds;ii;za;ys;gv; ren;dd;dd;dd;ii;si;pi;vy;dd; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 魔纹剑	mo;gg;gg;gm,mg;ds;ii;za;ys;gv; wen;sw;sw;sw;ej;vk;iv;xy;sx; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 魔纹双剑	mo;gg;gg;gm,mg;ds;ii;za;ys;gv; wen;sw;sw;sw;ej;vk;iv;xy;sx; shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
-魔翼长矛	mo;gg;gg;gm,mg;ds;ii;za;ys;gv; yi;xg;xb;yg,yy;df;sc;zh;nl;xb; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+魔翼长矛	mo;gg;gg;gm,mg;ds;ii;za;ys;gv; yi;xg;xb;yg,yy;df;sc;zh;nl;xb; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 纳卡思之肘	na;sn;sn;sn;ee;vb;ij;xm;sn; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; si;tx;tx;tx,xt;wn;wp;qh;ln;tx; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhou;oc;oc;oc;lk;bi;vk;ef;oc;	0
 能量之戒	neng;sb;sb;sb;pa;ip;kv;ce;vb; liang;ol;ol;ol;vg;ag;od;jg;dl; zhi;dn;dn;dd;hh;io;ri;pp;dn; jie;gc;gc;gc;ap,ha;it;pl;aa;ag;	0
 农场地搏灵	nong;by;dn;by,ny;ih;hv;wt;pe;dh; chang;tp;tp;ty;gu;gh;ge;fn;tp; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; bo;fc;fc;fc,ff;jk;qi;uk;rg;fc; ling;eh;eh;hx,xh;st;sf;bc;vo;vh;	0
@@ -2104,7 +2104,7 @@ use_preset_vocabulary: false
 食人狼	shi;rg;rl;rl,pd;eh;ov;qs;wy;rh; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; lang;ql;ql;ql;bh;kv;mi;qt;qh;	0
 食人兽尖牙	shi;rg;rl;rl,pd;eh;ov;qs;wy;rh; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; jian;xd;xd;xd;ix;fk;ym;id;ad; ya;gp,ac;ap;ap;du;mh;ly;ah;ap;	0
 食人野鸡	shi;rg;rl;rl,pd;eh;ov;qs;wy;rh; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; ji;yn;yn;ny,yn;lc;em;rx;cq;yn;	0
-嗜血长矛	shi;ko;ko;ko,kq;ov;ra;do;kf;ko; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+嗜血长矛	shi;ko;ko;ko,kq;ov;ra;do;kf;ko; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 嗜血怪	shi;ko;ko;ko,kq;ov;ra;do;kf;ko; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; guai;xt;xt;xu;ng;pg;hg;nc;xt;	0
 石筑葛布林巫师	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; zhu;vf;vf;vg;nh;hn;ri;ta;vf; ge;cr;cv;ch;zr;tv;lf;aj;cv; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; lin;mm;mm;mm;ww;dd;ee;ss;ll; wu;gr;gr;gc,gr;pe;mo;uj;aw;aa; shi;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj;	0
 石筑葛布林战将	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; zhu;vf;vf;vg;nh;hn;ri;ta;vf; ge;cr;cv;ch;zr;tv;lf;aj;cv; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; lin;mm;mm;mm;ww;dd;ee;ss;ll; zhan;vg;lg;gv;pa;yi;yp;hk;vg; jiang;lc;dc;dc,jc,pc;lk;li;ak;uq;dc;	0
@@ -2260,7 +2260,7 @@ use_preset_vocabulary: false
 战刃部族箱子	zhan;vg;lg;gv;pa;yi;yp;hk;vg; ren;dd;dd;dd;ii;si;pi;vy;dd; bu;le;le;ek,ep;bb;yl;it;uk;le; zu;fu;fu;fu;fx;yk;lo;yt;fd; xiang;vo;vo;vx;ns;hu;rq;ts;vm; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 战三	zhan;vg;lg;gv;pa;yi;yp;hk;vg; san;ae;ae;aa;uu;mm;ts;dg;ae;	14
 战一	zhan;vg;lg;gv;pa;yi;yp;hk;vg; yi;aa;aa;aa;dd;mm;fi;g,gg;aa;	13
-战争长矛	zhan;vg;lg;gv;pa;yi;yp;hk;vg; zheng;dy;dl;dy;gp;nd;xb;qv;ev; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+战争长矛	zhan;vg;lg;gv;pa;yi;yp;hk;vg; zheng;dy;dl;dy;gp;nd;xb;qv;ev; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 战争石锤	zhan;vg;lg;gv;pa;yi;yp;hk;vg; zheng;dy;dl;dy;gp;nd;xb;qv;ev; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
 战争之光	zhan;vg;lg;gv;pa;yi;yp;hk;vg; zheng;dy;dl;dy;gp;nd;xb;qv;ev; zhi;dn;dn;dd;hh;io;ri;pp;dn; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee;	0
 长老的箱子	zhang;pn;pn;pd;uh;po;pc;ta;pn; lao;lb;lb;bl,lb;ga;jp;ql;ft;ub; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiang;vo;vo;vx;ns;hu;rq;ts;vm; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
@@ -4385,7 +4385,7 @@ use_preset_vocabulary: false
 没血	mei;du;dy;du;kl;ee;kr;im;dy; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm;	63
 铭文碎片	ming;jk;jk;jm;do;or;zd;qq;jk; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx; sui;uu;uu;uz;ts;mj;mn;dy;uu; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	17
 末日机甲	mo;am;an;ad,am;ee;dj;fe;gs;an; ri;ka;ka;aa,or,ri;vv;aa;or;jj;wa; ji;mj;mj;mj;wi;dn;eo;sm;lj; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	20
-破军之矛	po;up;uy;up;tl;me;mr;dh;uy; jun;bi;bi;bi;it;bq;wy;pl;gi; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+破军之矛	po;up;uy;up;tl;me;mr;dh;uy; jun;bi;bi;bi;it;bq;wy;pl;gi; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 蔷薇恋人	qiang;ck;ck;ch;zo;tw;ld;af;ck; wei;cj;cw;cw;zi,zj;tk;lh;at;cw; lian;wx;wx;xy,yx;in;yp;zh;yo;wx; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	0
 杀戮之影	sha;xm;xm;mi,im;yf;kd,xd;be;qs;xx; lu;xg;xg;gl,gp;da;si,xi;zp;nw;xg; zhi;dn;dn;dd;hh;io;ri;pp;dn; ying;op;op;pj;vu;ah;oe;jy;op;	0
 蛇皮走位	she;ib;ib;it;fa;lp;cv;jp;ib; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; zou;tz;tr;tv;qq,ge;go;pz;fh;tr; wei;rl;rl;rl;xb;ot;ji;wu;rl;	29
@@ -4741,7 +4741,7 @@ use_preset_vocabulary: false
 元素共鸣	yuan;aw;ee;aw,ee;uk;mu;mp;fq;ee; su;fx;fx;sf,fs;ai;qf;ai;gx;ax; gong;cb;cb;bc,cb;zf;tc;lh;aw;cb; ming;kn;kn;kn;oc;rm;dx;kq;kn;	0
 元素战技	yuan;aw;ee;aw,ee;uk;mu;mp;fq;ee; su;fx;fx;sf,fs;ai;qf;ai;gx;ax; zhan;vg;lg;gv;pa;yi;yp;hk;vg; ji;fv;fy;fv;jl;qe;uc;rf;fy;	5
 月卡党	yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; dang;xx;xe;xx,dx,ek;hk;fu;sp;ip;ee;	62
-钺矛	yue;jl;jv;jy;dh;ov;zn;qa;jg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+钺矛	yue;jl;jv;jy;dh;ov;zn;qa;jg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 云来海	yun;ag,es;es;es,se;up;mi;by;fc;ev; lai;am;an;am,wb;uf,ef;dt;ah;go;an; hai;dm;dm;dm;kh;ey;kk;it;dm;	1
 战狂	zhan;vg;lg;gv;pa;yi;yp;hk;vg; kuang;qw;qw;qw;ba;kg;mn;qt;qw;	94
 战狂套	zhan;vg;lg;gv;pa;yi;yp;hk;vg; kuang;qw;qw;qw;ba;kg;mn;qt;qw; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
@@ -5050,7 +5050,7 @@ use_preset_vocabulary: false
 白银护身锁头	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; hu;fh;fh;fh;jq;qs;um;ry;fh; shen;zc;pp;pp;uu;hh;zs;tm;pp; suo;jb;jr;jb;dm;oo;zo;qi;jr; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 白银踝甲合页	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; huai;zg;zg;zg;gw;rd;pe;kh;zg; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 白银肩甲合页	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
-白银矛柄	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
+白银矛柄	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
 白银面罩合页	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; mian;ao;aa;aa;dd;ml;bm;dm;aa; zhao;su;su;sv;as;wj;yn;lh;su; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 白银守神符	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; shou;bc;bc;bc;ik;ji;wk;pf;gc; shen;pu;pu;uu;hp;il;fg;py;pu; fu;vc;vc;vf;nw,nk;hi;rk;tw;vc;	0
 白银袖甲合页	bai;po;po;pa,po;ss;ha;ub;rr;po; yin;jg;jg;jg;dh;ov;zi;qv;jh; xiu;py;py;yy;hp;lw;td;pu;py; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
@@ -6163,17 +6163,17 @@ use_preset_vocabulary: false
 段方良	duan;pu;py;ud,du,pu;ul;he;ur;wd;py; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp; liang;dg;dg;dg;hh;iv;ii;yv;dh;	0
 断弓	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	5
 断弓山	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv; shan;kl;lk;aa;pp;uu;vs;mm;aa;	0
-断裂的人马战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+断裂的人马战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 断裂的双刃	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; ren;dd;dd;dd;ii;si;pi;vy;dd;	0
-断裂的战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+断裂的战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 断裂刃	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; ren;dd;dd;dd;ii;si;pi;vy;dd;	0
-断裂人马战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+断裂人马战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 断裂双刃	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; ren;dd;dd;dd;ii;si;pi;vy;dd;	0
-断裂战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
-短矛	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	27
-短矛奇足	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
-短矛奇足宠物	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
-短矛奇足宠物蛋	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
+断裂战矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+短矛	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	27
+短矛奇足	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
+短矛奇足宠物	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
+短矛奇足宠物蛋	duan;ub;ua;ud;ed;ot;oz;td;ud; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
 短木	duan;ub;ua;ud;ed;ot;oz;td;ud; mu;ur;un,an;ad;ww;dd;em;ss;un;	3
 短木杖	duan;ub;ua;ud;ed;ot;oz;td;ud; mu;ur;un,an;ad;ww;dd;em;ss;un; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
 断桥村	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; qiao;ml;ml;mq;wp;dl;ep;st;lq; cun;mc;mc;mc;wk;di;ek;sf;lc;	0
@@ -7420,7 +7420,7 @@ use_preset_vocabulary: false
 黄金护身锁头	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; hu;fh;fh;fh;jq;qs;um;ry;fh; shen;zc;pp;pp;uu;hh;zs;tm;pp; suo;jb;jr;jb;dm;oo;zo;qi;jr; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 黄金踝甲合页	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; huai;zg;zg;zg;gw;rd;pe;kh;zg; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 黄金肩甲合页	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
-黄金矛柄	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
+黄金矛柄	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
 黄金面罩合页	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; mian;ao;aa;aa;dd;ml;bm;dm;aa; zhao;su;su;sv;as;wj;yn;lh;su; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 黄金袖甲合页	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; xiu;py;py;yy;hp;lw;td;pu;py; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 黄金友	huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; you;uy;uy;yu,uy;sl;ke;nr;dc;ay;	0
@@ -8034,7 +8034,7 @@ use_preset_vocabulary: false
 精钢护身锁头	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; hu;fh;fh;fh;jq;qs;um;ry;fh; shen;zc;pp;pp;uu;hh;zs;tm;pp; suo;jb;jr;jb;dm;oo;zo;qi;jr; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 精钢踝甲合页	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; huai;zg;zg;zg;gw;rd;pe;kh;zg; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 精钢肩甲合页	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
-精钢矛柄	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
+精钢矛柄	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
 精钢面罩合页	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; mian;ao;aa;aa;dd;ml;bm;dm;aa; zhao;su;su;sv;as;wj;yn;lh;su; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 精钢弩机	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; nu;ng;ng;gn;yr;vn;bb;vc;ng; ji;mj;mj;mj;wi;dn;eo;sm;lj;	0
 精钢矢	jing;mo;mo;mq;ll;fb;pv;og;mo; gang;jx;jx;jg;dy;ok;zb;qm;jx; shi;pd;pt;pd,pt,rd;ex;ok;os;td;pt;	0
@@ -9401,7 +9401,7 @@ use_preset_vocabulary: false
 芒果色染色剂	mang;cw;cw;cw;zr;tv;lf;ay;cw; guo;tm;ln;ad,tm;vw;wd;qe;js;an; se;db;db;db;gt;nu;xm;qc;eb; ran;dm;dm;mg,mj;kw;ed;ke;iv;dl; se;db;db;db;gt;nu;xm;qc;eb; ji;qd;wd;dq;ji;yn;qp;yj;wd;	0
 茫茫大士	mang;cw;cw;cw;zr;tv;lf;ai;cw; mang;cw;cw;cw;zr;tv;lf;ai;cw; da;ar;un;ad;xx;kk;md;dd;an; shi;ua;ua;aa;gg;jm;gs;fg;ua;	3
 猫眼戒	mao;qt;qt;qm;bw;kw;mq;qt;qt; yan;og;og;og;sh;bv;qi;hv;mh; jie;gc;gc;gc;ap,ha;it;pl;aa;ag;	0
-矛嘴奇足	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
+矛嘴奇足	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
 媚骨花妖	mei;no;no;nm;ys;vu;bq;vn;nm; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; hua;cb;cb;ch;za;tp;lv;aw;cb; yao;ny;ny;ny;yx;vk;bm;vt;ny;	0
 玫瑰公爵	mei;ww;ww;ww;aj;mk,xk;nh;gt;ww; gui;wg;wg;wg;as;mi;na;gr;wv; gong;bs;bs;sb,bs;fp;ci;hk;wc;bv; jue;vc;pc;vc;hk;bi;yk;el;pc;	0
 玫瑰公爵裙	mei;ww;ww;ww;aj;mk,xk;nh;gt;ww; gui;wg;wg;wg;as;mi;na;gr;wv; gong;bs;bs;sb,bs;fp;ci;hk;wc;bv; jue;vc;pc;vc;hk;bi;yk;el;pc; qun;pk;pk;yj;ho;lr;td;pu;pk;	0
@@ -10634,9 +10634,9 @@ use_preset_vocabulary: false
 强化皮革	qiang;gi;gi;gs;rf;ni;bc;xk;gi; hua;rb;rb;rb;xa;op;jv;wx;rb; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; ge;cu;nl;aa,ca;vs;tj;tg;af;ca;	0
 强化追魂冥蛇	qiang;gi;gi;gs;rf;ni;bc;xk;gi; hua;rb;rb;rb;xa;op;jv;wx;rb; zhui;zl;zk;zv;uq;yr;tu;wn;za; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; ming;bl;bb;bl,bz;if;bc;wa;pj;gb; she;ib;ib;it;fa;lp;cv;jp;ib;	0
 枪戟	qiang;mv;mv;mc;wt;du;ez;sw;lv; ji;ug;ug;gu,ug;sa;ji;np;fj;ug;	10
-枪矛奇足	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
-枪矛奇足宠物	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
-枪矛奇足宠物蛋	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
+枪矛奇足	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
+枪矛奇足宠物	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
+枪矛奇足宠物蛋	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
 强人卡	qiang;gi;gi;gs;rf;ni;bc;xk;gi; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub;	0
 强体	qiang;gi;gi;gs;rf;ni;bc;xk;gi; ti;rb;rb;rb;xd;om;jf;ws;rb;	30
 强体术	qiang;gi;gi;gs;rf;ni;bc;xk;gi; ti;rb;rb;rb;xd;om;jf;ws;rb; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
@@ -10734,7 +10734,7 @@ use_preset_vocabulary: false
 青铜踝甲合页	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; huai;zg;zg;zg;gw;rd;pe;kh;zg; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 青铜肩甲合页	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 青铜盔	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; kui;um;um;mh;sa;kt;na;do;hm;	1
-青铜矛柄	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
+青铜矛柄	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
 青铜面罩合页	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; mian;ao;aa;aa;dd;ml;bm;dm;aa; zhao;su;su;sv;as;wj;yn;lh;su; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 青铜弩	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; nu;ng;ng;gn;yr;vn;bb;vc;ng;	1
 青铜弩机	qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; nu;ng;ng;gn;yr;vn;bb;vc;ng; ji;mj;mj;mj;wi;dn;eo;sm;lj;	5
@@ -10883,10 +10883,10 @@ use_preset_vocabulary: false
 人类武侠	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; lei;md;md;md;lx;fk;pm;od;md; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; xia;rj;rj;rj;xx;ot;jh;wg;rj;	0
 人马盾	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; dun;io;po;po;us;hu;xq;rf;pm;	0
 人马盾碎片	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; dun;io;po;po;us;hu;xq;rf;pm; sui;uu;uu;uz;ts;mj;mn;dy;uu; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	0
-人马矛	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+人马矛	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 人马手盾	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; dun;io;po;po;us;hu;xq;rf;pm;	0
 人马手盾碎片	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; dun;io;po;po;us;hu;xq;rf;pm; sui;uu;uu;uz;ts;mj;mn;dy;uu; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	0
-人马战矛	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+人马战矛	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ma;va;va;aa,vh;zz;nm;nm;cn;va; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 人数上线	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; shu;mw;mw;wl;lj;fk;ph;ov;mw; shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; xian;sj;sj;sj;ea;vj;ip;xg;sg;	4
 任务怪	ren;rw;rr;rr;xd;og;jg;wt;rr; wu;wl;wl;wl;ju;hs;hs;tl;wl; guai;xt;xt;xu;ng;pg;hg;nc;xt;	16
 人物信息	ren;pn;pn;pd;ee;oo;jr;w,ww;pn; wu;nw;nw;nw;bi;hh;qe;tr;nw; xin;rk;rk;ry;xc;or;js;wy;rk; xi;zx;zx;xz,zx;sn;hp;oh;th;zx;	0
@@ -13431,7 +13431,7 @@ use_preset_vocabulary: false
 消灭野狼	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; lang;ql;ql;ql;bh;kv;mi;qt;qh;	0
 消灭幼暴狼	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; you;yl;yl;ly,yl;ru;vs;is;xl;sl; bao;ou;ou;ou;vo;ae;ok;ja;ou; lang;ql;ql;ql;bh;kv;mi;qt;qh;	0
 消灭幼花蝎	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; you;yl;yl;ly,yl;ru;vs;is;xl;sl; hua;cb;cb;ch;za;tp;lv;aw;cb; xie;ir;iv;ih;fr;lv;cf;jj;iv;	0
-消灭幼矛嘴奇足	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
+消灭幼矛嘴奇足	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
 消灭蛛狞猬王	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; zhu;iw;iv;iv;fe;ld;ca;jr;iv; ning;qd;qd;qn;bj;kn;ma;qt;qd; wei;qo;qo;qw;bl;kb;mv;qt;qo; wang;at;at;aa;aa;mg;nw;gg;at;	0
 消灭座狼	xiao;do;do;dx;kl;eb;kv;ii;do; mie;ah;ah;ah;dt;mf,xf;fc;go;ah; zuo;gr;gt;gz;rg;ig;xg;yw;gt; lang;ql;ql;ql;bh;kv;mi;qt;qh;	0
 萧弄玉	xiao;cb;cs;cs;zf;tl;lh;av;cs; nong;wc;wc;cw,wc;ap;mt;nl;ga;wa; yu;wd;wd;ad,wd;aa;mi;ni;gy;wd;	0
@@ -14448,9 +14448,9 @@ use_preset_vocabulary: false
 幽灵面	you;uy;ey;uy;pp;ui;vi;xx;ss; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; mian;ao;aa;aa;dd;ml;bm;dm;aa;	1
 幽灵邪力	you;uy;ey;uy;pp;ui;vi;xx;ss; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; xie;ye;ye;ey,ye;db;ml;lt;ah;ye; li;vp;vp;gp;uu;ks;sl;lt;vp;	0
 游龙腰饰	you;dz;dz;dz;ka;ed;kh;iy;dz; long;yp;ud;ad;sh;ip;tl;dx;ab; yao;on;on;oy;ly;bv;vb;es;on; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
-幼矛嘴奇足	you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
-幼矛嘴奇足宠物	you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
-幼矛嘴奇足宠物蛋	you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
+幼矛嘴奇足	you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr;	0
+幼矛嘴奇足宠物	you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
+幼矛嘴奇足宠物蛋	you;yl;yl;ly,yl;ru;vs;is;xl;sl; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; qi;dk;dk;dk;xj;kr;mz;ds;dk; zu;kz;kr;kv;gg;ro;pu;kh;kr; chong;bl;bl;bl;ih;jp;wt;pd;gb; wu;nw;nw;nw;bi;hh;qe;tr;nw; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
 幽冥暴焰蚕	you;uy;ey;uy;pp;ui;vi;xx;ss; ming;bl;bb;bl,bz;if;bc;wa;pj;gb; bao;ou;ou;ou;vo;ae;ok;ja;ou; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; can;ti;ti;it,ti;uf;hi,mi;fc;gd;ti;	0
 幽冥宝珠	you;uy;ey;uy;pp;ui;vi;xx;ss; ming;bl;bb;bl,bz;if;bc;wa;pj;gb; bao;by;by;by;ia;ji;wi;pg;gy; zhu;ww;wv;wv;ae;md;na;gr;wv;	0
 幽冥蚕精	you;uy;ey;uy;pp;ui;vi;xx;ss; ming;bl;bb;bl,bz;if;bc;wa;pj;gb; can;ti;ti;it,ti;uf;hi,mi;fc;gd;ti; jing;mo;mo;mq;ll;fb;pv;og;mo;	0
@@ -15475,7 +15475,7 @@ use_preset_vocabulary: false
 铸铁护身锁头	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; hu;fh;fh;fh;jq;qs;um;ry;fh; shen;zc;pp;pp;uu;hh;zs;tm;pp; suo;jb;jr;jb;dm;oo;zo;qi;jr; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 铸铁踝甲合页	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; huai;zg;zg;zg;gw;rd;pe;kh;zg; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 铸铁肩甲合页	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
-铸铁矛柄	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
+铸铁矛柄	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;mn;mb;mb;we;db;ej;sg;lb;	0
 铸铁面罩合页	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; mian;ao;aa;aa;dd;ml;bm;dm;aa; zhao;su;su;sv;as;wj;yn;lh;su; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
 铸铁弩机	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; nu;ng;ng;gn;yr;vn;bb;vc;ng; ji;mj;mj;mj;wi;dn;eo;sm;lj;	0
 铸铁袖甲合页	zhu;jc;jc;ju;dk;oi;zk;qd;jc; tie;jf;ju;ju;de;oo;zh;qr;ju; xiu;py;py;yy;hp;lw;td;pu;py; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; he;rk;rk;rk;eo;or;jd;wg;rk; ye;ab;ar;ab;dm;mo;wy;dm;ar;	0
@@ -17260,7 +17260,7 @@ use_preset_vocabulary: false
 女王的学园命令	nv;va;va;aa,vh;yy;vv;bn;vv;va; wang;at;at;aa;aa;mg;nw;gg;at; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xue;xz;xz;dz,zb;ha;fd;kh;ip;ez; yuan;ky;ke;ky;nk;wu;rp;lf;we; ming;re;re;re;eb;ol;jz;wg;re; ling;rs;rs;rs;ep;oi;jk;wy;rv;	0
 女王号令	nv;va;va;aa,vh;yy;vv;bn;vv;va; wang;at;at;aa;aa;mg;nw;gg;at; hao;kk;kv;kk;or;rs;da;kg;kv; ling;rs;rs;rs;ep;oi;jk;wy;rv;	0
 女灶神	nv;va;va;aa,vh;yy;vv;bn;vv;va; zao;ht;ht;ht;tg;fg;cg;of;ht; shen;pu;pu;uu;hp;il;fg;py;pu;	0
-欧吃矛	ou;qq;kr;qq;de;so;ne;aq;kr; chi;kv;kq;kq;or;rn;da;kt;ky; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+欧吃矛	ou;qq;kr;qq;de;so;ne;aq;kr; chi;kv;kq;kq;or;rn;da;kt;ky; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 欧根欧根欧	ou;qq;kr;qq;de;so;ne;aq;kr; gen;mg;mg;mg;wh;dv;ei;sv;lh; ou;qq;kr;qq;de;so;ne;aq;kr; gen;mg;mg;mg;wh;dv;ei;sv;lh; ou;qq;kr;qq;de;so;ne;aq;kr;	2
 欧根亲王	ou;qq;kr;qq;de;so;ne;aq;kr; gen;mg;mg;mg;wh;dv;ei;sv;lh; qin;lm;lm;lm;bw,bf;yd;ie;us;lx; wang;at;at;aa;aa;mg;nw;gg;at;	57
 欧派塔	ou;qq;kr;qq;de;so;ne;aq;kr; pai;dy;dn;dp;kh;ev;kt;ir;dh; ta;tk;tk;td,th;go;gr;gd;fa;tk;	0
@@ -19703,17 +19703,17 @@ use_preset_vocabulary: false
 暗炉钥匙	an;oo;oo;oy;vc;aa;ox;ju;oo; lu;hh;hh;hh;tq;fs;cm;oy;hh; yao;jo;jo;jo;dl;ob;zv;qe;jo; shi;ob;ob;bu,ub;va;ap;ov;jg;ob;	1
 暗炉之锁	an;oo;oo;oy;vc;aa;ox;ju;oo; lu;hh;hh;hh;tq;fs;cm;oy;hh; zhi;dn;dn;dd;hh;io;ri;pp;dn; suo;jb;jr;jb;dm;oo;zo;qi;jr;	0
 暗绿色婚礼韩服	an;oo;oo;oy;vc;aa;ox;ju;oo; lv;su;su;sl;eo;ve;ik;xv;su; se;db;db;db;gt;nu;xm;qc;eb; hun;no;no;nh;yv;va;bo;vq;no; li;pv;pv;ug;hr;iu;fa;py;pv; han;uw;uw;uw,wu;sp;js;ng;fj;uw; fu;oy;oy;oy;ll;be;vr;eb;oy;	0
-暗矛	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	29
-暗矛宝珠	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bao;by;by;by;ia;ji;wi;pg;gy; zhu;ww;wv;wv;ae;md;na;gr;wv;	0
-暗矛的防御	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; fang;ef;ef;ef;bf;ns;tl;by;ef; yu;re;ie;xx;hb;hl;wz;tr;re;	0
-暗矛的青睐	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; qing;fo;fo;of,fo;al;qb;av;ge;ao; lai;ol;ol;ol;sl,sf;bt;qh;hg;ml;	0
-暗矛海滩	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; hai;dm;dm;dm;kh;ey;kk;it;dm; tan;dv;df;dn;ka;eg;ku;ic;dn;	0
-暗矛巨魔魔精	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; jing;mo;mo;mq;ll;fb;pv;og;mo;	0
-暗矛声望	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; sheng;tu;up;um;gp;gh;gc;fn;up; wang;ww;ww;wo;ia;yg;fn;yn;ww;	0
-暗矛腕轮	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; wan;ov;ov;ow;lt;bu;vz;ep;ov; lun;il;ib;il;ta;kp;yj;lw;ib;	0
-暗矛橡皮糖	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; xiang;mu;mn;mx;wh;do;ew;sq;lx; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; tang;mk;mk;mt;lo;fr;pd;oy;mk;	0
-暗矛掷斧者	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zhi;fe;fe;fv;jb;ql,xl;ut;ru;fe; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
-暗矛之靴	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
+暗矛	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	29
+暗矛宝珠	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bao;by;by;by;ia;ji;wi;pg;gy; zhu;ww;wv;wv;ae;md;na;gr;wv;	0
+暗矛的防御	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; fang;ef;ef;ef;bf;ns;tl;by;ef; yu;re;ie;xx;hb;hl;wz;tr;re;	0
+暗矛的青睐	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; qing;fo;fo;of,fo;al;qb;av;ge;ao; lai;ol;ol;ol;sl,sf;bt;qh;hg;ml;	0
+暗矛海滩	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; hai;dm;dm;dm;kh;ey;kk;it;dm; tan;dv;df;dn;ka;eg;ku;ic;dn;	0
+暗矛巨魔魔精	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; jing;mo;mo;mq;ll;fb;pv;og;mo;	0
+暗矛声望	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; sheng;tu;up;um;gp;gh;gc;fn;up; wang;ww;ww;wo;ia;yg;fn;yn;ww;	0
+暗矛腕轮	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; wan;ov;ov;ow;lt;bu;vz;ep;ov; lun;il;ib;il;ta;kp;yj;lw;ib;	0
+暗矛橡皮糖	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; xiang;mu;mn;mx;wh;do;ew;sq;lx; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; tang;mk;mk;mt;lo;fr;pd;oy;mk;	0
+暗矛掷斧者	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zhi;fe;fe;fv;jb;ql,xl;ut;ru;fe; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
+暗矛之靴	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 暗免	an;oo;oo;oy;vc;aa;ox;ju;oo; mian;de;dv;de,dm;gk;nu;wp;qk;ev;	0
 暗谋胸甲	an;oo;oo;oy;vc;aa;ox;ju;oo; mou;ym;ym;ym;cw;id;se;ya;yl; xiong;ox;ok;ox;lp;bk;vm;eq;ox; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
 暗幕	an;oo;oo;oy;vc;aa;ox;ju;oo; mu;cj;cj;jm,cj;zy;tb;lr;aj;cj;	4
@@ -19875,7 +19875,7 @@ use_preset_vocabulary: false
 暗血领袖	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; ling;ry;rr;yl;em;oo;jw;wy;rr; xiu;py;py;yy;hp;lw;td;pu;py;	0
 暗血掠夺者	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; lue;fx;fx;fj;ji;qf;uy;ry;fx; duo;dc;dc;dc,cd;xk;ki;mk;df;dc; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 暗血蛮兵	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; man;wi;wi;iy,yi;if;yi;zc;yo;wi; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
-暗血矛兵	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
+暗血矛兵	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
 暗血清道夫	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; qing;do;do;dq;kl;eb;kv;ig;do; dao;zz;zz;zu;fq;yu;hu;ut;zm; fu;er;an;ad,er;ee;qo;hf;fw;an;	0
 暗血酋长奥托尔	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; qiu;by;by;by,qa;fd;tm;hy;us;ey; zhang;pn;pn;pd;uh;po;pc;ta;pn; ao;pd;pd;dm,pd;ux;hk,xk;tm;tm;pd; tuo;fq;fq;fq,ft;ja;qp;ur;rt;fq; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	0
 暗血酋长奥托尔的头颅	an;oo;oo;oy;vc;aa;ox;ju;oo; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; qiu;by;by;by,qa;fd;tm;hy;us;ey; zhang;pn;pn;pd;uh;po;pc;ta;pn; ao;pd;pd;dm,pd;ux;hk,xk;tm;tm;pd; tuo;fq;fq;fq,ft;ja;qp;ur;rt;fq; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; lu;by;lr;yl;pm;yo;yw;hn;lr;	0
@@ -20993,7 +20993,7 @@ use_preset_vocabulary: false
 百夫长的绸缎外套	bai;ab;ab;ab;ds;ma;fu;dj;ab; fu;er;an;ad,er;ee;qo;hf;fw;an; zhang;pn;pn;pd;uh;po;pc;ta;pn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chou;sk;sk;sv;eo;vr;id;xm;sk; duan;su;sy;sd;el;ve;ir;xw;sy; wai;xb;xb;xb;fh;ny;ly;qh;xb; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
 百夫长的锁甲	bai;ab;ab;ab;ds;ma;fu;dj;ab; fu;er;an;ad,er;ee;qo;hf;fw;an; zhang;pn;pn;pd;uh;po;pc;ta;pn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; suo;jb;jr;jb;dm;oo;zo;qi;jr; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
 百夫长腿甲	bai;ab;ab;ab;ds;ma;fu;dj;ab; fu;er;an;ad,er;ee;qo;hf;fw;an; zhang;pn;pn;pd;uh;po;pc;ta;pn; tui;og;oz;ot;lq;bv;vu;ev;oh; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-白骨长矛	bai;po;po;pa,po;ss;ha;ub;rr;po; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+白骨长矛	bai;po;po;pa,po;ss;ha;ub;rr;po; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 白骨大厅	bai;po;po;pa,po;ss;ha;ub;rr;po; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; da;ar;un;ad;xx;kk;md;dd;an; ting;id;id;id;rj;mn;xa;ds;id;	0
 白骨堆	bai;po;po;pa,po;ss;ha;ub;rr;po; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; dui;tv;tf;tv;ga;gg;gu;fw;ta;	2
 白骨法师布裙	bai;po;po;pa,po;ss;ha;ub;rr;po; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; fa;dq;ds;dq;kp;ei;kk;if;dv; shi;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; qun;pk;pk;yj;ho;lr;td;pu;pk;	0
@@ -22287,10 +22287,10 @@ use_preset_vocabulary: false
 冰川外衣	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; wai;xb;xb;xb;fh;ny;ly;qh;xb; yi;wy;wy;dd;kk;yv;ti;ye;wh;	0
 冰川腰带	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 冰川之魂	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; zhi;dn;dn;dd;hh;io;ri;pp;dn; hun;yg;eg;gy,yg;us;mi;ba;fc;ev;	0
-冰川之矛	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+冰川之矛	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 冰川之拳	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; zhi;dn;dn;dd;hh;io;ri;pp;dn; quan;ju;ju;uf,ju;fo;fq;hu;ud;du;	0
 冰川之刃	bing;du;du;du;fo;ie;wk;ui;du; chuan;pl;pl;pa;up;ll;oc;kt;pa; zhi;dn;dn;dd;hh;io;ri;pp;dn; ren;dd;dd;dd;ii;si;pi;vy;dd;	0
-冰刺长矛	bing;du;du;du;fo;ie;wk;ui;du; ci;ud;ad;dc;di;dn;ep;gm;ad; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+冰刺长矛	bing;du;du;du;fo;ie;wk;ui;du; ci;ud;ad;dc;di;dn;ep;gm;ad; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 兵的靴子	bing;qb;qb;qb;uf;oc;th;rg;qb; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xue;gb;gb;gh;va;tp;tv;af;cb; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 冰冻暗纹长靴	bing;du;du;du;fo;ie;wk;ui;du; dong;dd;dd;dd;fi;id;wy;ua;dd; an;oo;oo;oy;vc;aa;ox;ju;oo; wen;sw;sw;sw;ej;vk;iv;xy;sx; chang;pn;pn;pd;uh;po;pc;ta;pn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 冰冻暗纹护肩	bing;du;du;du;fo;ie;wk;ui;du; dong;dd;dd;dd;fi;id;wy;ua;dd; an;oo;oo;oy;vc;aa;ox;ju;oo; wen;sw;sw;sw;ej;vk;iv;xy;sx; hu;fh;fh;fh;jq;qs;um;ry;fh; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho;	0
@@ -23476,7 +23476,7 @@ use_preset_vocabulary: false
 长路酒	chang;pn;pn;pd;uh;po;pc;ta;pn; lu;zk;zk;zg;go;rr;ps;kh;zk; jiu;dy;dy;dy;kd;ew;ky;is;dy;	0
 长路腰带	chang;pn;pn;pd;uh;po;pc;ta;pn; lu;zk;zk;zg;go;rr;ps;kh;zk; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 长路之靴	chang;pn;pn;pd;uh;po;pc;ta;pn; lu;zk;zk;zg;go;rr;ps;kh;zk; zhi;dn;dn;dd;hh;io;ri;pp;dn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
-长矛岛铲齿鹿肉	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dao;nu;pe;nu,un;up;pu;xv;qy;ps; chan;ji;ji;ji;du;oh;zx;qu;ji; chi;vr;vk;vk;rp;yo;lc;hw;va; lu;gb;gb;gb,lb;ra;ip;xl;yn;gb; rou;nr;nr;ad,kr;oe;oo;mj;mw;nr;	0
+长矛岛铲齿鹿肉	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dao;nu;pe;nu,un;up;pu;xv;qy;ps; chan;ji;ji;ji;du;oh;zx;qu;ji; chi;vr;vk;vk;rp;yo;lc;hw;va; lu;gb;gb;gb,lb;ra;ip;xl;yn;gb; rou;nr;nr;ad,kr;oe;oo;mj;mw;nr;	0
 长毛猛犸象	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; meng;qm;qm;qm;ba;kt;ma;qt;qm; ma;qm;qm;qm;bz;km;mn;qt;qm; xiang;du;dn;du,pd,ua;gh;no;wx;qj;en;	1
 长毛犀牛首领	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;pv;pv;pg;ur;hu;vm;tf;pv; xi;un;un;nu,un;qb;sq;cq;ni;un; niu;pu;pl;pa;bb;hq;qn;rh;pa; shou;bz;bz;qz;fs;tu;ho;ut;em; ling;ry;rr;yl;em;oo;jw;wy;rr;	0
 长明灯笼	chang;pn;pn;pd;uh;po;pc;ta;pn; ming;oo;oo;oo;vl;ab;ov;je;oo; deng;hd;hd;hd;tj;fn;ca;os;hd; long;vl;vl;vl;nh;hp;rt;td;vb;	0
@@ -24295,7 +24295,7 @@ use_preset_vocabulary: false
 穿刺之脊	chuan;by;by;xy,by;iu;jh;el;pw;gy; ci;ud;ad;dc;di;dn;ep;gm;ad; zhi;dn;dn;dd;hh;io;ri;pp;dn; ji;ro;do;od,or;fl;fb;wv;iw;do;	0
 穿刺之伤	chuan;by;by;xy,by;iu;jh;el;pw;gy; ci;ud;ad;dc;di;dn;ep;gm;ad; zhi;dn;dn;dd;hh;io;ri;pp;dn; shang;rl;rl;rl;xu;os;js;wt;rl;	0
 穿喉者	chuan;by;by;xy,by;iu;jh;el;pw;gy; hou;ku;ku;kh;ox;rk;do;kw;kd; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
-穿魂长矛	chuan;by;by;xy,by;iu;jh;el;pw;gy; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+穿魂长矛	chuan;by;by;xy,by;iu;jh;el;pw;gy; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 穿旧的便鞋	chuan;by;by;xy,by;iu;jh;el;pw;gy; jiu;lo;lo;ao;pv;la;go;hj;ao; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; bian;rg;rg;rg;xy;ok;jb;wg;rg; xie;gt;gt;gg;vg;tg;tg;af;ct;	0
 穿旧的玛格汉手套	chuan;by;by;xy,by;iu;jh;el;pw;gy; jiu;lo;lo;ao;pv;la;go;hj;ao; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ma;wm;wm;wm;az;mm;nn;gc;wm; ge;mk;mk;mg;wo;dr;es;st;lk; han;dy;dy;dy;kl;ee;kr;ic;dy; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
 穿旧的跑鞋	chuan;by;by;xy,by;iu;jh;el;pw;gy; jiu;lo;lo;ao;pv;la;go;hj;ao; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; pao;zb;zs;zb;gt;ru;pv;kh;zv; xie;gt;gt;gg;vg;tg;tg;af;ct;	1
@@ -24460,7 +24460,7 @@ use_preset_vocabulary: false
 赐福鳞片束带	ci;bw;kw;by;mi;bh;oe;mj;bw; fu;pt;pt;uf,ut;hw;iw;fq;py;pt; lin;yf;al;yl;qp;nq;wv;qg;ea; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 刺钢护肩	ci;ud;ad;dc;di;dn;ep;gm;ad; gang;jx;jx;jg;dy;ok;zb;qm;jx; hu;fh;fh;fh;jq;qs;um;ry;fh; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho;	0
 刺骨暗影	ci;ud;ad;dc;di;dn;ep;gm;ad; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; an;oo;oo;oy;vc;aa;ox;ju;oo; ying;op;op;pj;vu;ah;oe;jy;op;	0
-刺骨冰矛	ci;ud;ad;dc;di;dn;ep;gm;ad; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; bing;du;du;du;fo;ie;wk;ui;du; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+刺骨冰矛	ci;ud;ad;dc;di;dn;ep;gm;ad; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; bing;du;du;du;fo;ie;wk;ui;du; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 刺骨雕文	ci;ud;ad;dc;di;dn;ep;gm;ad; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; diao;kv;kf;vv;oa,ua;bg;mu;mf;va; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx;	0
 刺骨寒风斗篷	ci;ud;ad;dc;di;dn;ep;gm;ad; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; han;bd;bd;bd;ih;jy;ww;pf;gd; feng;jx;jx;ji;iy;hk;ob;mq;jx; dou;ud;du;du;hs;yj;jd;uf;du; peng;vf;vz;vf;nq;hj;ru;tt;vf;	0
 刺骨尖啸	ci;ud;ad;dc;di;dn;ep;gm;ad; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; jian;xd;xd;xd;ix;fk;ym;id;ad; xiao;kb;ks;ks;of;rl;dh;kv;ks;	0
@@ -24548,7 +24548,7 @@ use_preset_vocabulary: false
 次级治疗药水	ci;dq;dr;dq;fe;io,mo;we;uq;dr; ji;sj;sj;sj;eh;ve;ic;xe;sj; zhi;dk;dk;dt;ko;er;kd;ic;dk; liao;bl;bl;bl;mp;kn;ar;ub;bl; yao;cu;cu;cy;zh;ti;li;ax;cu; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn;	0
 次级状态	ci;dq;dr;dq;fe;io,mo;we;uq;dr; ji;sj;sj;sj;eh;ve;ic;xe;sj; zhuang;lq;dq;jq,pq,qp;lb;lk;am;ud;dq; tai;tx;tx;xt;xn;kp;mh;dy;tx;	0
 刺激诅咒	ci;ud;ad;dc;di;dn;ep;gm;ad; ji;dw;dw;dj,dw;kj;ek;kh;ir;dw; zu;yq;yq;yq;cu;im;sf;ye;yq; zhou;kj;kj;kj,jk;oi;rn;do;kk;kj;	0
-刺甲之矛	ci;ud;ad;dc;di;dn;ep;gm;ad; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+刺甲之矛	ci;ud;ad;dc;di;dn;ep;gm;ad; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 刺客衬衣	ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk; chen;pc;pc;yc;hk;li;tk;pu;pc; yi;wy;wy;dd;kk;yv;ti;ye;wh;	0
 刺客的短剑	ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; duan;ub;ua;ud;ed;ot;oz;td;ud; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 刺客的飞镖	ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; fei;vd;vd;yd;rh;no,xo;cf;nu;vd; biao;ju;jx;jp;di;of;zf;qs;jx;	0
@@ -24562,7 +24562,7 @@ use_preset_vocabulary: false
 刺客之靴	ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk; zhi;dn;dn;dd;hh;io;ri;pp;dn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 刺肋	ci;ud;ad;dc;di;dn;ep;gm;ad; lei;ol;ol;ol;lu;bs;vs;el;ol;	0
 刺灵护腕	ci;ud;ad;dc;di;dn;ep;gm;ad; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov;	0
-刺灵之矛	ci;ud;ad;dc;di;dn;ep;gm;ad; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+刺灵之矛	ci;ud;ad;dc;di;dn;ep;gm;ad; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 刺毛虫腿	ci;ud;ad;dc;di;dn;ep;gm;ad; mao;pv;pv;pg;ur;hu;vm;tf;pv; chong;vd;vd;ad,vd;ff;li;cc;jh;vd; tui;og;oz;ot;lq;bv;vu;ev;oh;	0
 刺毛甲壳蟹	ci;ud;ad;dc;di;dn;ep;gm;ad; mao;pv;pv;pg;ur;hu;vm;tf;pv; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; qiao;tj;uj;uj;gi;gn,xn;go;fp;uj; xie;di;di;ij;gf;ni;xc;qe;ei;	0
 刺毛荆棘项链	ci;ud;ad;dc;di;dn;ep;gm;ad; mao;pv;pv;pg;ur;hu;vm;tf;pv; jing;cd;cd;dk;zi;tn;lp;ag;cd; ji;uu;an;cc;df;db;em;gm;an; xiang;gy;gr;gy,yg;pm;mo;uw;ad;gr; lian;ji;jz;jl;dq;oq;zu;ql;ji;	0
@@ -24607,7 +24607,7 @@ use_preset_vocabulary: false
 刺藤腰带	ci;ud;ad;dc;di;dn;ep;gm;ad; teng;cu;cu;ct;zo;te;lk;ae;cu; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 刺蹄	ci;ud;ad;dc;di;dn;ep;gm;ad; ti;zj;zj;zd;gy;rb;pr;kh;zj;	0
 刺痛之斧	ci;ud;ad;dc;di;dn;ep;gm;ad; tong;by;by;by;mp;kb;at;uc;by; zhi;dn;dn;dd;hh;io;ri;pp;dn; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
-刺头之矛	ci;ud;ad;dc;di;dn;ep;gm;ad; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+刺头之矛	ci;ud;ad;dc;di;dn;ep;gm;ad; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 刺尾匕首	ci;ud;ad;dc;di;dn;ep;gm;ad; wei;um;um;um;qr;su;cv;nt;um; bi;pv;pv;pg;aa;uh;vb;xt;pv; shou;bz;bz;qz;fs;tu;ho;ut;em;	0
 刺尾剑龙	ci;ud;ad;dc;di;dn;ep;gm;ad; wei;um;um;um;qr;su;cv;nt;um; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; long;yp;ud;ad;sh;ip;tl;dx;ab;	0
 雌性风翼猎鹰	ci;vv;vf;vc;ra;yg;su;hx;va; xing;xu;xu;xu;na;pm;hl;nt;xu; feng;jx;jx;ji;iy;hk;ob;mq;jx; yi;xg;xb;yg,yy;df;sc;zh;nl;xb; lie;qo;qo;qx;bv;ka;mo;qt;qo; ying;gn;gn;gn,nv;rc;im;xx;yw;gn;	0
@@ -24740,7 +24740,7 @@ use_preset_vocabulary: false
 崔古	cui;uv;ef;uv;pa;ug;vu;mw;sa; gu;uk;uk;uk;so;jr;cg;dg;uk;	0
 崔互德肩铠	cui;uv;ef;uv;pa;ug;vu;mw;sa; hu;ah;aa;aa,ea,ev;dd;mm;fb;gx;aa; de;rx;ix;xx;hn;hp;wh;tf;rx; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
 催化腕甲	cui;rv;rf;rc;xa;og;ju;wm;ra; hua;rb;rb;rb;xa;op;jv;wx;rb; wan;ov;ov;ow;lt;bu;vz;ep;ov; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-摧毁长矛	cui;fv;ff;fc;ja;qg;uu;rm;fa; hui;ju;jy;jy,ug;sl;he;pr;va;jy; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+摧毁长矛	cui;fv;ff;fc;ja;qg;uu;rm;fa; hui;ju;jy;jy,ug;sl;he;pr;va;jy; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 摧毁蛋	cui;fv;ff;fc;ja;qg;uu;rm;fa; hui;ju;jy;jy,ug;sl;he;pr;va;jy; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	1
 摧毁火箭靴	cui;fv;ff;fc;ja;qg;uu;rm;fa; hui;ju;jy;jy,ug;sl;he;pr;va;jy; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; jian;vd;vd;vq;ni;hn;rp;tu;vd; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 摧毁结界	cui;fv;ff;fc;ja;qg;uu;rm;fa; hui;ju;jy;jy,ug;sl;he;pr;va;jy; jie;sk;sk;sj;eo;vr;id;xf;sk; jie;tj;tl;tj;wp;wl;qp;lw;tj;	0
@@ -24798,7 +24798,7 @@ use_preset_vocabulary: false
 翠石项链	cui;xu;xu;yz;ds;sj;zn;ny;xu; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; xiang;gy;gr;gy,yg;pm;mo;uw;ad;gr; lian;ji;jz;jl;dq;oq;zu;ql;ji;	0
 崔斯里克	cui;uv;ef;uv;pa;ug;vu;mw;sa; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; li;tt;la;aa,tt;vg;wg;dl;jf;aa; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue;	0
 翠希的小狗	cui;xu;xu;yz;ds;sj;zn;ny;xu; xi;xj;xj;ju,ib,ij;yy;kb;br;qd;xj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiao;lb;ld;ad;ii;nc;yx;ih;vd; gou;qj;qk;qj;bi;kr;mg;qt;qk;	0
-淬血长矛	cui;du;du;dz;ks;ej;kn;iy;du; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+淬血长矛	cui;du;du;dz;ks;ej;kn;iy;du; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 淬血护肩	cui;du;du;dz;ks;ej;kn;iy;du; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; hu;fh;fh;fh;jq;qs;um;ry;fh; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho;	0
 崔雅娜	cui;uv;ef;uv;pa;ug;vu;mw;sa; ya;yv;yf;vy,yv;da;mg;lu;ah;ya; na;ne;ne;nn;yb;vl;bt;vv;ne;	0
 翠焰宝冠	cui;xu;xu;yz;ds;sj;zn;ny;xu; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; bao;by;by;by;ia;ji;wi;pg;gy; guan;bc;bc;bc;ik;bi;wk;pf;gc;	0
@@ -26122,7 +26122,7 @@ use_preset_vocabulary: false
 地狱火稀有愤怒守卫	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; xi;hj;hj;hx;uy;hb;xr;tq;hj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; fen;xb;xr;xb;nm;po;ho;nf;xr; nu;nx;nx;xn;yn;vp;bh;vc;nx; shou;bc;bc;bc;ik;ji;wk;pf;gc; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea;	0
 地狱火稀有石头掠夺者	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; xi;hj;hj;hx;uy;hb;xr;tq;hj; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; lue;fx;fx;fj;ji;qf;uy;ry;fx; duo;dc;dc;dc,cd;xk;ki;mk;df;dc; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 地狱火效果	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; xiao;ww;ww;wj;ij;yk;ah;uq;ww; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
-地狱火战矛	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+地狱火战矛	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 地狱火战争使者	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; zhan;vg;lg;gv;pa;yi;yp;hk;vg; zheng;dy;dl;dy;gp;nd;xb;qv;ev; shi;rl;rl;rl;xy;ok;jb;wg;rl; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 地狱火罩	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; zhao;su;su;sv;as;wj;yn;lh;su;	0
 地狱火之魂	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; yu;qq;qq;qq;bb;kk;mm;qt;qq; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; zhi;dn;dn;dd;hh;io;ri;pp;dn; hun;yg;eg;gy,yg;us;mi;ba;fc;ev;	0
@@ -26828,10 +26828,10 @@ use_preset_vocabulary: false
 断裂血石	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; xie;pm;pm;pa,pm;ua;ht;ta;tl;pm; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 断裂血玉石	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; yu;wd;wd;ad,wd;aa;mi;ni;gy;wd; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 断裂之杖	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; lie;dy;dy;yl;fk;mv;gt;gq;dh; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
-断矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	9
-断矛村	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; cun;mc;mc;mc;wk;di;ek;sf;lc;	0
-断矛巨魔	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; mo;gg;gg;gm,mg;ds;ii;za;ys;gv;	0
-断矛路口	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; lu;zk;zk;zg;go;rr;ps;kh;zk; kou;la;la;aa;oo;rr;dk;kk;aa;	0
+断矛	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	9
+断矛村	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; cun;mc;mc;mc;wk;di;ek;sf;lc;	0
+断矛巨魔	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; mo;gg;gg;gm,mg;ds;ii;za;ys;gv;	0
+断矛路口	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; lu;zk;zk;zg;go;rr;ps;kh;zk; kou;la;la;aa;oo;rr;dk;kk;aa;	0
 断能宝石	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; neng;sb;sb;sb;pa;ip;kv;ce;vb; bao;by;by;by;ia;ji;wi;pg;gy; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 锻能戒环	duan;ju;jy;jd;dl;oe;zr;qw;jy; neng;sb;sb;sb;pa;ip;kv;ce;vb; jie;gc;gc;gc;ap,ha;it;pl;aa;ag; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
 断片束带	duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
@@ -27531,7 +27531,7 @@ use_preset_vocabulary: false
 法力炸弹闪电目标	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zha;hv;hv;hv;tu;fs;cw;ot;hv; dan;gu;gl;gd;rs;nj;bn;xu;gd; shan;mr;mr;mr,rm;oe;lo;aj;uw;mr; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; mu;ke;ka;aa,om,mu;ss;bu;qm;hh;we; biao;mu;mx;mu;wi;df;ef;sf;lx;	0
 法力织布机	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;sv;sb;sv;ef;vc;ih;xk;sb; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ji;mj;mj;mj;wi;dn;eo;sm;lj;	0
 法力之潮	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; chao;do;do;di;kl;eb;kv;if;do;	0
-法力之矛	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+法力之矛	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 法力之泉	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; quan;bu;bu;bu,ub;so;he;uk;ri;bu;	0
 法力之泉图腾	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; quan;bu;bu;bu,ub;so;he;uk;ri;bu; tu;kd;kd;kd;nh;wy;rw;lt;wd; teng;om;om;om;lz;bm;vn;eu;om;	0
 法力之油	fa;dq;ds;dq;kp;ei;kk;if;dv; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; you;dy;dy;dy;kp;ew;kd;im;dy;	0
@@ -27927,7 +27927,7 @@ use_preset_vocabulary: false
 放置金币	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; bi;pj;pj;pj;uy;hb;tr;tm;pj;	0
 放置剧毒粮草	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; ju;ud;ud;dj;qi;sn;cp;nd;ud; du;fm;fm;fm;ah;qi;ak;gx;am; liang;ml;ml;ml;lh;fv;pi;oy;mh; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
 放置雷松的信号灯	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; lei;yt;yt;yt;yw;mw;tq;fl;yt; song;mg;ms;mg;wp;di;ek;sw;lv; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xin;rk;rk;ry;xc;or;js;wy;rk; hao;kk;kv;kk;or;rs;da;kg;kv; deng;hd;hd;hd;tj;fn;ca;os;hd;	0
-放置尼姆布亚的长矛	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay; di;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+放置尼姆布亚的长矛	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay; di;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 放置蛇颈龙肉	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; she;ib;ib;it;fa;lp;cv;jp;ib; jing;jy;vr;yg;rm;no;rw;ca;vr; long;yp;ud;ad;sh;ip;tl;dx;ab; rou;nr;nr;ad,kr;oe;oo;mj;mw;nr;	0
 放置狮肉	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; shi;qj;qj;qu;by;kb;mr;qt;qj; rou;nr;nr;ad,kr;oe;oo;mj;mw;nr;	0
 放置水晶球	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; zhi;sq;sq;sv;ad,au;wm;yf;lf;sv; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; jing;oo;oo;oo;vv;aa;oo;jj;oo; qiu;wq;wq;wq;ah;me;ni;gf;wq;	0
@@ -28096,7 +28096,7 @@ use_preset_vocabulary: false
 菲欧拉	fei;cf;cf;cf;zu;ty;lr;ad;cf; ou;qq;kr;qq;de;so;ne;aq;kr; la;fl;fl;fl;jb;qt;ui;ru;fl;	0
 肺片鸡尾酒	fei;oj;ol,oj;of,oj;ly;bb;vr;eg;oa; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv; ji;yn;yn;ny,yn;lc;em;rx;cq;yn; wei;um;um;um;qr;su;cv;nt;um; jiu;dy;dy;dy;kd;ew;ky;is;dy;	0
 费奇	fei;fb;fr;bf,fb;rm;lo;to;xj;fr; qi;dk;dk;dk;xj;kr;mz;ds;dk;	105
-废弃长矛	fei;gy;gd;gf;rh;ie;xi;yn;gy; qi;wc;wc;cw,wc;ip;yt;bl;yc;wa; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+废弃长矛	fei;gy;gd;gf;rh;ie;xi;yn;gy; qi;wc;wc;cw,wc;ip;yt;bl;yc;wa; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 废弃的金属零件	fei;gy;gd;gf;rh;ie;xi;yn;gy; qi;wc;wc;cw,wc;ip;yt;bl;yc;wa; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; shu;uy;uy;uy;qh;sb;cv;nt;uy; ling;ys;ys;yl;yp;mi;tk;fw;yv; jian;rn;rn;rn;xb;oq;jq;wr;rn;	0
 废弃的军械库	fei;gy;gd;gf;rh;ie;xi;yn;gy; qi;wc;wc;cw,wc;ip;yt;bl;yc;wa; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jun;bi;bi;bi;it;bq;wy;pl;gi; xie;mc;mc;mj;wa,wp;dt;el;sa;lg; ku;gi;gi;gi;rt;iq;xy;yl;gi;	0
 废弃岗哨	fei;gy;gd;gf;rh;ie;xi;yn;gy; qi;wc;wc;cw,wc;ip;yt;bl;yc;wa; gang;ux;ex;ug;py;uk;vb;mm;sx; shao;ko;ko;kx;ol;rb;dv;ki;ko;	0
@@ -28216,7 +28216,7 @@ use_preset_vocabulary: false
 分叉飞刀	fen;bd;bd;bd,db;fi;ch;hp;wv;bd; cha;yd;yd;dy,yd;lh;ei,xi;ri;cy;yd; fei;vd;vd;yd;rh;no,xo;cf;nu;vd; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp;	0
 分叉斧	fen;bd;bd;bd,db;fi;ch;hp;wv;bd; cha;yd;yd;dy,yd;lh;ei,xi;ri;cy;yd; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
 芬德雷	fen;cf;cd;cf;zi;th;lp;aw;cd; de;rx;ix;xx;hn;hp;wh;tf;rx; lei;yt;yt;yt;yw;mw;tq;fl;yt;	0
-芬德雷迅矛	fen;cf;cd;cf;zi;th;lp;aw;cd; de;rx;ix;xx;hn;hp;wh;tf;rx; lei;yt;yt;yt;yw;mw;tq;fl;yt; xun;zu;zu;zu,zx;rq;yj;au;nf;zu; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+芬德雷迅矛	fen;cf;cd;cf;zi;th;lp;aw;cd; de;rx;ix;xx;hn;hp;wh;tf;rx; lei;yt;yt;yt;yw;mw;tq;fl;yt; xun;zu;zu;zu,zx;rq;yj;au;nf;zu; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 分队鲁尔格	fen;bd;bd;bd,db;fi;ch;hp;wv;bd; dui;er;er;er;be;no;tj;bw;er; lu;yo;ao;yo;qv;na;wo;qg;eo; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; ge;mk;mk;mg;wo;dr;es;st;lk;	0
 芬芳花朵	fen;cf;cd;cf;zi;th;lp;aw;cd; fang;cf;cf;cf;zf;ts;ll;ay;cf; hua;cb;cb;ch;za;tp;lv;aw;cb; duo;jm;jm;mj,jm;iw;hd;oe;ms;jl;	0
 芬芳轻锤	fen;cf;cd;cf;zi;th;lp;aw;cd; fang;cf;cf;cf;zf;ts;ll;ay;cf; qing;ij;ig;ig;tp;km;yu;lc;ig; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
@@ -28546,11 +28546,11 @@ use_preset_vocabulary: false
 风灵法杖	feng;jx;jx;ji;iy;hk;ob;mq;jx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; fa;dq;ds;dq;kp;ei;kk;if;dv; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
 封灵箱	feng;tc;tc;cg;gk;gi;gk;ff;tc; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; xiang;vo;vo;vx;ns;hu;rq;ts;vm;	0
 风路	feng;jx;jx;ji;iy;hk;ob;mq;jx; lu;zk;zk;zg;go;rr;ps;kh;zk;	15
-风矛	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+风矛	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 风茅	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;cm;cp;cm;zu;th;lt;ac;cm;	0
-风矛长弓	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; chang;pn;pn;pd;uh;po;pc;ta;pn; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
+风矛长弓	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; chang;pn;pn;pd;uh;po;pc;ta;pn; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
 风茅村	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;cm;cp;cm;zu;th;lt;ac;cm; cun;mc;mc;mc;wk;di;ek;sf;lc;	0
-风矛斗篷	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dou;ud;du;du;hs;yj;jd;uf;du; peng;vf;vz;vf;nq;hj;ru;tt;vf;	0
+风矛斗篷	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dou;ud;du;du;hs;yj;jd;uf;du; peng;vf;vz;vf;nq;hj;ru;tt;vf;	0
 风茅落魄者	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;cm;cp;cm;zu;th;lt;ac;cm; luo;ck;ck;cl;zo,rr;tr;ls;ai;ck; po;bg;bg;bg,gb;ss;hi;ua;rr;bv; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 风茅清道夫	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;cm;cp;cm;zu;th;lt;ac;cm; qing;do;do;dq;kl;eb;kv;ig;do; dao;zz;zz;zu;fq;yu;hu;ut;zm; fu;er;an;ad,er;ee;qo;hf;fw;an;	0
 风茅小径	feng;jx;jx;ji;iy;hk;ob;mq;jx; mao;cm;cp;cm;zu;th;lt;ac;cm; xiao;lb;ld;ad;ii;nc;yx;ih;vd; jing;rj;ig;xg;hp;hm;wu;tc;rg;	0
@@ -28745,7 +28745,7 @@ use_preset_vocabulary: false
 复仇军波浪法师	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; bo;dp;dy;dp;kl;ee;kr;ih;dy; lang;dl;dl;dl;kh;ev;ki;iy;dh; fa;dq;ds;dq;kp;ei;kk;if;dv; shi;lj;lj;ab,aj,db,dj;py;lb;pr;jg;aj;	0
 复仇军传达者	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; chuan;rv;rv;rv;xh;oi;ji;wf;rv; da;zd;zd;zd;xq;yk,xk;mu;dp;zd; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 复仇军刺客	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk;	0
-复仇军的相位长矛	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiang;mo;mo;mo;ws;du;eq;sh;lm; wei;rl;rl;rl;xb;ot;ji;wu;rl; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+复仇军的相位长矛	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiang;mo;mo;mo;ws;du;eq;sh;lm; wei;rl;rl;rl;xb;ot;ji;wu;rl; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 复仇军的相位之剑	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiang;mo;mo;mo;ws;du;eq;sh;lm; wei;rl;rl;rl;xb;ot;ji;wu;rl; zhi;dn;dn;dd;hh;io;ri;pp;dn; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 复仇军发射器塞塔	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; fa;fy;vd;ay,fd,vy,yd;rh;ie;si;v,nt;vy; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk; sai;bt;bt;tb,bt;ig;jg;wg;pf;gt; ta;tk;tk;td,th;go;gr;gd;fa;tk;	0
 复仇军缚灵者	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; chou;rj;rj;rj;xr;on;jk;wv;rj; jun;bi;bi;bi;it;bq;wy;pl;gi; fu;sc;sc;sc,sf;ek;vi;ik;xg;sc; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
@@ -29715,7 +29715,7 @@ use_preset_vocabulary: false
 高级奥术腰带	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; ao;pd;pd;dm,pd;ux;hk,xk;tm;tm;pd; shu;md;md;md;wh;id,xd;ei;sy;ld; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 高级剥皮	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; bao;ed;ed;dl;si;nn;bp;vi;ld; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy;	1
 高级宝石学	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; bao;by;by;by;ia;ji;wi;pg;gy; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; xue;xz;xz;dz,zb;ha;fd;kh;ip;ez;	0
-高级冰刺长矛	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; bing;du;du;du;fo;ie;wk;ui;du; ci;ud;ad;dc;di;dn;ep;gm;ad; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+高级冰刺长矛	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; bing;du;du;du;fo;ie;wk;ui;du; ci;ud;ad;dc;di;dn;ep;gm;ad; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 高级裁缝	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; cai;gy;uy;gy,yg;sk,ha;jv;nt;fa;hg; feng;sf;sz;sf;eq;vj;iu;xt;sf;	2
 高级采矿	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; cai;vm;pm;mv,vm;hw;bd;ye;es;pl; kuang;ug;ug;ug;tr;mi;mx;dy;ug;	2
 高级草药学	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; cao;cu;cu;cz;zs;tj;ln;aj;cu; yao;cu;cu;cy;zh;ti;li;ax;cu; xue;xz;xz;dz,zb;ha;fd;kh;ip;ez;	0
@@ -30278,7 +30278,7 @@ use_preset_vocabulary: false
 格瑞姆格斯	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; ge;mk;mk;mg;wo;dr;es;st;lk; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	0
 格瑞姆洛克	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; luo;dk;dk;dg;ko;er;ks;it;dk; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue;	0
 格瑞姆洛克的部族法衣	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; luo;dk;dk;dg;ko;er;ks;it;dk; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; bu;le;le;ek,ep;bb;yl;it;uk;le; zu;fu;fu;fu;fx;yk;lo;yt;fd; fa;dq;ds;dq;kp;ei;kk;if;dv; yi;wy;wy;dd;kk;yv;ti;ye;wh;	0
-格瑞姆洛克之矛	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; luo;dk;dk;dg;ko;er;ks;it;dk; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+格瑞姆洛克之矛	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; luo;dk;dk;dg;ko;er;ks;it;dk; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 格瑞穆纳尔	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;hp;hp;hp;uu;hh;xe;tr;hp; na;sn;sn;sn;ee;vb;ij;xm;sn; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	0
 格瑞姆森	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; sen;mm;mm;ml;ww;dd;ee;ss;ll;	0
 格瑞姆斯弗特	ge;mk;mk;mg;wo;dr;es;st;lk; rui;we;we;we;ab;mb;nl;gm;we; mu;nm;nm;nm;yh;vi;bk;vx;nm; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; fu;gl;vl;aa,gd,vu;rp;ln;tf;xj;va; te;nc;nc;ns;bk;hi;qk;tr;nc;	0
@@ -30675,7 +30675,7 @@ use_preset_vocabulary: false
 骨甲护腕	gu;go;lo;go,ob,og;cc;bb;fg;me;ao; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov;	0
 骨甲术	gu;go;lo;go,ob,og;cc;bb;fg;me;ao; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
 骨节护手	gu;go;lo;go,ob,og;cc;bb;fg;me;ao; jie;ce;ce;ce;zb;tl;lz;ab;ce; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
-古旧长矛	gu;uk;uk;uk;so;jr;cg;dg;uk; jiu;lo;lo;ao;pv;la;go;hj;ao; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+古旧长矛	gu;uk;uk;uk;so;jr;cg;dg;uk; jiu;lo;lo;ao;pv;la;go;hj;ao; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 古旧的长棍	gu;uk;uk;uk;so;jr;cg;dg;uk; jiu;lo;lo;ao;pv;la;go;hj;ao; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; gun;mb;mb;mk;wa;dp;ev;sj;lb;	0
 古旧钉锤	gu;uk;uk;uk;so;jr;cg;dg;uk; jiu;lo;lo;ao;pv;la;go;hj;ao; ding;jd;jd;jd;dj;on;za;qs;jd; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
 古旧皮甲护腕	gu;uk;uk;uk;so;jr;cg;dg;uk; jiu;lo;lo;ao;pv;la;go;hj;ao; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov;	0
@@ -31763,7 +31763,7 @@ use_preset_vocabulary: false
 航海束带	hang;vj;vj;vk;ti;hn;io;te;vj; hai;dm;dm;dm;kh;ey;kk;it;dm; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 好斗的雷象	hao;nz;nz;nz;ya;vd;bh;vb;nz; dou;ud;du;du;hs;yj;jd;uf;du; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; lei;yt;yt;yt;yw;mw;tq;fl;yt; xiang;du;dn;du,pd,ua;gh;no;wx;qj;en;	0
 好斗项圈	hao;nz;nz;nz;ya;vd;bh;vb;nz; dou;ud;du;du;hs;yj;jd;uf;du; xiang;gy;gr;gy,yg;pm;mo;uw;ad;gr; quan;kv;kv;kj;nt;wu;rz;lu;wv;	0
-豪尔之矛	hao;wu;wu;ub,wu;ih;yo;gj;yp;wn; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+豪尔之矛	hao;wu;wu;ub,wu;ih;yo;gj;yp;wn; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 好儿子沙度	hao;nz;nz;nz;ya;vd;bh;vb;nz; er;pv;pv;pg;kk;lu;pe;qt;pv; zi;la;va;aa,vh;aa;nd;hi;bb;va; sha;du;du;du;ki;eh;kt;ii;du; du;gy;gy;gy;rl;ie;xr;ya;gy;	0
 嚎风谷	hao;ku;ku;kh;oh;ro;dj;ky;kh; feng;jx;jx;ji;iy;hk;ob;mq;jx; gu;bk;bk;bk,kr;fo;cr;hg;ww;bk;	0
 嚎风护腕	hao;ku;ku;kh;oh;ro;dj;ky;kh; feng;jx;jx;ji;iy;hk;ob;mq;jx; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov;	0
@@ -32051,7 +32051,7 @@ use_preset_vocabulary: false
 黑暗之壳	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; ke;tj;uj;uj;gi;gn,xn;go;fp;uj;	0
 黑暗之刻外套	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; ke;wd;wd;dh;ii;yn;kp;yn;wd; wai;xb;xb;xb;fh;ny;ly;qh;xb; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
 黑暗治疗	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dk;dk;dt;ko;er;kd;ic;dk; liao;bl;bl;bl;mp;kn;ar;ub;bl;	0
-黑暗之矛	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+黑暗之矛	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 黑暗之门和暴风城的陷落	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; men;dv;dv;dg;oo;ls;am;uy;dv; he;hk;hk;hk;uo;hr;xd;t,tk;hk; bao;ou;ou;ou;vo;ae;ok;ja;ou; feng;jx;jx;ji;iy;hk;ob;mq;jx; cheng;ti;ti;ti;gh;gs;ga;fd;tg; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xian;ej;ej;ej,ex;bs;nx;tp;bq;ej; luo;ck;ck;cl;zo,rr;tr;ls;ai;ck;	0
 黑暗之手	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	1
 黑暗之水	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; zhi;dn;dn;dd;hh;io;ri;pp;dn; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn;	0
@@ -33753,7 +33753,7 @@ use_preset_vocabulary: false
 霍德玛尔城	huo;yv;yf;yv;ya;mg;tu;fw;ya; de;rx;ix;xx;hn;hp;wh;tf;rx; ma;wm;wm;wm;az;mm;nn;gc;wm; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; cheng;ti;ti;ti;gh;gs;ga;fd;tg;	1
 获得旋风武器	huo;cq;cq;cq;zb;tk;lm;aq;cq; de;rc;ic;xc;hk;hi;wk;tj;rc; xuan;fz;fr;fp;fe;yo;lt;yt;fr; feng;jx;jx;ji;iy;hk;ob;mq;jx; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	0
 霍迪尔的号角	huo;yv;yf;yv;ya;mg;tu;fw;ya; di;zy;zy;zy;vq;yw;du;mp;zy; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; hao;kk;kv;kk;or;rs;da;kg;kv; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey;	0
-霍迪尔之矛	huo;yv;yf;yv;ya;mg;tu;fw;ya; di;zy;zy;zy;vq;yw;du;mp;zy; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+霍迪尔之矛	huo;yv;yf;yv;ya;mg;tu;fw;ya; di;zy;zy;zy;vq;yw;du;mp;zy; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 活动故障	huo;du;dk;du;ko;er;ka;it;dk; dong;yl;el;ly,yl;uu;ms;bs;fc;el; gu;gw;uw;wg;sj;jk;ch;dt;uw; zhang;eu;eu;ev;bs;nj;tn;bu;eu;	0
 活动假人	huo;du;dk;du;ko;er;ka;it;dk; dong;yl;el;ly,yl;uu;ms;bs;fc;el; jia;ry;ry;rj,ry;xl;oe;jr;wn;ry; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	4
 活动区域	huo;du;dk;du;ko;er;ka;it;dk; dong;yl;el;ly,yl;uu;ms;bs;fc;el; qu;kx;kx;ki;dr;sk;nb;aq;kx; yu;ta;ta;th;gd,ga;gm;gf;fa;tg;	0
@@ -34388,8 +34388,8 @@ use_preset_vocabulary: false
 吉克希尔	ji;tk;uk;ku,uk;go;gr;gd;fk;uk; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; xi;xj;xj;ju,ib,ij;yy;kb;br;qd;xj; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	0
 吉科希斯	ji;tk;uk;ku,uk;go;gr;gd;fk;uk; ke;hd;hu;hd;us;hj;xj;tu;hu; xi;xj;xj;ju,ib,ij;yy;kb;br;qd;xj; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	0
 吉蓝迪斯	ji;tk;uk;ku,uk;go;gr;gd;fk;uk; lan;cm;cm;cj;za;tt;la;aj;cm; di;zy;zy;zy;vq;yw;du;mp;zy; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	0
-级雷矛徽记	ji;sj;sj;sj;eh;ve;ic;xe;sj; lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; hui;rx;iw;xw;hj;hk;wh;tm;rw; ji;yj;yj;yj;ct;iu;sv;yn;yj;	0
-级雷矛勋章	ji;sj;sj;sj;eh;ve;ic;xe;sj; lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; xun;kl;kl;ly;ou;rs;ds;km;kl; zhang;lu;lu;lz;cs;yj;xn;uj;lu;	0
+级雷矛徽记	ji;sj;sj;sj;eh;ve;ic;xe;sj; lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; hui;rx;iw;xw;hj;hk;wh;tm;rw; ji;yj;yj;yj;ct;iu;sv;yn;yj;	0
+级雷矛勋章	ji;sj;sj;sj;eh;ve;ic;xe;sj; lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; xun;kl;kl;ly;ou;rs;ds;km;kl; zhang;lu;lu;lz;cs;yj;xn;uj;lu;	0
 基利安	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; an;bn;bn;bn;iy;jv;wb;pv;gn;	9
 基里安	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; li;tt;la;aa,tt;vg;wg;dl;jf;aa; an;bn;bn;bn;iy;jv;wb;pv;gn;	20
 祭礼短棍	ji;xu;px;uy,ou;fi;bf;hf;wf;px; li;pv;pv;ug;hr;iu;fa;py;pv; duan;ub;ua;ud;ed;ot;oz;td;ud; gun;mb;mb;mk;wa;dp;ev;sj;lb;	0
@@ -34425,7 +34425,7 @@ use_preset_vocabulary: false
 基罗护甲店	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; luo;sx;sx;sx;af;wi;yl;lq;sx; hu;fh;fh;fh;jq;qs;um;ry;fh; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; dian;gv;gk;gv;ro;ir;xd;yh;gk;	0
 基洛特	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; luo;dk;dk;dg;ko;er;ks;it;dk; te;nc;nc;ns;bk;hi;qk;tr;nc;	4
 基洛特加龙省	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; luo;dk;dk;dg;ko;er;ks;it;dk; te;nc;nc;ns;bk;hi;qk;tr;nc; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; long;yp;ud;ad;sh;ip;tl;dx;ab; sheng;uo;uo;ou;is;fu;yq;it;um;	0
-戟矛	ji;ug;ug;gu,ug;sa;ji;np;fj;ug; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
+戟矛	ji;ug;ug;gu,ug;sa;ji;np;fj;ug; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
 机敏射击	ji;mj;mj;mj;wi;dn;eo;sm;lj; min;pw;pw;wm;ej;ok;eh;tx;mw; she;uc;uc;cu,uc;uk;hi;zk;tm;uc; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	0
 基莫迪尔	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; mo;cd;cd;cd,ct;zx;tk;lm;aj;cd; di;zy;zy;zy;vq;yw;du;mp;zy; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	0
 吉摩拉克兽穴	ji;tk;uk;ku,uk;go;gr;gd;fk;uk; mo;gu;gu;mu,um;do;iq;zu;ys;gu; la;fl;fl;fl;jb;qt;ui;ru;fl; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; xue;bb;bb;bb;if;jc;ex;pw;gb;	0
@@ -35178,11 +35178,11 @@ use_preset_vocabulary: false
 坚韧之戒	jian;lt;lt;ty;pg;lg;pg;jc;at; ren;wr;wr;wr;ui;qi;gi;fn;wr; zhi;dn;dn;dd;hh;io;ri;pp;dn; jie;gc;gc;gc;ap,ha;it;pl;aa;ag;	0
 坚韧紫黄晶	jian;lt;lt;ty;pg;lg;pg;jc;at; ren;wr;wr;wr;ui;qi;gi;fn;wr; zi;vx;vx;sc;ri;yf;si;hx;vx; huang;cb;cb;ad,cb;zy;tc;nh;am;cb; jing;oo;oo;oo;vv;aa;oo;jj;oo;	0
 煎肉锅	jian;bh;bh;hq;fn;tf;hc;ue;ee; rou;nr;nr;ad,kr;oe;oo;mj;mw;nr; guo;jn;jn;jg,jn;de;ob;zj;qk;jn;	0
-尖锐长矛	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+尖锐长矛	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 尖锐的迅猛龙爪	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xun;zu;zu;zu,zx;rq;yj;au;nf;zu; meng;qm;qm;qm;ba;kt;ma;qt;qm; long;yp;ud;ad;sh;ip;tl;dx;ab; zhua;in;pn;pd;uh;ho;ya;rh;pn;	0
 尖锐的牙齿	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ya;gp,ac;ap;ap;du;mh;ly;ah;ap; chi;vr;vk;vk;rp;yo;lc;hw;va;	7
 尖锐镰刀爪	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; lian;jj;jn;jl;df;oc;zc;qy;jj; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; zhao;in;pn;pd;uh;ho;ya;rh;pn;	0
-尖锐之矛	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+尖锐之矛	jian;xd;xd;xd;ix;fk;ym;id;ad; rui;jx;je;jd;dk;ou;zp;qu;je; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 尖嗓子	jian;xd;xd;xd;ix;fk;ym;id;ad; sang;km;km;ks;ow;rd;de;kc;kl; zi;la;va;aa,vh;aa;nd;hi;bb;va;	6
 剑商	jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; shang;wk;wk;wk,lk,dk;io;yr;id;um;wk;	0
 减少沉默	jian;dk;dk;dx;fh;ir;wd;ud;dg; shao;xp;xp;xp;ii;fh;yt;it;ap; chen;dj;dj;dj,dr;ki;en,eu,xu;ko;ip;dj; mo;lq;hq;hq;nb;wk;pm;lf;hq;	0
@@ -35902,7 +35902,7 @@ use_preset_vocabulary: false
 金度的欺骗	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; du;gy;gy;gy;rl;ie;xr;ya;gy; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; qi;cq;qr;qq;ve;to;ze;ad;qr; pian;mc;mc;mb;zj;nb;ni;cy;mc;	0
 金度的邪眼	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; du;gy;gy;gy;rl;ie;xr;ya;gy; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xie;ye;ye;ey,ye;db;ml;lt;ah;ye; yan;og;og;og;sh;bv;qi;hv;mh;	0
 金度的妖器	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; du;gy;gy;gy;rl;ie;xr;ya;gy; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yao;ny;ny;ny;yx;vk;bm;vt;ny; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	0
-浸毒骨矛	jin;dy;dy;dy;kl;ee;kr;iv;dy; du;fm;fm;fm;ah;qi;ak;gx;am; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+浸毒骨矛	jin;dy;dy;dy;kl;ee;kr;iv;dy; du;fm;fm;fm;ah;qi;ak;gx;am; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 浸毒之刺	jin;dy;dy;dy;kl;ee;kr;iv;dy; du;fm;fm;fm;ah;qi;ak;gx;am; zhi;dn;dn;dd;hh;io;ri;pp;dn; ci;ud;ad;dc;di;dn;ep;gm;ad;	0
 浸毒之骨	jin;dy;dy;dy;kl;ee;kr;iv;dy; du;fm;fm;fm;ah;qi;ak;gx;am; zhi;dn;dn;dd;hh;io;ri;pp;dn; gu;go;lo;go,ob,og;cc;bb;fg;me;ao;	0
 金度之影	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; du;gy;gy;gy;rl;ie;xr;ya;gy; zhi;dn;dn;dd;hh;io;ri;pp;dn; ying;op;op;pj;vu;ah;oe;jy;op;	0
@@ -35953,7 +35953,7 @@ use_preset_vocabulary: false
 金洛斯末日的启示者	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; luo;dk;dk;dg;ko;er;ks;it;dk; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; mo;am;an;ad,am;ee;dj;fe;gs;an; ri;ka;ka;aa,or,ri;vv;aa;or;jj;wa; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; qi;hk;hk;hk,kh;qo;hr,ir,xr;md;yn;hk; shi;ex,ax;ex;ex,ad;ui;mf;fs;fi;ex; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 金麦	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; mai;fw;fw;fw;aj;qe;ah;gt;aw;	13
 浸满泪水的手帕	jin;dy;dy;dy;kl;ee;kr;iv;dy; man;dl;dl;dl;ke;eb;km;ia;dl; lei;do;do;do;ks;eu;kq;ih;dm; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; pa;jb;jb;jb;ys;la;ru;mh;jb;	0
-金矛	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+金矛	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 浸没护腿	jin;dy;dy;dy;kl;ee;kr;iv;dy; mo;du;dy;du;kl;ee;kr;im;dy; hu;fh;fh;fh;jq;qs;um;ry;fh; tui;og;oz;ot;lq;bv;vu;ev;oh;	0
 浸魔护腕初级智力	jin;dy;dy;dy;kl;ee;kr;iv;dy; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov; chu;pd;pd;yd;hi;lh;tp;pu;pd; ji;sj;sj;sj;eh;ve;ic;xe;sj; zhi;uo;uo;ov;ev;oa;oo;td;uo; li;vp;vp;gp;uu;ks;sl;lt;vp;	0
 禁魔监狱斥候	jin;mu;mx;ul;wi;df;ef;ss;lx; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; jian;lm;lm;mv;pa;lt;pa;jt;am; yu;qq;qq;qq;bb;kk;mm;qt;qq; chi;jd;pd;jd,pd;uh;hy;ti;ry;pd; hou;ru;ru;ru;xx;ok;jo;wh;rd;	0
@@ -37412,7 +37412,7 @@ use_preset_vocabulary: false
 卡尔加刺肋的徽章	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; ci;ud;ad;dc;di;dn;ep;gm;ad; lei;ol;ol;ol;lu;bs;vs;el;ol; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; hui;rx;iw;xw;hj;hk;wh;tm;rw; zhang;lu;lu;lz;cs;yj;xn;uj;lu;	0
 卡尔加刺肋的心脏	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; ci;ud;ad;dc;di;dn;ep;gm;ad; lei;ol;ol;ol;lu;bs;vs;el;ol; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xin;dd;dd;dd;nn;pp;hx;ny;dd; zang;ot;ot;ov;lg;bg;vg;ey;ot;	0
 卡尔拉什	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; la;fl;fl;fl;jb;qt;ui;ru;fl; shi;ru;ru;ru;xs;oj;jn;wf;ru;	0
-卡尔雷矛的订单	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ding;yd;yd;yd;cj;in;sa;ys;yd; dan;bu;bl;ba,bd;fs;cj;hn;uj;ea;	0
+卡尔雷矛的订单	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ding;yd;yd;yd;cj;in;sa;ys;yd; dan;bu;bl;ba,bd;fs;cj;hn;uj;ea;	0
 卡尔琳达的惩戒卷轴	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; lin;wm;wm;wl;aw;md;ne;gs;wl; da;zd;zd;zd;xq;yk,xk;mu;dp;zd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; cheng;rx;ix;xv;hn;hp;wh;tg;rx; jie;gc;gc;gc;ap,ha;it;pl;aa;ag; juan;jv;jv;ef,je;ft;fu;hz;ud;dv; zhou;iy;iy;iy;tp;kw;yd;lm;iy;	0
 卡尔琳达的结婚戒指	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; lin;wm;wm;wl;aw;md;ne;gs;wl; da;zd;zd;zd;xq;yk,xk;mu;dp;zd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jie;sk;sk;sj;eo;vr;id;xf;sk; hun;no;no;nh;yv;va;bo;vq;no; jie;gc;gc;gc;ap,ha;it;pl;aa;ag; zhi;fo;fo;fv;jv;qa;uo;rx;fo;	0
 卡尔鲁	ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; lu;yo;ao;yo;qv;na;wo;qg;eo;	8
@@ -37636,7 +37636,7 @@ use_preset_vocabulary: false
 开孔的箱子	kai;ac;ac;ac;up;mt;fl;ga;aa; kong;zv;zv;zg;ar;nu;ha;bn;zv; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiang;vo;vo;vx;ns;hu;rq;ts;vm; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 开阔思维	kai;ac;ac;ac;up;mt;fl;ga;aa; kuo;mu;mk;mh;oo;lr;aa;ui;mk; si;tx;tx;tx,xt;wn;wp;qh;ln;tx; wei;sv;sf;sv;ea;vg;iu;xw;sa;	13
 凯拉雷护肩	kai;uj;ej;jj,jq;pi;un;vo;mn;sj; la;fl;fl;fl;jb;qt;ui;ru;fl; lei;yt;yt;yt;yw;mw;tq;fl;yt; hu;fh;fh;fh;jq;qs;um;ry;fh; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho;	0
-凯拉影矛	kai;uj;ej;jj,jq;pi;un;vo;mn;sj; la;fl;fl;fl;jb;qt;ui;ru;fl; ying;op;op;pj;vu;ah;oe;jy;op; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+凯拉影矛	kai;uj;ej;jj,jq;pi;un;vo;mn;sj; la;fl;fl;fl;jb;qt;ui;ru;fl; ying;op;op;pj;vu;ah;oe;jy;op; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 凯莱斯	kai;uj;ej;jj,jq;pi;un;vo;mn;sj; lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	1
 凯兰恩护肩	kai;uj;ej;jj,jq;pi;un;vo;mn;sj; lan;bs;bs;bs,qe;fu;tm;ht;uf;es; en;yx;kx;xy;nn;wp;rh;ld;wx; hu;fh;fh;fh;jq;qs;um;ry;fh; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho;	0
 凯兰恩徽记	kai;uj;ej;jj,jq;pi;un;vo;mn;sj; lan;bs;bs;bs,qe;fu;tm;ht;uf;es; en;yx;kx;xy;nn;wp;rh;ld;wx; hui;rx;iw;xw;hj;hk;wh;tm;rw; ji;yj;yj;yj;ct;iu;sv;yn;yj;	0
@@ -38632,7 +38632,7 @@ use_preset_vocabulary: false
 枯萎凋零雕文	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; diao;dk;dk;dv;fo;ir;wd;um;dk; ling;ys;ys;yl;yp;mi;tk;fw;yv; diao;kv;kf;vv;oa,ua;bg;mu;mf;va; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx;	0
 枯萎毒药	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; du;fm;fm;fm;ah;qi;ak;gx;am; yao;cu;cu;cy;zh;ti;li;ax;cu;	0
 枯萎掠夺者	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; lue;fx;fx;fj;ji;qf;uy;ry;fx; duo;dc;dc;dc,cd;xk;ki;mk;df;dc; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
-枯萎矛鬃野猪人	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zong;eu;ax;iz;di;sf;pf;de;ix; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; zhu;qo;qo;qv;bv;ka;mo;qt;qo; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	0
+枯萎矛鬃野猪人	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zong;eu;ax;iz;di;sf;pf;de;ix; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; zhu;qo;qo;qv;bv;ka;mo;qt;qo; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	0
 枯萎热浪	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; re;fh;fh;hv;jn;qf;uc;rv;fe; lang;dl;dl;dl;kh;ev;ki;iy;dh;	0
 枯萎野猪人	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; zhu;qo;qo;qv;bv;ka;mo;qt;qo; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	0
 枯萎战斗野猪	ku;mg;mk;mg;wo;dr;ec;sd;lk; wei;cn;cn;cw;zy;tv;lb;at;cn; zhan;vg;lg;gv;pa;yi;yp;hk;vg; dou;ud;du;du;hs;yj;jd;uf;du; ye;ly;ll;ly,yl;vp;wn;di;jf;ly; zhu;qo;qo;qv;bv;ka;mo;qt;qo;	0
@@ -39155,7 +39155,7 @@ use_preset_vocabulary: false
 来历不明的眼球	lai;am;an;am,wb;uf,ef;dt;ah;go;an; li;il;il;il;ru;ms,xs;xs;dl;il; bu;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; ming;oo;oo;oo;vl;ab;ov;je;oo; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yan;og;og;og;sh;bv;qi;hv;mh; qiu;wq;wq;wq;ah;me;ni;gf;wq;	0
 来俩贼	lai;am;an;am,wb;uf,ef;dt;ah;go;an; lia;rl;rl;rl;xe;ob;jm;wg;rl; zei;bu;ku;br;ms,ma;bj;on;ma;bg;	0
 莱琳	lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; lin;wm;wm;wl;aw;md;ne;gs;wl;	0
-莱洛拉斯的长矛	lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; luo;dk;dk;dg;ko;er;ks;it;dk; la;fl;fl;fl;jb;qt;ui;ru;fl; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+莱洛拉斯的长矛	lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; luo;dk;dk;dg;ko;er;ks;it;dk; la;fl;fl;fl;jb;qt;ui;ru;fl; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 莱洛拉斯的信号弹	lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; luo;dk;dk;dg;ko;er;ks;it;dk; la;fl;fl;fl;jb;qt;ui;ru;fl; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xin;rk;rk;ry;xc;or;js;wy;rk; hao;kk;kv;kk;or;rs;da;kg;kv; dan;gu;gl;gd;rs;nj;bn;xu;gd;	0
 莱姆斯	lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; mu;nm;nm;nm;yh;vi;bk;vx;nm; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	19
 莱尼德	lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; ni;ub;ub;ub;qa;sp;cv;nx;ub; de;rx;ix;xx;hn;hp;wh;tf;rx;	0
@@ -39650,27 +39650,27 @@ use_preset_vocabulary: false
 雷鲁之石	lei;yt;yt;yt;yw;mw;tq;fl;yt; lu;yo;ao;yo;qv;na;wo;qg;eo; zhi;dn;dn;dd;hh;io;ri;pp;dn; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 雷伦特	lei;yt;yt;yt;yw;mw;tq;fl;yt; lun;rl;rb;rl;;op;jj;ww;rb; te;nc;nc;ns;bk;hi;qk;tr;nc;	0
 雷玛	lei;yt;yt;yt;yw;mw;tq;fl;yt; ma;wm;wm;wm;az;mm;nn;gc;wm;	2
-雷矛	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	7
-雷矛板甲腰带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ban;my;my;mf;wl;de,xe;er;sr;ly; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
-雷矛布质腰带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; zhi;ib;pr;bu,pb;um;ho;xo;rf;pr; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
-雷矛大使	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; da;ar;un;ad;xx;kk;md;dd;an; shi;rl;rl;rl;xy;ok;jb;wg;rl;	0
-雷矛的拯救	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zheng;fi;fa;fi;jd;qm;uf;rb;fi; jiu;qw;qw;wq;dj;ik;fh;fi;qw;	0
-雷矛徽记	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; hui;rx;iw;xw;hj;hk;wh;tm;rw; ji;yj;yj;yj;ct;iu;sv;yn;yj;	0
-雷矛救援站	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; jiu;qw;qw;wq;dj;ik;fh;fi;qw; yuan;fy;fy;fy;jl;qe;ur;re;fy; zhan;lv;lk;lv;bo;yr;id;uh;lk;	0
-雷矛军服	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; jun;bi;bi;bi;it;bq;wy;pl;gi; fu;oy;oy;oy;ll;be;vr;eb;oy;	0
-雷矛军旗	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; jun;bi;bi;bi;it;bq;wy;pl;gi; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
-雷矛军用坐骑	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; jun;bi;bi;bi;it;bq;wy;pl;gi; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; zuo;tr;rt;tc,tr,rt;eg;og;jg;ww;rt; qi;mk;mk;mq;zj;nr;nz;cd;mk;	0
-雷矛墓地	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; mu;ct;ct;tm,ct;zg;tg;lg;aj;ct; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty;	0
-雷矛皮质束带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; zhi;ib;pr;bu,pb;um;ho;xo;rf;pr; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
-雷矛士兵披风	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; shi;ua;ua;aa;gg;jm;gs;fg;ua; bing;qb;qb;qb;uf;oc;th;rg;qb; pi;fp;fy;fp;jl;qe;ur;rh;fy; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
-雷矛士兵坠饰	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; shi;ua;ua;aa;gg;jm;gs;fg;ua; bing;qb;qb;qb;uf;oc;th;rg;qb; zhui;et;et;td;bg;ng,xg;tg;bw;et; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
-雷矛锁甲腰带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; suo;jb;jr;jb;dm;oo;zo;qi;jr; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
-雷矛先知披风	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; xian;ne;ne;ne,en;bk;hu;qp;tf;pe; zhi;uk;uk;uk,ku;eo;or;od;td;uk; pi;fp;fy;fp;jl;qe;ur;rh;fy; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
-雷矛先知坠饰	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; xian;ne;ne;ne,en;bk;hu;qp;tf;pe; zhi;uk;uk;uk,ku;eo;or;od;td;uk; zhui;et;et;td;bg;ng,xg;tg;bw;et; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
-雷矛训练颈圈	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; xun;yi;yi;yi;cp;il;so;yk;yi; lian;sd;sd;sd,sj;ei;vc,vd;iy;xa;sd; jing;jy;vr;yg;rm;no;rw;ca;vr; quan;kv;kv;kj;nt;wu;rz;lu;wv;	0
-雷矛勋章	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; xun;kl;kl;ly;ou;rs;ds;km;kl; zhang;lu;lu;lz;cs;yj;xn;uj;lu;	0
-雷矛英雄	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ying;cy;cy;cy;zx;tk;lm;am;cy; xiong;uv;uf;vh,vs;sa;kg;nu;dc;aa;	0
-雷矛战旗	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zhan;vg;lg;gv;pa;yi;yp;hk;vg; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
+雷矛	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	7
+雷矛板甲腰带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ban;my;my;mf;wl;de,xe;er;sr;ly; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
+雷矛布质腰带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; zhi;ib;pr;bu,pb;um;ho;xo;rf;pr; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
+雷矛大使	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; da;ar;un;ad;xx;kk;md;dd;an; shi;rl;rl;rl;xy;ok;jb;wg;rl;	0
+雷矛的拯救	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zheng;fi;fa;fi;jd;qm;uf;rb;fi; jiu;qw;qw;wq;dj;ik;fh;fi;qw;	0
+雷矛徽记	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; hui;rx;iw;xw;hj;hk;wh;tm;rw; ji;yj;yj;yj;ct;iu;sv;yn;yj;	0
+雷矛救援站	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; jiu;qw;qw;wq;dj;ik;fh;fi;qw; yuan;fy;fy;fy;jl;qe;ur;re;fy; zhan;lv;lk;lv;bo;yr;id;uh;lk;	0
+雷矛军服	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; jun;bi;bi;bi;it;bq;wy;pl;gi; fu;oy;oy;oy;ll;be;vr;eb;oy;	0
+雷矛军旗	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; jun;bi;bi;bi;it;bq;wy;pl;gi; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
+雷矛军用坐骑	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; jun;bi;bi;bi;it;bq;wy;pl;gi; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; zuo;tr;rt;tc,tr,rt;eg;og;jg;ww;rt; qi;mk;mk;mq;zj;nr;nz;cd;mk;	0
+雷矛墓地	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; mu;ct;ct;tm,ct;zg;tg;lg;aj;ct; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty;	0
+雷矛皮质束带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; zhi;ib;pr;bu,pb;um;ho;xo;rf;pr; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
+雷矛士兵披风	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; shi;ua;ua;aa;gg;jm;gs;fg;ua; bing;qb;qb;qb;uf;oc;th;rg;qb; pi;fp;fy;fp;jl;qe;ur;rh;fy; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
+雷矛士兵坠饰	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; shi;ua;ua;aa;gg;jm;gs;fg;ua; bing;qb;qb;qb;uf;oc;th;rg;qb; zhui;et;et;td;bg;ng,xg;tg;bw;et; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
+雷矛锁甲腰带	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; suo;jb;jr;jb;dm;oo;zo;qi;jr; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
+雷矛先知披风	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; xian;ne;ne;ne,en;bk;hu;qp;tf;pe; zhi;uk;uk;uk,ku;eo;or;od;td;uk; pi;fp;fy;fp;jl;qe;ur;rh;fy; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
+雷矛先知坠饰	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; xian;ne;ne;ne,en;bk;hu;qp;tf;pe; zhi;uk;uk;uk,ku;eo;or;od;td;uk; zhui;et;et;td;bg;ng,xg;tg;bw;et; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
+雷矛训练颈圈	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; xun;yi;yi;yi;cp;il;so;yk;yi; lian;sd;sd;sd,sj;ei;vc,vd;iy;xa;sd; jing;jy;vr;yg;rm;no;rw;ca;vr; quan;kv;kv;kj;nt;wu;rz;lu;wv;	0
+雷矛勋章	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; xun;kl;kl;ly;ou;rs;ds;km;kl; zhang;lu;lu;lz;cs;yj;xn;uj;lu;	0
+雷矛英雄	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ying;cy;cy;cy;zx;tk;lm;am;cy; xiong;uv;uf;vh,vs;sa;kg;nu;dc;aa;	0
+雷矛战旗	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zhan;vg;lg;gv;pa;yi;yp;hk;vg; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
 雷眉	lei;yt;yt;yt;yw;mw;tq;fl;yt; mei;uo;vo;om,uo;qs;au;cq;nh;vm;	0
 雷眉戒指	lei;yt;yt;yt;yw;mw;tq;fl;yt; mei;uo;vo;om,uo;qs;au;cq;nh;vm; jie;gc;gc;gc;ap,ha;it;pl;aa;ag; zhi;fo;fo;fv;jv;qa;uo;rx;fo;	0
 雷门	lei;yt;yt;yt;yw;mw;tq;fl;yt; men;dv;dv;dg;oo;ls;am;uy;dv;	22
@@ -39678,7 +39678,7 @@ use_preset_vocabulary: false
 雷鸣猛击	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; meng;qm;qm;qm;ba;kt;ma;qt;qm; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	0
 雷鸣岩石元素	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; yan;uu;eu;uu;pt;ur;vm;md;sk; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; yuan;aw;ee;aw,ee;uk;mu;mp;fq;ee; su;fx;fx;sf,fs;ai;qf;ai;gx;ax;	0
 雷鸣元素	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; yuan;aw;ee;aw,ee;uk;mu;mp;fq;ee; su;fx;fx;sf,fs;ai;qf;ai;gx;ax;	0
-雷鸣之矛	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+雷鸣之矛	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 雷鸣之书	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; zhi;dn;dn;dd;hh;io;ri;pp;dn; shu;vd;vd;ad,vd;rh;is;ai;nn;vd;	0
 雷鸣之天火钻石	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; zhi;dn;dn;dd;hh;io;ri;pp;dn; tian;ad;ad;ad;ue;mk;fm;gd;ad; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; zuan;jv;jk;jv;do;or;zd;qh;jk; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 雷鸣之天焰钻石	lei;yt;yt;yt;yw;mw;tq;fl;yt; ming;kn;kn;kn;oc;rm;dx;kq;kn; zhi;dn;dn;dd;hh;io;ri;pp;dn; tian;ad;ad;ad;ue;mk;fm;gd;ad; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zuan;jv;jk;jv;do;or;zd;qh;jk; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
@@ -40472,7 +40472,7 @@ use_preset_vocabulary: false
 猎手回廊	lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; hui;kk;kk;kk;no;wr;rd;lk;wk; lang;ge;ge;gl;rb;il;xt;yy;ge;	0
 猎手皮面具	lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; mian;ao;aa;aa;dd;ml;bm;dm;aa; ju;qb;qb;ba,bq,qb;pf;bc;qh;hw;ab;	0
 猎手托尔弗	lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; tuo;fq;fq;fq,ft;ja;qp;ur;rt;fq; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; fu;gl;vl;aa,gd,vu;rp;ln;tf;xj;va;	0
-猎手之矛	lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+猎手之矛	lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 裂蹄	lie;dy;dy;yl;fk;mv;gt;gq;dh; ti;zj;zj;zd;gy;rb;pr;kh;zj;	0
 裂蹄堡	lie;dy;dy;yl;fk;mv;gt;gq;dh; ti;zj;zj;zd;gy;rb;pr;kh;zj; bao;rt;rt;tb;xg;og;jg;wk;rt;	0
 裂蹄长裤	lie;dy;dy;yl;fk;mv;gt;gq;dh; ti;zj;zj;zd;gy;rb;pr;kh;zj; chang;pn;pn;pd;uh;po;pc;ta;pn; ku;pi;pi;yk;ht;lq;ty;pu;pi;	0
@@ -40498,7 +40498,7 @@ use_preset_vocabulary: false
 裂蹄腰带	lie;dy;dy;yl;fk;mv;gt;gq;dh; ti;zj;zj;zd;gy;rb;pr;kh;zj; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 裂蹄游荡长靴	lie;dy;dy;yl;fk;mv;gt;gq;dh; ti;zj;zj;zd;gy;rb;pr;kh;zj; you;dz;dz;dz;ka;ed;kh;iy;dz; dang;cp;cp;ct;zu;th;le;ai;ct; chang;pn;pn;pd;uh;po;pc;ta;pn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 裂蹄之力	lie;dy;dy;yl;fk;mv;gt;gq;dh; ti;zj;zj;zd;gy;rb;pr;kh;zj; zhi;dn;dn;dd;hh;io;ri;pp;dn; li;vp;vp;gp;uu;ks;sl;lt;vp;	0
-猎头长矛	lie;qo;qo;qx;bv;ka;mo;qt;qo; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+猎头长矛	lie;qo;qo;qx;bv;ka;mo;qt;qo; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 猎头者	lie;qo;qo;qx;bv;ka;mo;qt;qo; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	6
 猎头者便鞋	lie;qo;qo;qx;bv;ka;mo;qt;qo; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; bian;rg;rg;rg;xy;ok;jb;wg;rg; xie;gt;gt;gg;vg;tg;tg;af;ct;	0
 猎头者护甲	lie;qo;qo;qx;bv;ka;mo;qt;qo; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; hu;fh;fh;fh;jq;qs;um;ry;fh; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
@@ -40612,7 +40612,7 @@ use_preset_vocabulary: false
 烈焰震击者之触	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhen;yi;yn;yi;yh;mv;tf;fd;yh; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; zhi;dn;dn;dd;hh;io;ri;pp;dn; chu;di;di;ij,ji;gf;ni;xc;qe;ei;	0
 烈焰之父	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; fu;bx;bx;bi,pd;fy;ck;hb;wq;bx;	0
 烈焰之环	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
-烈焰之矛	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+烈焰之矛	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 烈焰之怒	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; nu;nx;nx;xn;yn;vp;bh;vc;nx;	0
 烈焰之刃	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; ren;dd;dd;dd;ii;si;pi;vy;dd;	0
 烈焰之石	lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; zhi;dn;dn;dd;hh;io;ri;pp;dn; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
@@ -42461,7 +42461,7 @@ use_preset_vocabulary: false
 毛纺包	mao;pv;pv;pg;ur;hu;vm;tf;pv; fang;sf;sf;sf;ef;vs;il;xy;sf; bao;bs;bs;gs;ut;pu;nv;qn;pv;	0
 毛纺斗篷	mao;pv;pv;pg;ur;hu;vm;tf;pv; fang;sf;sf;sf;ef;vs;il;xy;sf; dou;ud;du;du;hs;yj;jd;uf;du; peng;vf;vz;vf;nq;hj;ru;tt;vf;	0
 毛纺靴	mao;pv;pv;pg;ur;hu;vm;tf;pv; fang;sf;sf;sf;ef;vs;il;xy;sf; xue;gb;gb;gh;va;tp;tv;af;cb;	0
-矛和长柄武器专精	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; he;hk;hk;hk;uo;hr;xd;t,tk;hk; chang;pn;pn;pd;uh;po;pc;ta;pn; bing;mn;mb;mb;we;db;ej;sg;lb; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk; zhuan;ts;ad;ad,fs;uh;qi;mi;fn;ad; jing;mo;mo;mq;ll;fb;pv;og;mo;	0
+矛和长柄武器专精	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; he;hk;hk;hk;uo;hr;xd;t,tk;hk; chang;pn;pn;pd;uh;po;pc;ta;pn; bing;mn;mb;mb;we;db;ej;sg;lb; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk; zhuan;ts;ad;ad,fs;uh;qi;mi;fn;ad; jing;mo;mo;mq;ll;fb;pv;og;mo;	0
 毛料卷	mao;pv;pv;pg;ur;hu;vm;tf;pv; liao;md;mu;md;ls;fj;pj;ou;mu; juan;jv;jv;ef,je;ft;fu;hz;ud;dv;	0
 猫笼	mao;qt;qt;qm;bw;kw;mq;qt;qt; long;vl;vl;vl;nh;hp;rt;td;vb;	6
 毛木衬肩	mao;pv;pv;pg;ur;hu;vm;tf;pv; mu;ur;un,an;ad;ww;dd;em;ss;un; chen;pc;pc;yc;hk;li;tk;pu;pc; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho;	0
@@ -42489,16 +42489,16 @@ use_preset_vocabulary: false
 毛皮手套	mao;pv;pv;pg;ur;hu;vm;tf;pv; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
 毛皮头盔	mao;pv;pv;pg;ur;hu;vm;tf;pv; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; kui;um;um;mh;sa;kt;na;do;hm;	0
 毛皮腰带	mao;pv;pv;pg;ur;hu;vm;tf;pv; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
-矛骑兵	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
-矛骑兵护手	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
-矛骑兵肩铠	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
-矛骑兵胫甲	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; jing;oj;og;og;lp;bm;vu;ec;og; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-矛骑兵面甲	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; mian;ao;aa;aa;dd;ml;bm;dm;aa; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-矛骑兵束带	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
-矛骑兵腿铠	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; tui;og;oz;ot;lq;bv;vu;ev;oh; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
-矛骑兵腕甲	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; wan;ov;ov;ow;lt;bu;vz;ep;ov; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-矛骑兵胸甲	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; xiong;ox;ok;ox;lp;bk;vm;eq;ox; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-矛骑兵之盾	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; zhi;dn;dn;dd;hh;io;ri;pp;dn; dun;io;po;po;us;hu;xq;rf;pm;	0
+矛骑兵	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
+矛骑兵护手	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
+矛骑兵肩铠	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
+矛骑兵胫甲	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; jing;oj;og;og;lp;bm;vu;ec;og; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
+矛骑兵面甲	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; mian;ao;aa;aa;dd;ml;bm;dm;aa; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
+矛骑兵束带	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; shu;gr;an;ad,mk;df;dl;xs;gk;an; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
+矛骑兵腿铠	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; tui;og;oz;ot;lq;bv;vu;ev;oh; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
+矛骑兵腕甲	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; wan;ov;ov;ow;lt;bu;vz;ep;ov; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
+矛骑兵胸甲	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; xiong;ox;ok;ox;lp;bk;vm;eq;ox; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
+矛骑兵之盾	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb; zhi;dn;dn;dd;hh;io;ri;pp;dn; dun;io;po;po;us;hu;xq;rf;pm;	0
 毛茸茸的鲱鱼头	mao;pv;pv;pg;ur;hu;vm;tf;pv; rong;ce;ce;ce;zu;tj;lq;ab;ce; rong;ce;ce;ce;zu;tj;lq;ab;ce; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; fei;yf;af;yf;qu;ny;wr;qg;ef; yu;da;da;da;qq;nm;wv;qg;ea; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 毛茸茸的小爪子	mao;pv;pv;pg;ur;hu;vm;tf;pv; rong;ce;ce;ce;zu;tj;lq;ab;ce; rong;ce;ce;ce;zu;tj;lq;ab;ce; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiao;lb;ld;ad;ii;nc;yx;ih;vd; zhua;in;pn;pd;uh;ho;ya;rh;pn; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 猫头鹰形态	mao;qt;qt;qm;bw;kw;mq;qt;qt; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; ying;gn;gn;gn,nv;rc;im;xx;yw;gn; xing;kp;kp;pk;uu;mh;fe;ga;kp; tai;tx;tx;xt;xn;kp;mh;dy;tx;	2
@@ -42531,7 +42531,7 @@ use_preset_vocabulary: false
 毛毡长袍	mao;pv;pv;pg;ur;hu;vm;tf;pv; zhan;mv;mk;mv;uo;hr;vd;tf;mk; chang;pn;pn;pd;uh;po;pc;ta;pn; pao;pb;ps;yb;ht;lu;tv;pu;pv;	0
 猫之本能	mao;qt;qt;qm;bw;kw;mq;qt;qt; zhi;dn;dn;dd;hh;io;ri;pp;dn; ben;ma;aa;aa,ma;wd;dm;ef;sg;aa; neng;sb;sb;sb;pa;ip;kv;ce;vb;	0
 毛织手套	mao;pv;pv;pg;ur;hu;vm;tf;pv; zhi;sv;sb;sv;ef;vc;ih;xk;sb; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
-矛鬃	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zong;eu;ax;iz;di;sf;pf;de;ix;	0
+矛鬃	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zong;eu;ax;iz;di;sf;pf;de;ix;	0
 梅贝尔	mei;mm;mm;mm;wh;dy;ek;st;lm; bei;kr;kr;ad,kr;mm;bo;ob;mh;ar; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	2
 梅贝尔的情书	mei;mm;mm;mm;wh;dy;ek;st;lm; bei;kr;kr;ad,kr;mm;bo;ob;mh;ar; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; qing;xo;xo;xq;nl;pb;hv;ng;xo; shu;vd;vd;ad,vd;rh;is;ai;nn;vd;	0
 梅贝丝	mei;mm;mm;mm;wh;dy;ek;st;lm; bei;kr;kr;ad,kr;mm;bo;ob;mh;ar; si;sa;va;aa;ee;vm;ii;xx;ss;	0
@@ -44687,8 +44687,8 @@ use_preset_vocabulary: false
 你们谁标	ni;rx;rx;re;xi;of;jy;wq;rx; men;rm;rm;rm;xo;os;ja;wu;rm; shui;yv;yf;yv;ca;ig;su;yw;ya; biao;mu;mx;mu;wi;df;ef;sf;lx;	0
 尼米尔	ni;ub;ub;ub;qa;sp;cv;nx;ub; mi;bm;dm;dd;ll;fd;pm;oy;dl; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	0
 尼姆布亚	ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay;	0
-尼姆布亚的长矛	ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay; di;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
-尼姆布亚之矛	ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+尼姆布亚的长矛	ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay; di;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+尼姆布亚之矛	ni;ub;ub;ub;qa;sp;cv;nx;ub; mu;nm;nm;nm;yh;vi;bk;vx;nm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; ya;ay;ay;ay;dd;mc;fc;go;ay; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 泥木腰带	ni;db;db;dn;ka;ep;kv;in;db; mu;ur;un,an;ad;ww;dd;em;ss;un; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 你拿到记录了吗	ni;rx;rx;re;xi;of;jy;wq;rx; na;ru;ru;uh;eo;oq;ju;wg;ru; dao;gd;ad;dv;di;mn;yp;gc;vd; ji;yj;yj;yj;ct;iu;sv;yn;yj; lu;eu;eu;au,ua,vu;so;ne;bk;vi;vu; le;al;vl;aa,vu;rp;nn;rl;b,bn;vv; ma;km;km;km;oz;rm;dn;kc;km;	0
 尼尼的小桶	ni;ub;ub;ub;qa;sp;cv;nx;ub; ni;ub;ub;ub;qa;sp;cv;nx;ub; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiao;lb;ld;ad;ii;nc;yx;ih;vd; tong;my;my;my;wp;db;et;sc;ly;	0
@@ -44840,7 +44840,7 @@ use_preset_vocabulary: false
 牛德	niu;pu;pl;pa;bb;hq;qn;rh;pa; de;rx;ix;xx;hn;hp;wh;tf;rx;	1
 扭断的齿轮	niu;fi;fi;fi;jg;qg;ug;rn;fi; duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chi;vr;vk;vk;rp;yo;lc;hw;va; lun;il;ib;il;ta;kp;yj;lw;ib;	0
 牛顿伯恩赛德	niu;pu;pl;pa;bb;hq;qn;rh;pa; dun;ty;tr;yt;dm;po;fw;gb;tr; bo;rb;rb;rb;xs;oa;ju;wr;rb; en;yx;kx;xy;nn;wp;rh;ld;wx; sai;bb;br;bb;im;jo;wo;pf;gr; de;rx;ix;xx;hn;hp;wh;tf;rx;	0
-扭角长矛	niu;fi;fi;fi;jg;qg;ug;rn;fi; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+扭角长矛	niu;fi;fi;fi;jg;qg;ug;rn;fi; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 扭木	niu;fi;fi;fi;jg;qg;ug;rn;fi; mu;ur;un,an;ad;ww;dd;em;ss;un;	0
 扭木孢子	niu;fi;fi;fi;jg;qg;ug;rn;fi; mu;ur;un,an;ad;ww;dd;em;ss;un; bao;zb;zs;zb;at;nu;hv;bq;zv; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 扭木广场	niu;fi;fi;fi;jg;qg;ug;rn;fi; mu;ur;un,an;ad;ww;dd;em;ss;un; guang;di;di,wp;dp;rr;yh;xg;yy;wp; chang;tp;tp;ty;gu;gh;ge;fn;tp;	0
@@ -47808,7 +47808,7 @@ use_preset_vocabulary: false
 锐利的牙齿	rui;jx;je;jd;dk;ou;zp;qu;je; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ya;gp,ac;ap;ap;du;mh;ly;ah;ap; chi;vr;vk;vk;rp;yo;lc;hw;va;	2
 锐利的鱼钩	rui;jx;je;jd;dk;ou;zp;qu;je; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; yu;da;da;da;qq;nm;wv;qg;ea; gou;jg;js;jg;dp;oi,xi;zk;qq;jv;	0
 锐利的爪子	rui;jx;je;jd;dk;ou;zp;qu;je; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zhua;in;pn;pd;uh;ho;ya;rh;pn; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
-锐矛	rui;jx;je;jd;dk;ou;zp;qu;je; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+锐矛	rui;jx;je;jd;dk;ou;zp;qu;je; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 瑞尼	rui;we;we;we;ab;mb;nl;gm;we; ni;ub;ub;ub;qa;sp;cv;nx;ub;	6
 瑞尼尔副队长	rui;we;we;we;ab;mb;nl;gm;we; ni;ub;ub;ub;qa;sp;cv;nx;ub; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; fu;ad;ad;df,dt;di;mn;fp;gk;ad; dui;er;er;er;be;no;tj;bw;er; zhang;pn;pn;pd;uh;po;pc;ta;pn;	0
 瑞帕	rui;we;we;we;ab;mb;nl;gm;we; pa;jb;jb;jb;ys;la;ru;mh;jb;	6
@@ -48782,7 +48782,7 @@ use_preset_vocabulary: false
 沙塔尔	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex;	21
 沙塔尔宝物管理者	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; bao;by;by;by;ia;ji;wi;pg;gy; wu;nw;nw;nw;bi;hh;qe;tr;nw; guan;vl;vk;vg;nd;hr;rk;tp;vg; li;wl;wl;wl;ag;mg;nd;gj;wl; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 沙塔尔长剑	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; chang;pn;pn;pd;uh;po;pc;ta;pn; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
-沙塔尔长矛	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+沙塔尔长矛	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 沙塔尔的礼物	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; li;pv;pv;ug;hr;iu;fa;py;pv; wu;nw;nw;nw;bi;hh;qe;tr;nw;	0
 沙塔尔高级将领	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; jiang;lc;dc;dc,jc,pc;lk;li;ak;uq;dc; ling;ry;rr;yl;em;oo;jw;wy;rr;	0
 沙塔尔徽章	sha;du;du;du;ki;eh;kt;ii;du; ta;tk;tk;td,th;go;gr;gd;fa;tk; er;dx;dx;dx,xd;gi;nf;xy;qi;ex; hui;rx;iw;xw;hj;hk;wh;tm;rw; zhang;lu;lu;lz;cs;yj;xn;uj;lu;	0
@@ -49944,7 +49944,7 @@ use_preset_vocabulary: false
 生存系	sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; cun;uz;uz;uz,za;sa;kd;nh;dh;az; xi;px;px;ps;ui;hf;ti;tx;px;	2
 生存之书	sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; cun;uz;uz;uz,za;sa;kd;nh;dh;az; zhi;dn;dn;dd;hh;io;ri;pp;dn; shu;vd;vd;ad,vd;rh;is;ai;nn;vd;	0
 生存专家	sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; cun;uz;uz;uz,za;sa;kd;nh;dh;az; zhuan;ts;ad;ad,fs;uh;qi;mi;fn;ad; jia;bu;bu;bu;ih;jo;wj;pe;gn;	2
-生存专家的长矛	sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; cun;uz;uz;uz,za;sa;kd;nh;dh;az; zhuan;ts;ad;ad,fs;uh;qi;mi;fn;ad; jia;bu;bu;bu;ih;jo;wj;pe;gn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+生存专家的长矛	sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; cun;uz;uz;uz,za;sa;kd;nh;dh;az; zhuan;ts;ad;ad,fs;uh;qi;mi;fn;ad; jia;bu;bu;bu;ih;jo;wj;pe;gn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 生存专家的魔杖	sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; cun;uz;uz;uz,za;sa;kd;nh;dh;az; zhuan;ts;ad;ad,fs;uh;qi;mi;fn;ad; jia;bu;bu;bu;ih;jo;wj;pe;gn; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
 圣诞版古拉鲁克	sheng;yt;yt;ty,yt;lg;eg;rg;cf;yt; dan;yv;yz;yy;cq;iv;su;yt;yv; ban;py;py;pf;ul;le,xe;ar;th;py; gu;uk;uk;uk;so;jr;cg;dg;uk; la;fl;fl;fl;jb;qt;ui;ru;fl; lu;yo;ao;yo;qv;na;wo;qg;eo; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue;	0
 圣诞版黑暗院长加丁	sheng;yt;yt;ty,yt;lg;eg;rg;cf;yt; dan;yv;yz;yy;cq;iv;su;yt;yv; ban;py;py;pf;ul;le,xe;ar;th;py; hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; an;oo;oo;oy;vc;aa;ox;ju;oo; yuan;ey;ee;ew;bk;nu;tp;bp;ee; zhang;pn;pn;pd;uh;po;pc;ta;pn; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; ding;al;al;aa;jj;mn;ad;sg;av;	0
@@ -50595,7 +50595,7 @@ use_preset_vocabulary: false
 失落征服者的胸甲	shi;pf;pf;pf;ee;ho;th;rw;pf; luo;ck;ck;cl;zo,rr;tr;ls;ai;ck; zheng;rv;iv;xv;hr;hm;ws;tg;rv; fu;oy;oy;oy;ll;be;vr;eb;oy; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xiong;ox;ok;ox;lp;bk;vm;eq;ox; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
 失落之书	shi;pf;pf;pf;ee;ho;th;rw;pf; luo;ck;ck;cl;zo,rr;tr;ls;ai;ck; zhi;dn;dn;dd;hh;io;ri;pp;dn; shu;vd;vd;ad,vd;rh;is;ai;nn;vd;	1
 石鳗	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; man;yy;ay;ym;ql;ne;wr;qg;ey;	0
-石矛	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	22
+石矛	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	22
 时髦的脚趾环	shi;oc;oc;oc;vk;ai;ok;jf;oc; mao;em;am;im,mb;dr;su;pv;de;im; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jiao;oe;oe;oq;lb;bl;vz;ef;oe; zhi;zv;zv;zv;gr;rm;ps;kh;zv; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
 石眉	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; mei;uo;vo;om,uo;qs;au;cq;nh;vm;	0
 石眉布衣店	shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; mei;uo;vo;om,uo;qs;au;cq;nh;vm; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; yi;wy;wy;dd;kk;yv;ti;ye;wh; dian;gv;gk;gv;ro;ir;xd;yh;gk;	0
@@ -51188,7 +51188,7 @@ use_preset_vocabulary: false
 瘦狼排	shou;by;by;bs,by;ml;ke;ar;uv;by; lang;ql;ql;ql;bh;kv;mi;qt;qh; pai;ff;ff;ff;ju;qy;ur;rd;ff;	0
 狩猎暴掠龙	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; bao;ou;ou;ou;vo;ae;ok;ja;ou; lue;fx;fx;fj;ji;qf;uy;ry;fx; long;yp;ud;ad;sh;ip;tl;dx;ab;	0
 狩猎步枪	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; bu;vu;vp;vx;ru;yh;ss;hi;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	2
-狩猎长矛	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+狩猎长矛	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 狩猎刺激	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; ci;ud;ad;dc;di;dn;ep;gm;ad; ji;dw;dw;dj,dw;kj;ek;kh;ir;dw;	1
 狩猎风鹏	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; feng;jx;jx;ji;iy;hk;ob;mq;jx; peng;on;on;np;lc;bm;vx;ee;on;	0
 狩猎高手的火枪	shou;qc;qc;qu;bk;ki;mk;qt;qc; lie;qo;qo;qx;bv;ka;mo;qt;qo; gao;wk;wk;wk;io;yr;gg;ym;wk; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
@@ -51756,7 +51756,7 @@ use_preset_vocabulary: false
 水流入侵者	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; liu;di;dv;di;kr;eu;ko;iy;dv; ru;pn;pn;pd;ee;oh;ju;ty;pn; qin;ry;ry;ry;xl;oe;jr;wv;ry; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 水流之怒	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; liu;di;dv;di;kr;eu;ko;iy;dv; zhi;dn;dn;dd;hh;io;ri;pp;dn; nu;nx;nx;xn;yn;vp;bh;vc;nx;	0
 水炉	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; lu;hh;hh;hh;tq;fs;cm;oy;hh;	0
-水陆两用矛枪	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; lu;ej;ej;ej;bp;nu;tm;bf;ej; liang;ar;ad;ad;de;mb;ml;gm;ad; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
+水陆两用矛枪	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; lu;ej;ej;ej;bp;nu;tm;bf;ej; liang;ar;ad;ad;de;mb;ml;gm;ad; yong;kf,ol;kl;kf;lp;bq;ty;et;pa; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
 睡梦雏龙	shui;ot;oi;oi;sg;bm;qg;ht;mi; meng;mx;mx;mx,xl;wf;di;el;ss;lx; chu;dv;df;iv,vi,vx;ga;ng;xu;qv;ea; long;yp;ud;ad;sh;ip;tl;dx;ab;	0
 睡梦肩垫	shui;ot;oi;oi;sg;bm;qg;ht;mi; meng;mx;mx;mx,xl;wf;di;el;ss;lx; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; dian;ft;ft;tv;jg;qg;ug;rv;ft;	0
 睡梦腰带	shui;ot;oi;oi;sg;bm;qg;ht;mi; meng;mx;mx;mx,xl;wf;di;el;ss;lx; yao;on;on;oy;ly;bv;vb;es;on; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
@@ -52567,7 +52567,7 @@ use_preset_vocabulary: false
 碎颅者	sui;uu;uu;uz;ts;mj;mn;dy;uu; lu;by;lr;yl;pm;yo;yw;hn;lr; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	5
 碎颅者护手	sui;uu;uu;uz;ts;mj;mn;dy;uu; lu;by;lr;yl;pm;yo;yw;hn;lr; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
 碎颅者中士	sui;uu;uu;uz;ts;mj;mn;dy;uu; lu;by;lr;yl;pm;yo;yw;hn;lr; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; shi;ua;ua;aa;gg;jm;gs;fg;ua;	0
-碎矛	sui;uu;uu;uz;ts;mj;mn;dy;uu; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+碎矛	sui;uu;uu;uz;ts;mj;mn;dy;uu; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 碎梦之斧	sui;uu;uu;uz;ts;mj;mn;dy;uu; meng;mx;mx;mx,xl;wf;di;el;ss;lx; zhi;dn;dn;dd;hh;io;ri;pp;dn; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
 碎木	sui;uu;uu;uz;ts;mj;mn;dy;uu; mu;ur;un,an;ad;ww;dd;em;ss;un;	37
 碎木岗哨	sui;uu;uu;uz;ts;mj;mn;dy;uu; mu;ur;un,an;ad;ww;dd;em;ss;un; gang;ux;ex;ug;py;uk;vb;mm;sx; shao;ko;ko;kx;ol;rb;dv;ki;ko;	0
@@ -52863,7 +52863,7 @@ use_preset_vocabulary: false
 塔拉补给箱	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; bu;pb;pb;yb;hh;ly;ty;pu;pb; gei;sk;sk;sh;eo;vr;id;xw;sk; xiang;vo;vo;vx;ns;hu;rq;ts;vm;	0
 塔拉长弓	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; chang;pn;pn;pd;uh;po;pc;ta;pn; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
 塔拉长剑	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; chang;pn;pn;pd;uh;po;pc;ta;pn; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
-塔拉长矛	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+塔拉长矛	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 塔拉盾牌	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; dun;io;po;po;us;hu;xq;rf;pm; pai;pu;pu;pb;us;lj;an;th;pu;	0
 塔拉戈	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; ge;yp;ad;ad;aa,ha;ii;pg;ag;ad;	4
 塔拉加曼	ta;tk;tk;td,th;go;gr;gd;fa;tk; la;fl;fl;fl;jb;qt;ui;ru;fl; jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; man;oy;oy;oy;vl;ae;or;jl;oy;	0
@@ -53691,7 +53691,7 @@ use_preset_vocabulary: false
 天灾水晶控制器	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; jing;oo;oo;oo;vv;aa;oo;jj;oo; kong;fg;fg;fk;jp;qm;uu;rp;fg; zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	0
 天灾勇士的巨盔	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; yong;sl;sl;ly;pu;ns;ks;ce;vl; shi;ua;ua;aa;gg;jm;gs;fg;ua; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; kui;um;um;mh;sa;kt;na;do;hm;	0
 天灾斩除	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; zhan;ij;ij;ij,ji;tp;kl;yt;lr;ij; chu;em;eh;ey;bf;nd;tx;bw;ex;	0
-天灾战矛	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+天灾战矛	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 天灾战旗	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; zhan;vg;lg;gv;pa;yi;yp;hk;vg; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
 天灾指挥护符	tian;ad;ad;ad;ue;mk;fm;gd;ad; zai;bh;bh;bh,hb;it;jf;wc;po;gh; zhi;fo;fo;fv;jv;qa;uo;rx;fo; hui;fi;fi;fj;jt;qq;uy;rp;fi; hu;fh;fh;fh;jq;qs;um;ry;fh; fu;vc;vc;vf;nw,nk;hi;rk;tw;vc;	0
 天爪枭的绒毛	tian;ad;ad;ad;ue;mk;fm;gd;ad; zhao;in;pn;pd;uh;ho;ya;rh;pn; xiao;nm;pm;mn,nm;uw;pd;xe;qy;pl; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; rong;su;su;sr;es,ea;vj,xj;in;xa;sg; mao;pv;pv;pg;ur;hu;vm;tf;pv;	0
@@ -53832,7 +53832,7 @@ use_preset_vocabulary: false
 铁律铭文	tie;jf;ju;ju;de;oo;zh;qr;ju; lv;ry;iy;xy;hp;hq;wb;tv;ra; ming;jk;jk;jm;do;or;zd;qq;jk; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx;	0
 铁铝石戒指	tie;jf;ju;ju;de;oo;zh;qr;ju; lv;jk;jk;jl;do;or;zd;qk;jk; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak; jie;gc;gc;gc;ap,ha;it;pl;aa;ag; zhi;fo;fo;fv;jv;qa;uo;rx;fo;	0
 铁马兄弟会	tie;jf;ju;ju;de;oo;zh;qr;ju; ma;va;va;aa,vh;zz;nm;nm;cn;va; xiong;ke;ke;ke;ok;ru;dp;kq;ke; di;bd;bp;bp;fu;ch;ht;ux;ep; hui;ry;rs;ry;ep;oi;jb;wf;rv;	2
-铁矛	tie;jf;ju;ju;de;oo;zh;qr;ju; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	4
+铁矛	tie;jf;ju;ju;de;oo;zh;qr;ju; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	4
 铁铆钉	tie;jf;ju;ju;de;oo;zh;qr;ju; mao;je;je;jm;db;ol;zb;qq;je; ding;jd;jd;jd;dj;on;za;qs;jd;	0
 铁毛护腕	tie;jf;ju;ju;de;oo;zh;qr;ju; mao;pv;pv;pg;ur;hu;vm;tf;pv; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov;	0
 铁魔像的零件	tie;jf;ju;ju;de;oo;zh;qr;ju; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; xiang;ru;rn;rx;xh;oo;jw;wq;rx; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; ling;ys;ys;yl;yp;mi;tk;fw;yv; jian;rn;rn;rn;xb;oq;jq;wr;rn;	0
@@ -58167,8 +58167,8 @@ use_preset_vocabulary: false
 雪盲软靴	xue;ye;ye;yx;ys;mm;tb;fv;ya; mang;wo;wo;ow;is;yu;fq;yn;wm; ruan;iq;ir;iq;te;ko;ye;lq;ir; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 雪盲屠夫	xue;ye;ye;yx;ys;mm;tb;fv;ya; mang;wo;wo;ow;is;yu;fq;yn;wm; tu;uo;uo;uv;qv;sa;co;nf;uo; fu;er;an;ad,er;ee;qo;hf;fw;an;	0
 血帽	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;jo;jo;jm;ys;lu;rq;mh;jm;	15
-血矛	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
-血矛的雕像	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; diao;kv;kf;vv;oa,ua;bg;mu;mf;va; xiang;ru;rn;rx;xh;oo;jw;wq;rx;	0
+血矛	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
+血矛的雕像	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; diao;kv;kf;vv;oa,ua;bg;mu;mf;va; xiang;ru;rn;rx;xh;oo;jw;wq;rx;	0
 血枚	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mei;mw;mw;mw;wj;dk;eh;st;lw;	0
 血莓	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; mei;cm;cm;cm;zh;ty;lk;at;cm;	0
 雪梅白兰地	xue;ye;ye;yx;ys;mm;tb;fv;ya; mei;mm;mm;mm;wh;dy;ek;st;lm; bai;po;po;pa,po;ss;ha;ub;rr;po; lan;bs;bs;bs,qe;fu;tm;ht;uf;es; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty;	1
@@ -58428,7 +58428,7 @@ use_preset_vocabulary: false
 血纹手套	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wen;sw;sw;sw;ej;vk;iv;xy;sx; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
 血纹束腰	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wen;sw;sw;sw;ej;vk;iv;xy;sx; shu;gr;an;ad,mk;df;dl;xs;gk;an; yao;on;on;oy;ly;bv;vb;es;on;	0
 血握	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wo;ft;ft;fw;jg;qg;uy;rn;ft;	0
-血污长矛	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wu;dk;dk;dk;kr;es;ka;if;dk; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+血污长矛	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wu;dk;dk;dk;kr;es;ka;if;dk; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 血污胫甲	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wu;dk;dk;dk;kr;es;ka;if;dk; jing;oj;og;og;lp;bm;vu;ec;og; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
 血污轻锤	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wu;dk;dk;dk;kr;es;ka;if;dk; qing;ij;ig;ig;tp;km;yu;lc;ig; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
 血污头巾	xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; wu;dk;dk;dk;kr;es;ka;if;dk; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; jin;kl;ll;aa;yy;lb;rj;mh;aa;	0
@@ -58725,7 +58725,7 @@ use_preset_vocabulary: false
 巡逻员的作战褶裙	xun;zv;zv;zi;rq;yv;ou;vp;zv; luo;zx;zx;zl;aq;yn;yu;lq;zx; yuan;kb;kr;kb;om;ro;do;km;kr; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zuo;rv;rv;rv;xu;os;jw;wt;rv; zhan;vg;lg;gv;pa;yi;yp;hk;vg; zhe;pb;pb;yb,yx;hs;la;tu;pu;pb; qun;pk;pk;yj;ho;lr;td;pu;pk;	0
 巡逻员塞瑞	xun;zv;zv;zi;rq;yv;ou;vp;zv; luo;zx;zx;zl;aq;yn;yu;lq;zx; yuan;kb;kr;kb;om;ro;do;km;kr; sai;bt;bt;tb,bt;ig;jg;wg;pf;gt; rui;we;we;we;ab;mb;nl;gm;we;	0
 巡旅手套	xun;zv;zv;zi;rq;yv;ou;vp;zv; lv;fy;fn;fp;fh;yv;lt;yt;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
-迅矛	xun;zu;zu;zu,zx;rq;yj;au;nf;zu; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+迅矛	xun;zu;zu;zu,zx;rq;yj;au;nf;zu; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 迅猛龙巢穴	xun;zu;zu;zu,zx;rq;yj;au;nf;zu; meng;qm;qm;qm;ba;kt;ma;qt;qm; long;yp;ud;ad;sh;ip;tl;dx;ab; chao;vg;vg;ig;;vd;oe;vj;vg; xue;bb;bb;bb;if;jc;ex;pw;gb;	0
 迅猛龙蛋	xun;zu;zu;zu,zx;rq;yj;au;nf;zu; meng;qm;qm;qm;ba;kt;ma;qt;qm; long;yp;ud;ad;sh;ip;tl;dx;ab; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
 迅猛龙的狡诈	xun;zu;zu;zu,zx;rq;yj;au;nf;zu; meng;qm;qm;qm;ba;kt;ma;qt;qm; long;yp;ud;ad;sh;ip;tl;dx;ab; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jiao;qf;qx;qj;by;kk;mb;qt;qx; zha;yv;yv;yv;cu;is;sw;yt;yv;	0
@@ -59136,7 +59136,7 @@ use_preset_vocabulary: false
 焰心护臂	yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; xin;dd;dd;dd;nn;pp;hx;ny;dd; hu;fh;fh;fh;jq;qs;um;ry;fh; bi;uo;uo;ob,ox;ql;sb;cv;nk;uo;	0
 炎心护腿	yan;hh;hh;hh;tt;ff;cc;oo;hh; xin;dd;dd;dd;nn;pp;hx;ny;dd; hu;fh;fh;fh;jq;qs;um;ry;fh; tui;og;oz;ot;lq;bv;vu;ev;oh;	0
 烟熏孢子鱼	yan;hy;hd;hy;tx;fk;cm;ol;hd; xun;qh;ph;ha,ph;sn;hf;lp;tg;pe; bao;zb;zs;zb;at;nu;hv;bq;zv; zi;la;va;aa,vh;aa;nd;hi;bb;va; yu;da;da;da;qq;nm;wv;qg;ea;	0
-烟熏长矛	yan;hy;hd;hy;tx;fk;cm;ol;hd; xun;qh;ph;ha,ph;sn;hf;lp;tg;pe; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+烟熏长矛	yan;hy;hd;hy;tx;fk;cm;ol;hd; xun;qh;ph;ha,ph;sn;hf;lp;tg;pe; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 烟熏鲑鱼	yan;hy;hd;hy;tx;fk;cm;ol;hd; xun;qh;ph;ha,ph;sn;hf;lp;tg;pe; gui;yt;at;yg;qg;ng;wg;qg;et; yu;da;da;da;qq;nm;wv;qg;ea;	2
 烟熏辣肠	yan;hy;hd;hy;tx;fk;cm;ol;hd; xun;qh;ph;ha,ph;sn;hf;lp;tg;pe; la;xu;lu;xu;bf;yl;nx;ug;lu; chang;op;op;oy;lu;bh;ve;en;op;	0
 烟熏鲈鱼	yan;hy;hd;hy;tx;fk;cm;ol;hd; xun;qh;ph;ha,ph;sn;hf;lp;tg;pe; lu;yu;au;yl;qq;ns;wc;qg;eu; yu;da;da;da;qq;nm;wv;qg;ea;	0
@@ -60481,7 +60481,7 @@ use_preset_vocabulary: false
 银松	yin;jg;jg;jg;dh;ov;zi;qv;jh; song;mg;ms;mg;wp;di;ek;sw;lv;	2
 银松之魂号	yin;jg;jg;jg;dh;ov;zi;qv;jh; song;mg;ms;mg;wp;di;ek;sw;lv; zhi;dn;dn;dd;hh;io;ri;pp;dn; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; hao;kk;kv;kk;or;rs;da;kg;kv;	0
 音素爆破	yin;lo;lo;lo;cc;ya;xy;uj;lo; su;fx;fx;sf,fs;ai;qf;ai;gx;ax; bao;hu;hu;hb;to;fe;ck;oj;hu; po;up;uy;up;tl;me;mr;dh;uy;	0
-音速长矛	yin;lo;lo;lo;cc;ya;xy;uj;lo; su;zu;zu;zu;dq;yl;xu;gk;zu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+音速长矛	yin;lo;lo;lo;cc;ya;xy;uj;lo; su;zu;zu;zu;dq;yl;xu;gk;zu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 银索项链	yin;jg;jg;jg;dh;ov;zi;qv;jh; suo;ux;ux;sb,us;si;jf;ni;fp;ux; xiang;gy;gr;gy,yg;pm;mo;uw;ad;gr; lian;ji;jz;jl;dq;oq;zu;ql;ji;	0
 银头鲑鱼	yin;jg;jg;jg;dh;ov;zi;qv;jh; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; gui;yt;at;yg;qg;ng;wg;qg;et; yu;da;da;da;qq;nm;wv;qg;ea;	0
 银头鳟鱼	yin;jg;jg;jg;dh;ov;zi;qv;jh; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zun;yc;ac;yz;qk;ni;wk;qg;ec; yu;da;da;da;qq;nm;wv;qg;ea;	0
@@ -60658,7 +60658,7 @@ use_preset_vocabulary: false
 影林	ying;op;op;pj;vu;ah;oe;jy;op; lin;mm;mm;mm;ww;dd;ee;ss;ll;	2
 英灵殿	ying;cy;cy;cy;zx;tk;lm;am;cy; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; dian;uu;uy;ug;ql;se;cr;na;uy;	285
 硬瘤	ying;ug;ug;ug;ty;mk;mb;dg;ug; liu;bt;bt;bl;mw;kw;aq;uq;bt;	0
-影矛	ying;op;op;pj;vu;ah;oe;jy;op; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+影矛	ying;op;op;pj;vu;ah;oe;jy;op; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 硬面包片	ying;ug;ug;ug;ty;mk;mb;dg;ug; mian;ao;aa;aa;dd;ml;bm;dm;aa; bao;bs;bs;gs;ut;pu;nv;qn;pv; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	0
 硬木长杖	ying;ug;ug;ug;ty;mk;mb;dg;ug; mu;ur;un,an;ad;ww;dd;em;ss;un; chang;pn;pn;pd;uh;po;pc;ta;pn; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
 硬木棍	ying;ug;ug;ug;ty;mk;mb;dg;ug; mu;ur;un,an;ad;ww;dd;em;ss;un; gun;mb;mb;mk;wa;dp;ev;sj;lb;	0
@@ -61372,7 +61372,7 @@ use_preset_vocabulary: false
 有力战锤	you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; li;vp;vp;gp;uu;ks;sl;lt;vp; zhan;vg;lg;gv;pa;yi;yp;hk;vg; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
 优良的蛋	you;ry;ry;ry;xh;ou;jo;wd;ry; liang;dg;dg;dg;hh;iv;ii;yv;dh; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; dan;zi;vi;ip,pi;rf;ni;tc;nh;vi;	0
 优良之	you;ry;ry;ry;xh;ou;jo;wd;ry; liang;dg;dg;dg;hh;iv;ii;yv;dh; zhi;dn;dn;dd;hh;io;ri;pp;dn;	0
-游猎长矛	you;dz;dz;dz;ka;ed;kh;iy;dz; lie;qo;qo;qx;bv;ka;mo;qt;qo; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+游猎长矛	you;dz;dz;dz;ka;ed;kh;iy;dz; lie;qo;qo;qx;bv;ka;mo;qt;qo; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 幽林	you;uy;ey;uy;pp;ui;vi;xx;ss; lin;mm;mm;mm;ww;dd;ee;ss;ll;	18
 幽灵磁铁	you;uy;ey;uy;pp;ui;vi;xx;ss; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; ci;uy;uy;uz;tp;mi;mi;du;us; tie;jf;ju;ju;de;oo;zh;qr;ju;	0
 幽灵磁铁箱	you;uy;ey;uy;pp;ui;vi;xx;ss; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; ci;uy;uy;uz;tp;mi;mi;du;us; tie;jf;ju;ju;de;oo;zh;qr;ju; xiang;vo;vo;vx;ns;hu;rq;ts;vm;	0
@@ -61829,7 +61829,7 @@ use_preset_vocabulary: false
 元老罩帽	yuan;aw;ee;aw,ee;uk;mu;mp;fq;ee; lao;lb;lb;bl,lb;ga;jp;ql;ft;ub; zhao;su;su;sv;as;wj;yn;lh;su; mao;jo;jo;jm;ys;lu;rq;mh;jm;	0
 源力之环	yuan;dx;dx;dy;ki;ef;ky;id;dx; li;vp;vp;gp;uu;ks;sl;lt;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
 怨灵布质护腕	yuan;xx;xx;xe,xy;fn;np;lh;qb;xx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; zhi;ib;pr;bu,pb;um;ho;xo;rf;pr; hu;fh;fh;fh;jq;qs;um;ry;fh; wan;ov;ov;ow;lt;bu;vz;ep;ov;	0
-怨灵长矛	yuan;xx;xx;xe,xy;fn;np;lh;qb;xx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+怨灵长矛	yuan;xx;xx;xe,xy;fn;np;lh;qb;xx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 怨灵精华	yuan;xx;xx;xe,xy;fn;np;lh;qb;xx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; jing;mo;mo;mq;ll;fb;pv;og;mo; hua;ru;ru;uh;xs;oj;jn;wx;ru;	0
 怨灵碎片	yuan;xx;xx;xe,xy;fn;np;lh;qb;xx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; sui;uu;uu;uz;ts;mj;mn;dy;uu; pian;pv;pv;pa,pv;ii,ur;ll,ln;ap;th;pv;	0
 怨灵腿甲	yuan;xx;xx;xe,xy;fn;np;lh;qb;xx; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; tui;og;oz;ot;lq;bv;vu;ev;oh; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
@@ -62249,7 +62249,7 @@ use_preset_vocabulary: false
 约林	yue;su;su;su;eh;vi;ii;xq;su; lin;mm;mm;mm;ww;dd;ee;ss;ll;	6
 约鲁斯	yue;su;su;su;eh;vi;ii;xq;su; lu;yo;ao;yo;qv;na;wo;qg;eo; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	0
 乐律匕首	yue;px;pd;pd,px;ui;hd;by;qi;pd; lv;ry;iy;xy;hp;hq;wb;tv;ra; bi;pv;pv;pg;aa;uh;vb;xt;pv; shou;bz;bz;qz;fs;tu;ho;ut;em;	0
-月矛	yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+月矛	yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 约纳斯特林的望远镜	yue;su;su;su;eh;vi;ii;xq;su; na;sn;sn;sn;ee;vb;ij;xm;sn; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; te;nc;nc;ns;bk;hi;qk;tr;nc; lin;mm;mm;mm;ww;dd;ee;ss;ll; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; wang;ww;ww;wo;ia;yg;fn;yn;ww; yuan;zy;ze;zy;uq;yu;mu;fq;ze; jing;je;je;jj;dk;ou;zp;qu;je;	0
 约尼维拉	yue;su;su;su;eh;vi;ii;xq;su; ni;ub;ub;ub;qa;sp;cv;nx;ub; wei;sv;sf;sv;ea;vg;iu;xw;sa; la;fl;fl;fl;jb;qt;ui;ru;fl;	0
 月怒	yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe; nu;nx;nx;xn;yn;vp;bh;vc;nx;	0
@@ -64579,7 +64579,7 @@ use_preset_vocabulary: false
 中立城市	zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; li;wb;wa;da;bb;yt;il;uu;wa; cheng;ti;ti;ti;gh;gs;ga;fd;tg; shi;wj;wj;wj;iy;yb;zr;ym;wj;	3
 中立拍卖行	zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; li;wb;wa;da;bb;yt;il;uu;wa; pai;fb;fb;fb;js;qa;uu;rr;fb; mai;ud;ud;um;sx;jk;nm;fn;ud; hang;rd;ii;xd,xi;hs;hn;px;tf;rd;	2
 中立英雄	zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; li;wb;wa;da;bb;yt;il;uu;wa; ying;cy;cy;cy;zx;tk;lm;am;cy; xiong;uv;uf;vh,vs;sa;kg;nu;dc;aa;	3
-重矛	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+重矛	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 中毛皮	zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; mao;pv;pv;pg;ur;hu;vm;tf;pv; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy;	0
 重毛皮	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;pv;pv;pg;ur;hu;vm;tf;pv; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy;	0
 重磨刀石	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mo;gu;gu;mu,um;dt;ir;zm;ys;gk; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
@@ -66832,7 +66832,7 @@ use_preset_vocabulary: false
 拉文霍德刺客	la;fl;fl;fl;jb;qt;ui;ru;fl; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx; huo;yv;yf;yv;ya;mg;tu;fw;ya; de;rx;ix;xx;hn;hp;wh;tf;rx; ci;ud;ad;dc;di;dn;ep;gm;ad; ke;bk;bk;bg;io;jr;ws;pt;gk;	2
 蓝腮战士	lan;cm;cm;cj;za;tt;la;aj;cm; sai;ox;ox;os;ln;bp;vh;el;ox; zhan;vg;lg;gv;pa;yi;yp;hk;vg; shi;ua;ua;aa;gg;jm;gs;fg;ua;	0
 狼人渗透者	lang;ql;ql;ql;bh;kv;mi;qt;qh; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; shen;dp;dp;dc;ku;eh;ke;ic;dp; tou;zn;zn;zx;uq;ys;xu;te;zn; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
-雷矛特种兵	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; te;nc;nc;ns;bk;hi;qk;tr;nc; zhong;hv;hv;hv;up;hl;xg;tk;hv; bing;qb;qb;qb;uf;oc;th;rg;qb;	1
+雷矛特种兵	lei;yt;yt;yt;yw;mw;tq;fl;yt; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; te;nc;nc;ns;bk;hi;qk;tr;nc; zhong;hv;hv;hv;up;hl;xg;tk;hv; bing;qb;qb;qb;uf;oc;th;rg;qb;	1
 力量的代价	li;vp;vp;gp;uu;ks;sl;lt;vp; liang;ol;ol;ol;vg;ag;od;jg;dl; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; dai;ry;ry;ry;xa;op;jp;wa;rg; jia;rj;rl;rj;xp;ol;jp;ww;rj;	5
 裂颅之击	lie;dy;dy;yl;fk;mv;gt;gq;dh; lu;by;lr;yl;pm;yo;yw;hn;lr; zhi;dn;dn;dd;hh;io;ri;pp;dn; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	1
 列王守卫	lie;dd;dd;dd;fi;mn;gp;gq;dd; wang;at;at;aa;aa;mg;nw;gg;at; shou;bc;bc;bc;ik;ji;wk;pf;gc; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea;	5
@@ -67527,7 +67527,7 @@ use_preset_vocabulary: false
 长棍毛贼	chang;pn;pn;pd;uh;po;pc;ta;pn; gun;mb;mb;mk;wa;dp;ev;sj;lb; mao;pv;pv;pg;ur;hu;vm;tf;pv; zei;bu;ku;br;ms,ma;bj;on;ma;bg;	0
 长今套装优惠套餐	chang;pn;pn;pd;uh;po;pc;ta;pn; jin;rv;rv;ra,rv;er;on;ja;wy;rv; tao;dg;ds;di;xh;ki;mp;dd;dv; zhuang;ly;dy;yv;lk;lv;at;uf;dh; you;ry;ry;ry;xh;ou;jo;wd;ry; hui;ix;ax;xh,hx;dn;jp;nh;gj;ax; tao;dg;ds;di;xh;ki;mp;dd;dv; can;dg;ll;uy;ph;yv;gq;hq;ah;	0
 长枪匪兵	chang;pn;pn;pd;uh;po;pc;ta;pn; qiang;mv;mv;mc;wt;du;ez;sw;lv; fei;kf;kf;kf;dr;sy;nr;ad;kf; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
-长枪匪兵的长矛	chang;pn;pn;pd;uh;po;pc;ta;pn; qiang;mv;mv;mc;wt;du;ez;sw;lv; fei;kf;kf;kf;dr;sy;nr;ad;kf; bing;qb;qb;qb;uf;oc;th;rg;qb; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+长枪匪兵的长矛	chang;pn;pn;pd;uh;po;pc;ta;pn; qiang;mv;mv;mc;wt;du;ez;sw;lv; fei;kf;kf;kf;dr;sy;nr;ad;kf; bing;qb;qb;qb;uf;oc;th;rg;qb; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 长效五色丹	chang;pn;pn;pd;uh;po;pc;ta;pn; xiao;ww;ww;wj;ij;yk;ah;uq;ww; wu;aw;aa;aa;gg;mm;wu;gg;aa; se;db;db;db;gt;nu;xm;qc;eb; dan;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa;	0
 超级炫彩丹	chao;tk;tk;zv;qo;gr;pd;fh;tk; ji;sj;sj;sj;eh;ve;ic;xe;sj; xuan;hx;hy;hx;tp;fi;ci;oy;hs; cai;cp;pp;pc;hu;bh;ye;es;pp; dan;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa;	0
 车敬墨	che;au;al;aa;tt;kq;yc;lg;aa; jing;cw;cw;wg,wj;zj;tk;lh;aq;cw; mo;lt;ht;th,ht;ng;wg;pg;lf;ht;	0
@@ -68610,7 +68610,7 @@ use_preset_vocabulary: false
 嵩灵环	song;uk;ek;ug;po;ub;vg;my;sk; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
 颂武快剑韩士	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; kuai;xg;xg;xd,xg;nx;pk;hj;nn;xn; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; han;uw;uw;uw,wu;sp;js;ng;fj;uw; shi;ua;ua;aa;gg;jm;gs;fg;ua;	0
 颂武狂刀弟子	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; kuang;qw;qw;qw;ba;kg;mn;qt;qw; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
-颂武门长矛弟子	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; men;dv;dv;dg;oo;ls;am;uy;dv; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
+颂武门长矛弟子	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; men;dv;dv;dg;oo;ls;am;uy;dv; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 颂武门短刀弟子	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; men;dv;dv;dg;oo;ls;am;uy;dv; duan;ub;ua;ud;ed;ot;oz;td;ud; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 颂武门短斧弟子	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; men;dv;dv;dg;oo;ls;am;uy;dv; duan;ub;ua;ud;ed;ot;oz;td;ud; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 颂武门恶霸	song;gy;br;yg;fm;co;hw;wc;br; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; men;dv;dv;dg;oo;ls;am;uy;dv; e;yx;yx;xy;dn;mp;fh;go;yx; ba;yo;yo;yo;yl;mb;tv;fa;yo;	0
@@ -69252,6 +69252,7 @@ use_preset_vocabulary: false
 摆摊操作	bai;fq;fs;fb;jp;qi;uk;rl;fv; tan;fv;ff;fn;ja;qg;uu;rc;fn; cao;fm;fm;fz;jw;qd;ue;rk;fl; zuo;rv;rv;rv;xu;os;jw;wt;rv;	0
 摆摊系统	bai;fq;fs;fb;jp;qi;uk;rl;fv; tan;fv;ff;fn;ja;qg;uu;rc;fn; xi;px;px;ps;ui;hf;ti;tx;px; tong;sy;se;si;ek;vu;ip;xy;se;	1
 白陶摆饰	bai;po;po;pa,po;ss;ha;ub;rr;po; tao;ef;ef;ef,et;bp;nu;ta;bq;ef; bai;fq;fs;fb;jp;qi;uk;rl;fv; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
+陶泥	bai;ef;ef;ef,et;bp;nu;ta;bq;ef; tao;db;db;dn;ka;ep;kv;in;db;	18
 白陶泥	bai;po;po;pa,po;ss;ha;ub;rr;po; tao;ef;ef;ef,et;bp;nu;ta;bq;ef; ni;db;db;dn;ka;ep;kv;in;db;	0
 白陶紫金盂	bai;po;po;pa,po;ss;ha;ub;rr;po; tao;ef;ef;ef,et;bp;nu;ta;bq;ef; zi;vx;vx;sc;ri;yf;si;hx;vx; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; yu;ym;ym;my;sa;mt;fa;gf;ym;	0
 白犀灵御	bai;po;po;pa,po;ss;ha;ub;rr;po; xi;un;un;nu,un;qb;sq;cq;ni;un; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; yu;re;ie;xx;hb;hl;wz;tr;re;	0
@@ -71078,7 +71079,7 @@ use_preset_vocabulary: false
 强力克木	qiang;gi;gi;gs;rf;ni;bc;xk;gi; li;vp;vp;gp;uu;ks;sl;lt;vp; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; mu;ur;un,an;ad;ww;dd;em;ss;un;	0
 强力克水	qiang;gi;gi;gs;rf;ni;bc;xk;gi; li;vp;vp;gp;uu;ks;sl;lt;vp; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn;	0
 强力克土	qiang;gi;gi;gs;rf;ni;bc;xk;gi; li;vp;vp;gp;uu;ks;sl;lt;vp; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; tu;ua;ua;aa;gg;gg;gt;ff;ua;	0
-枪矛	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	8
+枪矛	qiang;mv;mv;mc;wt;du;ez;sw;lv; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	8
 强牛	qiang;gi;gi;gs;rf;ni;bc;xk;gi; niu;pu;pl;pa;bb;hq;qn;rh;pa;	6
 强牛队	qiang;gi;gi;gs;rf;ni;bc;xk;gi; niu;pu;pl;pa;bb;hq;qn;rh;pa; dui;er;er;er;be;no;tj;bw;er;	0
 强盘	qiang;gi;gi;gs;rf;ni;bc;xk;gi; pan;vm;vm;mv,vm;ta;ht;ia;te;vm;	0
@@ -73572,7 +73573,7 @@ use_preset_vocabulary: false
 放雾	fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; wu;yl;yl;yw;yu;ms;ts;ft;yl;	2
 飞斧	fei;vd;vd;yd;rh;no,xo;cf;nu;vd; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	41
 飞行信使	fei;vd;vd;yd;rh;no,xo;cf;nu;vd; xing;rd;ii;xd,xi;hs;hn;px;tf;rd; xin;rk;rk;ry;xc;or;js;wy;rk; shi;rl;rl;rl;xy;ok;jb;wg;rl;	0
-沸血之矛	fei;df;df;df;kp;en;kt;ix;df; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+沸血之矛	fei;df;df;df;kp;en;kt;ix;df; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 分离弓箭手和角鹰兽	fen;bd;bd;bd,db;fi;ch;hp;wv;bd; li;wn;wd;ws,wl;ip,ih;yb;zv;yb;wd; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv; jian;vd;vd;vq;ni;hn;rp;tu;vd; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; he;hk;hk;hk;uo;hr;xd;t,tk;hk; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey; ying;gn;gn;gn,nv;rc;im;xx;yw;gn; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek;	0
 分裂攻击	fen;bd;bd;bd,db;fi;ch;hp;wv;bd; lie;dy;dy;yl;fk;mv;gt;gq;dh; gong;gw;gw;gw,wg;pj;mk;uh;at;gw; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	3
 分裂箭	fen;bd;bd;bd,db;fi;ch;hp;wv;bd; lie;dy;dy;yl;fk;mv;gt;gq;dh; jian;vd;vd;vq;ni;hn;rp;tu;vd;	9
@@ -73780,7 +73781,7 @@ use_preset_vocabulary: false
 灵动之翼	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; dong;yl;el;ly,yl;uu;ms;bs;fc;el; zhi;dn;dn;dd;hh;io;ri;pp;dn; yi;xg;xb;yg,yy;df;sc;zh;nl;xb;	1
 灵魂归宿	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; gui;le;le;ax,dx;ps;lm;pb;jv;aa; su;bb;bb;bb;is,io;ja;wu;pw;go;	8
 灵魂守卫	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; shou;bc;bc;bc;ik;ji;wk;pf;gc; wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea;	5
-灵魂之矛	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+灵魂之矛	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 灵魂之猪	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhu;qo;qo;qv;bv;ka;mo;qt;qo;	0
 灵能陷阱	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; neng;sb;sb;sb;pa;ip;kv;ce;vb; xian;ej;ej;ej,ex;bs;nx;tp;bq;ej; jing;ej;ej;ej;bp;nt;tq;bf;ej;	0
 灵能之刃	ling;eh;eh;hx,xh;st;sf;bc;vo;vh; neng;sb;sb;sb;pa;ip;kv;ce;vb; zhi;dn;dn;dd;hh;io;ri;pp;dn; ren;dd;dd;dd;ii;si;pi;vy;dd;	4
@@ -74013,7 +74014,7 @@ use_preset_vocabulary: false
 铁意头盔	tie;jf;ju;ju;de;oo;zh;qr;ju; yi;lx;lx;xy,lx;bn,cn;yp;xh;uj;lx; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; kui;um;um;mh;sa;kt;na;do;hm;	0
 痛苦尖叫	tong;by;by;by;mp;kb;at;uc;by; ku;cg;ck;cg;zo;tr;lc;ad;ck; jian;xd;xd;xd;ix;fk;ym;id;ad; jiao;kj;kl;kj;op;rl;di;kn;ka;	1
 痛苦之源	tong;by;by;by;mp;kb;at;uc;by; ku;cg;ck;cg;zo;tr;lc;ad;ck; zhi;dn;dn;dd;hh;io;ri;pp;dn; yuan;dx;dx;dy;ki;ef;ky;id;dx;	28
-投矛	tou;fu;fy;fu;jl;qe;ur;rm;fy; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	35
+投矛	tou;fu;fy;fu;jl;qe;ur;rm;fy; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	35
 透明鹿	tou;zn;zn;zx;uq;ys;xu;te;zn; ming;oo;oo;oo;vl;ab;ov;je;oo; lu;gb;gb;gb,lb;ra;ip;xl;yn;gb;	0
 偷泉水	tou;rd;rd;ry;xi;on;jp;ww;rd; quan;bu;bu;bu,ub;so;he;uk;ri;bu; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn;	0
 投掷飞镖	tou;fu;fy;fu;jl;qe;ur;rm;fy; zhi;fe;fe;fv;jb;ql,xl;ut;ru;fe; fei;vd;vd;yd;rh;no,xo;cf;nu;vd; biao;ju;jx;jp;di;of;zf;qs;jx;	3
@@ -77163,7 +77164,7 @@ use_preset_vocabulary: false
 第三章姨母抚育	di;vd;vp;vp;nu;hh;rt;tx;vp; san;ae;ae;aa;uu;mm;ts;dg;ae; zhang;lu;lu;lz;cs;yj;xn;uj;lu; yi;ny;ny;ny;ye;vn;bb;vg;ny; mu;md;vd;ad,vd;rh;wi;km;xg;vd; fu;fw;fw;fw;jk;qu;ud;rf;fw; yu;wo;wo;os,wo;il;yb;bv;yc;wo;	0
 地煞巨熊	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; sha;dh;dh;hw;gn;nf;xc;qv;ee; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; xiong;sh;sh;hn;pn;if;kc;ce;ve;	0
 地煞巨熊的胆	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; sha;dh;dh;hw;gn;nf;xc;qv;ee; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; xiong;sh;sh;hn;pn;if;kc;ce;ve; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; dan;od;oa;od;ld;bm;vf;ej;od;	0
-地煞矛	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; sha;dh;dh;hw;gn;nf;xc;qv;ee; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+地煞矛	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; sha;dh;dh;hw;gn;nf;xc;qv;ee; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 地上龙	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; long;yp;ud;ad;sh;ip;tl;dx;ab;	0
 敌首	di;uw;qw;wu,uw;sj;hk,xk;ah;td;qw; shou;bz;bz;qz;fs;tu;ho;ut;em;	17
 地鼠门帮众	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; shu;jv;jv;ju;sr;hv;ps;vn;jv; men;dv;dv;dg;oo;ls;am;uy;dv; bang;fj;fj;jb;uy;qb;ar;dt;bj; zhong;rr;rr;rc;ee;oo;jj;ww;rr;	0
@@ -78669,7 +78670,7 @@ use_preset_vocabulary: false
 韩尚仁	han;uw;uw;uw,wu;sp;js;ng;fj;uw; shang;xk;xk;xk;ho;fr;ss;im;ek; ren;re;re;re;xu;om;jm;wf;re;	0
 韩深	han;uw;uw;uw,wu;sp;js;ng;fj;uw; shen;dm;dm;dm;kw;ed;ke;ip;dl;	0
 韩深的字条	han;uw;uw;uw,wu;sp;js;ng;fj;uw; shen;dm;dm;dm;kw;ed;ke;ip;dl; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; zi;bz;bz;bz;ia;jd;wh;pb;gz; tiao;wm;wm;wm;jf;hd;he;ts;wx;	0
-寒水长矛	han;bd;bd;bd;ih;jy;ww;pf;gd; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+寒水长矛	han;bd;bd;bd;ih;jy;ww;pf;gd; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 寒水弟子	han;bd;bd;bd;ih;jy;ww;pf;gd; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 寒水宴	han;bd;bd;bd;ih;jy;ww;pf;gd; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; yan;bn;bn;bn;iy;jv;wb;pj;gn;	0
 韩宿	han;uw;uw;uw,wu;sp;js;ng;fj;uw; su;bb;bb;bb;is,io;ja;wu;pw;go;	0
@@ -81964,7 +81965,7 @@ use_preset_vocabulary: false
 鸾鸟绶带	luan;wn;wn;ny,wn,yn;ic;ym;zx;yo;wn; niao;na;wd,pa;na,pa;cc;pm;xn;qy;pa; shou;sy;sy;su;el;ve;ir;xe;sy; dai;cj;fj;jb;zy;tb;lr;gk;aj;	0
 乱葬岗孤影	luan;uv;qv;ug;mr,sr;hu;aa;td;qv; zang;cc;cc;cc;zp;tt;ll;ag;ca; gang;ux;ex;ug;py;uk;vb;mm;sx; gu;zg;zg;zg;ah;no;hy;br;zg; ying;op;op;pj;vu;ah;oe;jy;op;	0
 乱贼阵脚	luan;uv;qv;ug;mr,sr;hu;aa;td;qv; zei;bu;ku;br;ms,ma;bj;on;ma;bg; zhen;ei;ei;ei;bt;nq;ty;bl;ei; jiao;oe;oe;oq;lb;bl;vz;ef;oe;	0
-掠敌矛戈	lue;fx;fx;fj;ji;qf;uy;ry;fx; di;uw;qw;wu,uw;sj;hk,xk;ah;td;qw; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ge;yp;ad;ad;aa,ha;ii;pg;ag;ad;	0
+掠敌矛戈	lue;fx;fx;fj;ji;qf;uy;ry;fx; di;uw;qw;wu,uw;sj;hk,xk;ah;td;qw; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ge;yp;ad;ad;aa,ha;ii;pg;ag;ad;	0
 略施小惩	lue;tk;tk;tg;wo;wr;qs;lt;tk; shi;fy;fy;fy;fr;yd;le;yt;fy; xiao;lb;ld;ad;ii;nc;yx;ih;vd; cheng;rx;ix;xv;hn;hp;wh;tg;rx;	1
 略有所知	lue;tk;tk;tg;wo;wr;qs;lt;tk; you;uo;uo;ou,uo;sl;kb;nv;e,de;ao; suo;hj;pj;hj,jh;up;hl;mt;rn;pj; zhi;uk;uk;uk,ku;eo;or;od;td;uk;	19
 论剑峰	lun;yl;yb;yl;ca;ip;sj;yw;yb; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; feng;uf;ef;uf;pa;uj;va;mt;sf;	0
@@ -84581,7 +84582,7 @@ use_preset_vocabulary: false
 舍利院弟子	she;rg;rk;ru;eo;or;ja;wf;rk; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; yuan;ey;ee;ew;bk;nu;tp;bp;ee; di;bd;bp;bp;fu;ch;ht;ux;ep; zi;la;va;aa,vh;aa;nd;hi;bb;va;	0
 蛇鳞衫	she;ib;ib;it;fa;lp;cv;jp;ib; lin;yf;al;yl;qp;nq;wv;qg;ea; shan;pp;pp;yp;hu;lh;te;pu;pp;	0
 蛇笼	she;ib;ib;it;fa;lp;cv;jp;ib; long;vl;vl;vl;nh;hp;rt;td;vb;	1
-蛇矛	she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	30
+蛇矛	she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	30
 蛇皮铜丝甲	she;ib;ib;it;fa;lp;cv;jp;ib; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; tong;jk;jk;jt;do;or;zd;qm;jk; si;sa;va;aa;ee;vm;ii;xx;ss; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
 蛇清	she;ib;ib;it;fa;lp;cv;jp;ib; qing;do;do;dq;kl;eb;kv;ig;do;	0
 蛇肉羹	she;ib;ib;it;fa;lp;cv;jp;ib; rou;nr;nr;ad,kr;oe;oo;mj;mw;nr; geng;yd;yd;gm,ym;fx;tk;gm;ug;ed;	0
@@ -85238,7 +85239,7 @@ use_preset_vocabulary: false
 水灵蟾	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; chan;ik;ik;iv,iy;fc;lr;cs;jq;ik;	0
 水龙机关	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; long;yp;ud;ad;sh;ip;tl;dx;ab; ji;mj;mj;mj;wi;dn;eo;sm;lj; guan;bt;bt;bt,qd;fx;tk;hm;ud;et;	0
 水蔓菁玄	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; man;cy;cy;cm;zl;te;lr;aj;cy; jing;co;co;cq;zl;tb;lv;ag;co; xuan;wy;wy;wy;ip;yi;zi;yx;ws;	0
-水矛堆	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dui;tv;tf;tv;ga;gg;gu;fw;ta;	0
+水矛堆	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dui;tv;tf;tv;ga;gg;gu;fw;ta;	0
 水媚妖衣	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; mei;no;no;nm;ys;vu;bq;vn;nm; yao;ny;ny;ny;yx;vk;bm;vt;ny; yi;wy;wy;dd;kk;yv;ti;ye;wh;	0
 水门宝箱	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; men;dv;dv;dg;oo;ls;am;uy;dv; bao;by;by;by;ia;ji;wi;pg;gy; xiang;vo;vo;vx;ns;hu;rq;ts;vm;	0
 水门甲人	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; men;dv;dv;dg;oo;ls;am;uy;dv; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	0
@@ -87510,7 +87511,7 @@ use_preset_vocabulary: false
 骁果营精锐剑客	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; jing;mo;mo;mq;ll;fb;pv;og;mo; rui;jx;je;jd;dk;ou;zp;qu;je; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; ke;bk;bk;bg;io;jr;ws;pt;gk;	0
 骁果营精锐骑兵	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; jing;mo;mo;mq;ll;fb;pv;og;mo; rui;jx;je;jd;dk;ou;zp;qu;je; qi;mk;mk;mq;zj;nr;nz;cd;mk; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
 骁果营军犬	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; jun;bi;bi;bi;it;bq;wy;pl;gi; quan;dd;dd;dd,ad;bb;ik;mq;dg;dd;	0
-骁果营矛兵	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
+骁果营矛兵	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
 骁果营猛虎	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; meng;qm;qm;qm;ba;kt;ma;qt;qm; hu;hj;hj;hj;pi;yn,yu;zh;ha;aj;	0
 骁果营密信	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; mi;bu;be;ub,bu;ip;ju;wv;pn;gs; xin;rk;rk;ry;xc;or;js;wy;rk;	0
 骁果营破损弩机	xiao;mw;mw;my;zk;nu;np;ca;me; guo;tm;ln;ad,tm;vw;wd;qe;js;an; ying;ck;ck;cl;zo;tr;ld;ap;ck; po;up;uy;up;tl;me;mr;dh;uy; sun;fb;fr;fy;jm;qo;uo;rk;fr; nu;ng;ng;gn;yr;vn;bb;vc;ng; ji;mj;mj;mj;wi;dn;eo;sm;lj;	0
@@ -88227,7 +88228,7 @@ use_preset_vocabulary: false
 雅丝米妮	ya;yv;yf;vy,yv;da;mg;lu;ah;ya; si;sa;va;aa;ee;vm;ii;xx;ss; mi;bm;dm;dd;ll;fd;pm;oy;dl; ni;nb;nb;nn;ya;vp;bv;vn;nb;	0
 亚斯纳	ya;ay;ay;ay;dd;mc;fc;go;ay; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; na;sn;sn;sn;ee;vb;ij;xm;sn;	0
 雅无心	ya;yv;yf;vy,yv;da;mg;lu;ah;ya; wu;ay;ay;ag,ay,ee;uk;mu;du;fq;av; xin;dd;dd;dd;nn;pp;hx;ny;dd;	0
-燕霸矛	yan;ch;nh,ah;ch,hb;vn;tf;lc;au;ce; ba;yo;yo;yo;yl;mb;tv;fa;yo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+燕霸矛	yan;ch;nh,ah;ch,hb;vn;tf;lc;au;ce; ba;yo;yo;yo;yl;mb;tv;fa;yo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 雁北村民	yan;iv;if;iv;ra;mg;xu;dw;ia; bei;lb;lb;ap,bj;la;lp;av;ux;ab; cun;mc;mc;mc;wk;di;ek;sf;lc; min;vv;vv;ag,kq,vg;rr;rp;dm;n,na;vv;	0
 雁北村中起苍茫	yan;iv;if;iv;ra;mg;xu;dw;ia; bei;lb;lb;ap,bj;la;lp;av;ux;ab; cun;mc;mc;mc;wk;di;ek;sf;lc; zhong;kl;ll;aa,ka;op;ll;dg;k,kh;aa; qi;tj;tj;zj;qt;gu;pv;fh;tj; cang;cv;cv;cc;zt;tu;lz;aw;cv; mang;cw;cw;cw;zr;tv;lf;ai;cw;	0
 炎部上忍炎珠	yan;hh;hh;hh;tt;ff;cc;oo;hh; bu;le;le;ek,ep;bb;yl;it;uk;le; shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; ren;rx;rx;xr;in;sp;ph;vy;rx; yan;hh;hh;hh;tt;ff;cc;oo;hh; zhu;ww;wv;wv;ae;md;na;gr;wv;	0
@@ -88802,7 +88803,7 @@ use_preset_vocabulary: false
 一筐木头	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kuang;vw;vw;vk;nr;hg;rn;ta;vw; mu;ur;un,an;ad;ww;dd;em;ss;un; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 一捆刀	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kun;fm;fm;fk;jw;qd;ue;rl;fl; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp;	0
 一捆棍	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kun;fm;fm;fk;jw;qd;ue;rl;fl; gun;mb;mb;mk;wa;dp;ev;sj;lb;	0
-一捆矛	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kun;fm;fm;fk;jw;qd;ue;rl;fl; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+一捆矛	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kun;fm;fm;fk;jw;qd;ue;rl;fl; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 一捆七星草	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kun;fm;fm;fk;jw;qd;ue;rl;fl; qi;av;av;ag;aa;ju;rq;ag;av; xing;ou;ou;ou;va;am;ol;jt;ou; cao;cu;cu;cz;zs;tj;ln;aj;cu;	0
 一捆物件	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; kun;fm;fm;fk;jw;qd;ue;rl;fl; wu;nw;nw;nw;bi;hh;qe;tr;nw; jian;rn;rn;rn;xb;oq;jq;wr;rn;	0
 一篮瓜果	yi;aa;aa;aa;dd;mm;fi;g,gg;aa; lan;vm;vm;vj;na;ht;ra;tj;vm; gua;in,vd;pn;pd;uh;ho;yg;rc;pn; guo;tm;ln;ad,tm;vw;wd;qe;js;an;	0
@@ -92858,7 +92859,7 @@ use_preset_vocabulary: false
 猫兵快靴	mao;qt;qt;qm;bw;kw;mq;qt;qt; bing;qb;qb;qb;uf;oc;th;rg;qb; kuai;xg;xg;xd,xg;nx;pk;hj;nn;xn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 猫兵皮甲衣	mao;qt;qt;qm;bw;kw;mq;qt;qt; bing;qb;qb;qb;uf;oc;th;rg;qb; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; yi;wy;wy;dd;kk;yv;ti;ye;wh;	0
 猫骨	mao;qt;qt;qm;bw;kw;mq;qt;qt; gu;go;lo;go,ob,og;cc;bb;fg;me;ao;	23
-矛精通	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; jing;mo;mo;mq;ll;fb;pv;og;mo; tong;zy;zy;zy;pq;yb;ku;ce;zy;	0
+矛精通	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; jing;mo;mo;mq;ll;fb;pv;og;mo; tong;zy;zy;zy;pq;yb;ku;ce;zy;	0
 冒险级	mao;oo;ko,oo;oo;vs;au;oq;jh;am; xian;eq;ea;ea,eq;bd;nm;tf;bw;ea; ji;sj;sj;sj;eh;ve;ic;xe;sj;	4
 猫眼宝石	mao;qt;qt;qm;bw;kw;mq;qt;qt; yan;og;og;og;sh;bv;qi;hv;mh; bao;by;by;by;ia;ji;wi;pg;gy; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	1
 猫妖百夫长	mao;qt;qt;qm;bw;kw;mq;qt;qt; yao;ny;ny;ny;yx;vk;bm;vt;ny; bai;ab;ab;ab;ds;ma;fu;dj;ab; fu;er;an;ad,er;ee;qo;hf;fw;an; zhang;pn;pn;pd;uh;po;pc;ta;pn;	0
@@ -96816,7 +96817,7 @@ use_preset_vocabulary: false
 救助帽	jiu;qw;qw;wq;dj;ik;fh;fi;qw; zhu;ql;ql;lq,ql;pu;bs;fs;eg;ql; mao;jo;jo;jm;ys;lu;rq;mh;jm;	0
 九转续命丹	jiu;pv;pv;py;ur;kn;kj;vt;pv; zhuan;iv;iv;iv;th;ki;yi;lf;iv; xu;sd;sd;sm;ex;vk;im;xf;sd; ming;re;re;re;eb;ol;jz;wg;re; dan;kd;pa;pd;oi,oz,ud,uz,od;by;mz;my;pa;	0
 九转玄功	jiu;pv;pv;py;ur;kn;kj;vt;pv; zhuan;iv;iv;iv;th;ki;yi;lf;iv; xuan;wy;wy;wy;ip;yi;zi;yx;ws; gong;gl;gl;gl,lg;pu;ms;us;al;gl;	1
-锯齿矛	ju;jg;jk;jj;do;or;zc;qn;jk; chi;vr;vk;vk;rp;yo;lc;hw;va; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+锯齿矛	ju;jg;jk;jj;do;or;zc;qn;jk; chi;vr;vk;vk;rp;yo;lc;hw;va; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 拘魂诀	ju;fj;fk;fj;ji;qr;ug;rq;fk; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; jue;yg;yg;yd,yg;cx;ik;sj;yn;yn;	0
 拘魂女使	ju;fj;fk;fj;ji;qr;ug;rq;fk; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; nv;va;va;aa,vh;yy;vv;bn;vv;va; shi;rl;rl;rl;xy;ok;jb;wg;rl;	0
 拒绝陌生人消息	ju;fj;fj;fj;jr;qs;un;ra;fj; jue;sb;sb;ss;et;vu;im;xq;sb; mo;eb;eb;eb;bs;na;tu;bd;eo; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; xiao;do;do;dx;kl;eb;kv;ii;do; xi;zx;zx;xz,zx;sn;hp;oh;th;zx;	0
@@ -98761,7 +98762,7 @@ use_preset_vocabulary: false
 选美大会司仪	xuan;ze;ze;zx;bq;yu;qu;tf;ze; mei;yd;yd;dy,yd;fx;tk;gm;ug;ed; da;ar;un;ad;xx;kk;md;dd;an; hui;ry;rs;ry;ep;oi;jb;wf;rv; si;vk;vk;gk,ka;ro;sr;ad;ng;vk; yi;ry;ry;ry;xy,xh;ok,xk;jb;wy;ry;	0
 玄木刀	xuan;wy;wy;wy;ip;yi;zi;yx;ws; mu;ur;un,an;ad;ww;dd;em;ss;un; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp;	0
 玄天铁鞭	xuan;wy;wy;wy;ip;yi;zi;yx;ws; tian;ad;ad;ad;ue;mk;fm;gd;ad; tie;jf;ju;ju;de;oo;zh;qr;ju; bian;gg;gg;gb;vy;tk;tb;af;cg;	0
-玄铁矛	xuan;wy;wy;wy;ip;yi;zi;yx;ws; tie;jf;ju;ju;de;oo;zh;qr;ju; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+玄铁矛	xuan;wy;wy;wy;ip;yi;zi;yx;ws; tie;jf;ju;ju;de;oo;zh;qr;ju; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 玄武护法	xuan;wy;wy;wy;ip;yi;zi;yx;ws; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; hu;fh;fh;fh;jq;qs;um;ry;fh; fa;dq;ds;dq;kp;ei;kk;if;dv;	0
 旋舞杀	xuan;fz;fr;fp;fe;yo;lt;yt;fr; wu;pf;pl;rf,pa,xf;ep;oq;ev;rl;pa; sha;xm;xm;mi,im;yf;kd,xd;be;qs;xx;	0
 玄武堂帮众	xuan;wy;wy;wy;ip;yi;zi;yx;ws; wu;yv;av;vy,yv;dr;mm;fs;ga;vg; tang;xt;xt;tk,dt,xt;hg;fg;sg;ip;et; bang;fj;fj;jb;uy;qb;ar;dt;bj; zhong;rr;rr;rc;ee;oo;jj;ww;rr;	0
@@ -114464,7 +114465,7 @@ use_preset_vocabulary: false
 别慌能赢	bie;kd;kd;dl;oi;rn,xn;dp;kl;kd; huang;xi;xv;xh;nr;pu;ho;na;xh; neng;sb;sb;sb;pa;ip;kv;ce;vb; ying;wb;wf;bk,wf;im,ih;yo;fi;yn;wf;	0
 别抓人优先推塔	bie;kd;kd;dl;oi;rn,xn;dp;kl;kd; zhua;fv;fv;fv;jh;qo,xo;uy;rr;fv; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; you;ry;ry;ry;xh;ou;jo;wd;ry; xian;ne;ne;ne,en;bk;hu;qp;tf;pe; tui;fv;ff;fv;ja;qg;uu;rw;fa; ta;tk;tk;td,th;go;gr;gd;fa;tk;	0
 冰脉护手	bing;du;du;du;fo;ie;wk;ui;du; mai;oy;oy;oy;lh;be;vk;ey;oy; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
-冰霜长矛	bing;du;du;du;fo;ie;wk;ui;du; shuang;yo;yo;yx;ys;mu;tq;fs;ym; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
+冰霜长矛	bing;du;du;du;fo;ie;wk;ui;du; shuang;yo;yo;yx;ys;mu;tq;fs;ym; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
 冰霜法杖	bing;du;du;du;fo;ie;wk;ui;du; shuang;yo;yo;yx;ys;mu;tq;fs;ym; fa;dq;ds;dq;kp;ei;kk;if;dv; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	16
 冰雪之华	bing;du;du;du;fo;ie;wk;ui;du; xue;ye;ye;yx;ys;mm;tb;fv;ya; zhi;dn;dn;dd;hh;io;ri;pp;dn; hua;ru;ru;uh;xs;oj;jn;wx;ru;	0
 搏击拳套	bo;fc;fc;fc,ff;jk;qi;uk;rg;fc; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa; quan;ju;ju;uf,ju;fo;fq;hu;ud;du; tao;dg;ds;di;xh;ki;mp;dd;dv;	0
@@ -119731,7 +119732,7 @@ use_preset_vocabulary: false
 暗金教水晶侍女	an;oo;oo;oy;vc;aa;ox;ju;oo; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; jiao;lw;lw;wx;gj;jk;qh;ft;uw; shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; jing;oo;oo;oo;vv;aa;oo;jj;oo; shi;rc;rc;rs;xk;oi;jk;wf;rc; nv;va;va;aa,vh;yy;vv;bn;vv;va;	0
 暗金教信使	an;oo;oo;oy;vc;aa;ox;ju;oo; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; jiao;lw;lw;wx;gj;jk;qh;ft;uw; xin;rk;rk;ry;xc;or;js;wy;rk; shi;rl;rl;rl;xy;ok;jb;wg;rl;	0
 暗金教鸦人祭司	an;oo;oo;oy;vc;aa;ox;ju;oo; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; jiao;lw;lw;wx;gj;jk;qh;ft;uw; ya;yn;yn;ny,yn;dc;mm;lx;ah;yn; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; ji;xu;px;uy,ou;fi;bf;hf;wf;px; si;vk;vk;gk,ka;ro;sr;ad;ng;vk;	0
-暗矛猎手	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
+暗矛猎手	an;oo;oo;oy;vc;aa;ox;ju;oo; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; lie;qo;qo;qx;bv;ka;mo;qt;qo; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
 暗色炸弹	an;oo;oo;oy;vc;aa;ox;ju;oo; se;db;db;db;gt;nu;xm;qc;eb; zha;hv;hv;hv;tu;fs;cw;ot;hv; dan;gu;gl;gd;rs;nj;bn;xu;gd;	4
 暗言术骇	an;oo;oo;oy;vc;aa;ox;ju;oo; yan;wk;wk;da,dk,wk;cc;yr;sy;yy;wk; shu;md;md;md;wh;id,xd;ei;sy;ld; hai;mr;mr;mh;ze;no;nk;cy;mr;	0
 暗言术疼	an;oo;oo;oy;vc;aa;ox;ju;oo; yan;wk;wk;da,dk,wk;cc;yr;sy;yy;wk; shu;md;md;md;wh;id,xd;ei;sy;ld; teng;bd;bd;bd;mh;ky;aw;ut;bd;	0
@@ -121740,7 +121741,7 @@ use_preset_vocabulary: false
 何遂高	he;rk;rk;rk;xj;or;jz;ws;rk; sui;zu;zu;zu;fq;yo;hu;ue;zd; gao;wk;wk;wk;io;yr;gg;ym;wk;	1
 鹤翼	he;bn;dn;nv;ic;om;wx;pw;dn; yi;xg;xb;yg,yy;df;sc;zh;nl;xb;	7
 何以以死惧之	he;rk;rk;rk;xj;or;jz;ws;rk; yi;lr;vr;rd,ry;re;vo;vj;c,ny;vr; yi;lr;vr;rd,ry;re;vo;vj;c,ny;vr; si;db;db;db;ff;mp;gv;gq;db; ju;xb;xb;xj;nf;pc;hh;nh;xb; zhi;dn;dn;dd;hh;io;ri;pp;dn;	0
-横矛立马	heng;mb;mb;mh;wy;dc;en;sa;lb; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; li;wb;wa;da;bb;yt;il;uu;wa; ma;va;va;aa,vh;zz;nm;nm;cn;va;	2
+横矛立马	heng;mb;mb;mh;wy;dc;en;sa;lb; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; li;wb;wa;da;bb;yt;il;uu;wa; ma;va;va;aa,vh;zz;nm;nm;cn;va;	2
 洪飞	hong;dg;db;dg;kf;ec;kh;ia;db; fei;vd;vd;yd;rh;no,xo;cf;nu;vd;	7
 弘援	hong;gs;gs;gs;rp;ni,xi;bk;xc;gv; yuan;fy;fy;fy;jl;qe;ur;re;fy;	0
 虎狼兄弟	hu;hj;hj;hj;pi;yn,yu;zh;ha;aj; lang;ql;ql;ql;bh;kv;mi;qt;qh; xiong;ke;ke;ke;ok;ru;dp;kq;ke; di;bd;bp;bp;fu;ch;ht;ux;ep;	0
@@ -124896,7 +124897,7 @@ use_preset_vocabulary: false
 傑桑尼庫	jie;rm;;rj,rm;;od;je;wq;; sang;ym;ym;mr,mu,ym;lw;ed;re;cc;yl; ni;ub;ub;ub;qa;sp;cv;nx;ub; ku;gi;;gi;;ij;xy;yl;;	0
 金寶的金牌	jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; bao;bb;;bb;;jc;wo;pg;; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; pai;pu;pu;pb;us;lj;an;th;pu;	0
 緊迫釘人	jin;ix;;sy;;sf;qi;ah;; po;zb;zb;zb;sq;ya;uu;rp;zb; ding;jd;;jd;;cn;za;qs;; ren;pn;pn;pd;ee;oo;jr;w,ww;pn;	0
-鯨骨雕矛	jing;yx;;yj;;nf;wy;qo;; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; diao;kv;kf;vv;oa,ua;bg;mu;mf;va; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+鯨骨雕矛	jing;yx;;yj;;nf;wy;qo;; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; diao;kv;kf;vv;oa,ua;bg;mu;mf;va; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 警戒之牆	jing;ck;ck;yj;zc;tr;ls;aq;ck; jie;gc;gc;gc;ap,ha;it;pl;aa;ag; zhi;dn;dn;dd;hh;io;ri;pp;dn; qiang;pk;;ph,ps;;vw;ad;nh;;	0
 巨大顱骨	ju;kk;ka;kk,aa;dr;ss;nn;an;ka; da;ar;un;ad;xx;kk;md;dd;an; lu;hy;;yl;;yc;zw;ha;; gu;go;lo;go,ob,og;cc;bb;fg;me;ao;	0
 巨人束腰	ju;kk;ka;kk,aa;dr;ss;nn;an;ka; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; shu;gr;an;ad,mk;df;dl;xs;gk;an; yao;on;on;oy;ly;bv;vb;es;on;	0
@@ -124993,7 +124994,7 @@ use_preset_vocabulary: false
 榮光之諾	rong;hm;;hm,mb;;fd;ce;oo;; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee; zhi;dn;dn;dd;hh;io;ri;pp;dn; nuo;yk;;yr;;yr;sd;ya;;	0
 肉耙	rou;nr;nr;ad,kr;oe;oo;mj;mw;nr; ba;lb;lb;lb;at;qu;am;di;fb;	0
 賽菲里安護符	sai;bb;;bb;;jc;wo;pf;; fei;cf;cf;cf;zu;ty;lr;ad;cf; li;tt;la;aa,tt;vg;wg;dl;jf;aa; an;bn;bn;bn;iy;jv;wb;pv;gn; hu;yy;;yh,yy;;ye;sr;ya;; fu;vc;vc;vf;nw,nk;hi;rk;tw;vc;	0
-三百壯矛	san;ae;ae;aa;uu;mm;ts;dg;ae; bai;ab;ab;ab;ds;ma;fu;dj;ab; zhuang;pt;;pu,up;;vg;ag;nh;; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+三百壯矛	san;ae;ae;aa;uu;mm;ts;dg;ae; bai;ab;ab;ab;ds;ma;fu;dj;ab; zhuang;pt;;pu,up;;vg;ag;nh;; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 三連寶球	san;ae;ae;aa;uu;mm;ts;dg;ae; lian;zi;;zi;;yj;yu;lp;; bao;bb;;bb;;jc;wo;pg;; qiu;wq;wq;wq;ah;me;ni;gf;wq;	0
 桑吉士燃斧	sang;ym;ym;mr,mu,ym;lw;ed;re;cc;yl; ji;tk;uk;ku,uk;go;gr;gd;fk;uk; shi;ua;ua;aa;gg;jm;gs;fg;ua; ran;hh;hh;hr;tn;ff;cc;oq;he; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
 殺滅	sha;xu;;uu;yl;ke;br;qs;; mie;dh;;dh,dm;;ef;kc;id;;	0
@@ -129351,7 +129352,7 @@ use_preset_vocabulary: false
 阿内萨兹之锋	a;ek;ek;ek;bj;nr;tz;bs;ek; nei;kr;ld;ad,kr;oe;ob,xb;mj;mw;ad; sa;ci;ci;ci;zu;th;lx;ab;ci; zi;by;by;by,qy;fp;ti;hi;ux;es; zhi;dn;dn;dd;hh;io;ri;pp;dn; feng;jf;jf;jf;da;oj;za;qt;jf;	0
 阿瑟夫的生命之光	a;ek;ek;ek;bj;nr;tz;bs;ek; se;wb;wb;wb;au;mh;nt;gg;wb; fu;er;an;ad,er;ee;qo;hf;fw;an; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; ming;re;re;re;eb;ol;jz;wg;re; zhi;dn;dn;dd;hh;io;ri;pp;dn; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee;	0
 阿斯格伦巨锤	a;ek;ek;ek;bj;nr;tz;bs;ek; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; ge;mk;mk;mg;wo;dr;es;st;lk; lun;rl;rb;rl;;op;jj;ww;rb; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
-阿瓦里昂莱姗德之矛	a;ek;ek;ek;bj;nr;tz;bs;ek; wa;ad;ad;ad;dh;mi;rw;gn;ad; li;tt;la;aa,tt;vg;wg;dl;jf;aa; ang;oe;oe;oe;vb;al;oz;jq;oe; lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; shan;nc;nc;nc;yj;vm;bi;vm;nc; de;rx;ix;xx;hn;hp;wh;tf;rx; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+阿瓦里昂莱姗德之矛	a;ek;ek;ek;bj;nr;tz;bs;ek; wa;ad;ad;ad;dh;mi;rw;gn;ad; li;tt;la;aa,tt;vg;wg;dl;jf;aa; ang;oe;oe;oe;vb;al;oz;jq;oe; lai;cl;cl;cl;zl,zf;tt;lh;ag;cl; shan;nc;nc;nc;yj;vm;bi;vm;nc; de;rx;ix;xx;hn;hp;wh;tf;rx; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 阿兹卡兰之星	a;ek;ek;ek;bj;nr;tz;bs;ek; zi;by;by;by,qy;fp;ti;hi;ux;es; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; lan;bs;bs;bs,qe;fu;tm;ht;uf;es; zhi;dn;dn;dd;hh;io;ri;pp;dn; xing;ou;ou;ou;va;am;ol;jt;ou;	0
 阿兹图拉斯克之拳	a;ek;ek;ek;bj;nr;tz;bs;ek; zi;by;by;by,qy;fp;ti;hi;ux;es; tu;kd;kd;kd;nh;wy;rw;lt;wd; la;fl;fl;fl;jb;qt;ui;ru;fl; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; zhi;dn;dn;dd;hh;io;ri;pp;dn; quan;ju;ju;uf,ju;fo;fq;hu;ud;du;	0
 艾伯力卡罗	ai;cx;cx;ci;zy;tk,xk;lb;aq;cx; bo;rb;rb;rb;xs;oa;ju;wr;rb; li;vp;vp;gp;uu;ks;sl;lt;vp; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; luo;sx;sx;sx;af;wi;yl;lq;sx;	0
@@ -129906,7 +129907,7 @@ use_preset_vocabulary: false
 精诚之心	jing;mo;mo;mq;ll;fb;pv;og;mo; cheng;yi;yi;yi;ch;is;sa;yd;yg; zhi;dn;dn;dd;hh;io;ri;pp;dn; xin;dd;dd;dd;nn;pp;hx;ny;dd;	0
 静电放射	jing;fy;fl;qv;ap;qd;ab;ge;qv; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; fang;fw;fw;wf,fw;fj;yk;lh;yt;fw; she;uc;uc;cu,uc;uk;hi;zk;tm;uc;	0
 静电脉冲	jing;fy;fl;qv;ap;qd;ab;ge;qv; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; mai;oy;oy;oy;lh;be;vk;ey;oy; chong;dv;dv;dv;fp;il;wg;uk;dv;	0
-鲸骨利矛	jing;yx;ax;yj;qi;nf;wy;qg;ex; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+鲸骨利矛	jing;yx;ax;yj;qi;nf;wy;qg;ex; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 镜光魔珠	jing;je;je;jj;dk;ou;zp;qu;je; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; zhu;ww;wv;wv;ae;md;na;gr;wv;	0
 镜光体肤	jing;je;je;jj;dk;ou;zp;qu;je; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee; ti;rb;rb;rb;xd;om;jf;ws;rb; fu;of;of;of;le;bo;vh;ef;of;	0
 晶化躯壳	jing;oo;oo;oo;vv;aa;oo;jj;oo; hua;rb;rb;rb;xa;op;jv;wx;rb; qu;uq;ux;uq;ur;hk;zb;tm;ux; qiao;tj;uj;uj;gi;gn,xn;go;fp;uj;	0
@@ -130112,7 +130113,7 @@ use_preset_vocabulary: false
 蛮力投掷	man;wi;wi;iy,yi;if;yi;zc;yo;wi; li;vp;vp;gp;uu;ks;sl;lt;vp; tou;fu;fy;fu;jl;qe;ur;rm;fy; zhi;fe;fe;fv;jb;ql,xl;ut;ru;fe;	0
 漫天虫群	man;dy;dy;dm;kl;ee;kr;ij;dy; tian;ad;ad;ad;ue;mk;fm;gd;ad; chong;vd;vd;ad,vd;ff;li;cc;jh;vd; qun;yy;yy;yj;rp;sq;bg;vt;yy;	0
 盲信面甲	mang;wo;wo;ow;is;yu;fq;yn;wm; xin;rk;rk;ry;xc;or;js;wy;rk; mian;ao;aa;aa;dd;ml;bm;dm;aa; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa;	0
-矛隼之爪	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; sun;ru;ru;uv,vu;xs;oj;un;wy;ru; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhao;in;pn;pd;uh;ho;ya;rh;pn;	0
+矛隼之爪	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; sun;ru;ru;uv,vu;xs;oj;un;wy;ru; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhao;in;pn;pd;uh;ho;ya;rh;pn;	0
 魅魂飞弹	mei;gw;gw;gw;se;hd;aa;rq;gw; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; fei;vd;vd;yd;rh;no,xo;cf;nu;vd; dan;gu;gl;gd;rs;nj;bn;xu;gd;	0
 梅塞施密特的劫掠者	mei;mm;mm;mm;wh;dy;ek;st;lm; sai;bt;bt;tb,bt;ig;jg;wg;pf;gt; shi;fy;fy;fy;fr;yd;le;yt;fy; mi;bu;be;ub,bu;ip;ju;wv;pn;gs; te;nc;nc;ns;bk;hi;qk;tr;nc; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; jie;ql;tl;lq;gu;gs,xs;gs;fc;tl; lue;fx;fx;fj;ji;qf;uy;ry;fx; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 朦胧术	meng;ou;ou,on;om;lh;bo;vj;ea;om; long;ol;ol;ol;lh;bp;vt;ed;ob; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
@@ -130255,7 +130256,7 @@ use_preset_vocabulary: false
 如意精华	ru;nk;nk;nk;yo;vr;bd;vk;nk; yi;lx;lx;xy,lx;bn,cn;yp;xh;uj;lx; jing;mo;mo;mq;ll;fb;pv;og;mo; hua;ru;ru;uh;xs;oj;jn;wx;ru;	0
 萨卡拉肩铠	sa;ci;ci;ci;zu;th;lx;ab;ci; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; la;fl;fl;fl;jb;qt;ui;ru;fl; jian;ho;ho;ho,oh;hl,ql;hb,ib;mv;yn;ho; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
 赛飞利安护符	sai;bb;br;bb;im;jo;wo;pf;gr; fei;vd;vd;yd;rh;no,xo;cf;nu;vd; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; an;bn;bn;bn;iy;jv;wb;pv;gn; hu;fh;fh;fh;jq;qs;um;ry;fh; fu;vc;vc;vf;nw,nk;hi;rk;tw;vc;	0
-三百壮矛	san;ae;ae;aa;uu;mm;ts;dg;ae; bai;ab;ab;ab;ds;ma;fu;dj;ab; zhuang;lt;du;ju,pu,up;lg;lg;ag;uf;du; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+三百壮矛	san;ae;ae;aa;uu;mm;ts;dg;ae; bai;ab;ab;ab;ds;ma;fu;dj;ab; zhuang;lt;du;ju,pu,up;lg;lg;ag;uf;du; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 三块碎宝石	san;ae;ae;aa;uu;mm;ts;dg;ae; kuai;tg;tg;td,tg;gx;gk;gj;fn;tn; sui;uu;uu;uz;ts;mj;mn;dy;uu; bao;by;by;by;ia;ji;wi;pg;gy; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 三元宝珠	san;ae;ae;aa;uu;mm;ts;dg;ae; yuan;aw;ee;aw,ee;uk;mu;mp;fq;ee; bao;by;by;by;ia;ji;wi;pg;gy; zhu;ww;wv;wv;ae;md;na;gr;wv;	0
 桑基斯的烈焰斧	sang;ym;ym;mr,mu,ym;lw;ed;re;cc;yl; ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; lie;dh;dh;hl;fn;mf;gc;gq;de; yan;hj;hj;hj,hx;ts;fx;cp;oq;hj; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
@@ -130276,7 +130277,7 @@ use_preset_vocabulary: false
 闪电项圈	shan;mr;mr;mr,rm;oe;lo;aj;uw;mr; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; xiang;gy;gr;gy,yg;pm;mo;uw;ad;gr; quan;kv;kv;kj;nt;wu;rz;lu;wv;	0
 闪耀冰晶	shan;mr;mr;mr,rm;oe;lo;aj;uw;mr; yao;gv;xf;gd,gv;ha;fg;mu;iq;ea; bing;du;du;du;fo;ie;wk;ui;du; jing;oo;oo;oo;vv;aa;oo;jj;oo;	0
 闪耀泪滴	shan;mr;mr;mr,rm;oe;lo;aj;uw;mr; yao;gv;xf;gd,gv;ha;fg;mu;iq;ea; lei;do;do;do;ks;eu;kq;ih;dm; di;dg;dk;dd,dg;ko;eb;kc;iu;dk;	0
-上古之矛	shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; gu;uk;uk;uk;so;jr;cg;dg;uk; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+上古之矛	shang;ba;la;aa,ba;pu,pd;ym;yf;h,hh;aa; gu;uk;uk;uk;so;jr;cg;dg;uk; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 伤痕使者	shang;rl;rl;rl;xu;os;js;wt;rl; hen;bg;bg;bg;mh;kv;ai;uv;bh; shi;rl;rl;rl;xy;ok;jb;wg;rl; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo;	0
 伤筋断骨	shang;rl;rl;rl;xu;os;js;wt;rl; jin;vl;vl;vl;nu;hs;rs;te;vl; duan;vj;mj;ja,jm,jv;lp;vl;pt;on;vj; gu;go;lo;go,ob,og;cc;bb;fg;me;ao;	8
 烧焚	shao;hw;hw;hy;tk;fu;cp;oa;he; fen;mh;mh;hl;wt;df;ec;ss;lh;	2
@@ -131055,7 +131056,7 @@ use_preset_vocabulary: false
 制作人骨头	zhi;nd;pd;dg,dv;bi;hn;qp;rm;pd; zuo;rv;rv;rv;xu;os;jw;wt;rv; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd;	0
 重盾猛击	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; dun;io;po;po;us;hu;xq;rf;pm; meng;qm;qm;qm;ba;kt;ma;qt;qm; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	0
 重击之锤	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa; zhi;dn;dn;dd;hh;io;ri;pp;dn; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
-重矛退敌	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; tui;zg;zg;zg;sq;yv;iu;ve;zh; di;uw;qw;wu,uw;sj;hk,xk;ah;td;qw;	0
+重矛退敌	zhong;ql;pa;pa,ql;sg;hg;ld;tg;pa; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; tui;zg;zg;zg;sq;yv;iu;ve;zh; di;uw;qw;wu,uw;sj;hk,xk;ah;td;qw;	0
 钟鸣入道	zhong;jv;jv;jv;dp;ol;zg;qk;jv; ming;kn;kn;kn;oc;rm;dx;kq;kn; ru;pn;pn;pd;ee;oh;ju;ty;pn; dao;zz;zz;zu;fq;yu;hu;ut;zm;	0
 仲夏染料	zhong;rv;rv;rv;xp;ol;jg;wk;rv; xia;bw;aw;wz,aw;dj;me;fh;dh;aw; ran;dm;dm;mg,mj;kw;ed;ke;iv;dl; liao;md;mu;md;ls;fj;pj;ou;mu;	0
 忠贞回忆	zhong;vx;vx;xv;on;lp;dh;kh;vx; zhen;bb;lr;bb;pm;yo;yo;hm;ar; hui;kk;kk;kk;no;wr;rd;lk;wk; yi;xv;xv;xy;nr;pn;ha;nn;xy;	0
@@ -131541,7 +131542,7 @@ use_preset_vocabulary: false
 海克斯饮魔刀	hai;dm;dm;dm;kh;ey;kk;it;dm; ke;ux,ge;ue;eg,ux;sk;ju;cp;dq;ue; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; yin;uq;ur;uq;ge;no;qe;qn;ur; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp;	0
 号令之旗	hao;kk;kv;kk;or;rs;da;kg;kv; ling;rs;rs;rs;ep;oi;jk;wy;rv; zhi;dn;dn;dd;hh;io;ri;pp;dn; qi;fb;fb;fq;ff;yc;lh;yt;fb;	2
 和谐圣杯	he;hk;hk;hk;uo;hr;xd;t,tk;hk; xie;yb;yb;yj;cs;ia;su;yx;yb; sheng;yt;yt;ty,yt;lg;eg;rg;cf;yt; bei;mb;mb;mb;wh;df;ec;sg;lb;	0
-黑色长矛	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; se;db;db;db;gt;nu;xm;qc;eb; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+黑色长矛	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; se;db;db;db;gt;nu;xm;qc;eb; chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 唤潮鲛姬	huan;kr;kd;kh;ox;rk,xk;dm;kq;kd; chao;do;do;di;kl;eb;kv;if;do; jiao;yf;ax;yj;qy;nk;wb;qg;ex; ji;ni;nl,ni;ni;yr;vl;bq;va;na;	0
 魂锁典狱长	hun;yg;eg;gy,yg;us;mi;ba;fc;ev; suo;jb;jr;jb;dm;oo;zo;qi;jr; dian;qb;lb;ba,bd;pf;tc;ih;ma;ab; yu;qq;qq;qq;bb;kk;mm;qt;qq; zhang;pn;pn;pd;uh;po;pc;ta;pn;	0
 活力夹心饼干	huo;du;dk;du;ko;er;ka;it;dk; li;vp;vp;gp;uu;ks;sl;lt;vp; jia;ar;an;fb,ar;dx;kt;hh;gu;an; xin;dd;dd;dd;nn;pp;hx;ny;dd; bing;uk;uk;ub;gp;nt;ql;qn;uk; gan;au;au;aa;ss;mj;eg;fg;au;	0
@@ -134834,7 +134835,7 @@ use_preset_vocabulary: false
 李汉青	li;mz;mz;mz;wa;dd;eh;sb;lz; han;dy;dy;dy;kl;ee;kr;ic;dy; qing;fo;fo;of,fo;al;qb;av;ge;ao;	0
 厉魂血幡	li;iw;iw;iw;ee;ms;xp;dd;iw; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; xue;pm;pm;pa,pm;ua;ht;ta;tl;pm; fan;jt;jt;jf;yw;lw;rq;mh;jt;	0
 离火木	li;wn;wd;ws,wl;ip,ih;yb;zv;yb;wd; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; mu;ur;un,an;ad;ww;dd;em;ss;un;	0
-利矛符	li;hd;hd;hd,dh;ui;hn;xp;tj;hd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; fu;vc;vc;vf;nw,nk;hi;rk;tw;vc;	0
+利矛符	li;hd;hd;hd,dh;ui;hn;xp;tj;hd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; fu;vc;vc;vf;nw,nk;hi;rk;tw;vc;	0
 离人萧	li;wn;wd;ws,wl;ip,ih;yb;zv;yb;wd; ren;pn;pn;pd;ee;oo;jr;w,ww;pn; xiao;cb;cs;cs;zf;tl;lh;av;cs;	0
 李书恒的信	li;mz;mz;mz;wa;dd;eh;sb;lz; shu;vd;vd;ad,vd;rh;is;ai;nn;vd; heng;xd;xa;xg;nd;pm;hf;ng;xd; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; xin;rk;rk;ry;xc;or;js;wy;rk;	0
 李洵	li;mz;mz;mz;wa;dd;eh;sb;lz; xun;do;do;dx;kv;ea;ko;iq;do;	4
@@ -137917,7 +137918,7 @@ use_preset_vocabulary: false
 毛利羽毛饰品	mao;pv;pv;pg;ur;hu;vm;tf;pv; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; yu;xx;xx;xx;dd;sm;zv;nn;xx; mao;pv;pv;pg;ur;hu;vm;tf;pv; shi;uj;uj;uj;gy;nb;qr;qn;uj; pin;kk;kk;kk;oo;rr;dd;kk;kk;	0
 毛利战士装	mao;pv;pv;pg;ur;hu;vm;tf;pv; li;hd;hd;hd,dh;ui;hn;xp;tj;hd; zhan;vg;lg;gv;pa;yi;yp;hk;vg; shi;ua;ua;aa;gg;jm;gs;fg;ua; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	0
 毛领大衣	mao;pv;pv;pg;ur;hu;vm;tf;pv; ling;ry;rr;yl;em;oo;jw;wy;rr; da;ar;un;ad;xx;kk;md;dd;an; yi;wy;wy;dd;kk;yv;ti;ye;wh;	0
-矛枪	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	2
+矛枪	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	2
 冒险教官	mao;oo;ko,oo;oo;vs;au;oq;jh;am; xian;eq;ea;ea,eq;bd;nm;tf;bw;ea; jiao;lw;lw;wx;gj;jk;qh;ft;uw; guan;bl;bk;bg,bk;id;jr;wk;pn;ga;	0
 冒险科毕业生	mao;oo;ko,oo;oo;vs;au;oq;jh;am; xian;eq;ea;ea,eq;bd;nm;tf;bw;ea; ke;hd;hu;hd;us;hj;xj;tu;hu; bi;bu;bu;bu,ub;as;pj;vn;xx;bu; ye;la;la;aa;pd;tc,xc;cy;og;aa; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa;	0
 冒险之刻	mao;oo;ko,oo;oo;vs;au;oq;jh;am; xian;eq;ea;ea,eq;bd;nm;tf;bw;ea; zhi;dn;dn;dd;hh;io;ri;pp;dn; ke;wd;wd;dh;ii;yn;kp;yn;wd;	0
@@ -140889,7 +140890,7 @@ use_preset_vocabulary: false
 紫菁玉蓉膏	zi;vx;vx;sc;ri;yf;si;hx;vx; jing;co;co;cq;zl;tb;lv;ag;co; yu;wd;wd;ad,wd;aa;mi;ni;gy;wd; rong;cg;ck;cr;zo;tr;lh;ap;ck; gao;wo;wo;og,ok,wo;il;yb;gv;yp;wo;	0
 自觉逍遥	zi;po;po;pa,po;ss;hu;oi;th;pm; jue;xj;xe;dj,jb;hk;fu;ke;ip;ej; xiao;zo;zo;zx;hq;yb;yu;ie;zo; yao;zf;zf;zf;hq;yu,xu;yu;er;zf;	0
 紫璃	zi;vx;vx;sc;ri;yf;si;hx;vx; li;wn;wd;wl;ap,ah;mb;nv;gy;wl;	14
-子矛之誓	zi;la;va;aa,vh;aa;nd;hi;bb;va; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; shi;fk;fk;yv;jc;qr;us;rr;fk;	1
+子矛之誓	zi;la;va;aa,vh;aa;nd;hi;bb;va; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zhi;dn;dn;dd;hh;io;ri;pp;dn; shi;fk;fk;yv;jc;qr;us;rr;fk;	1
 紫陌丰田	zi;vx;vx;sc;ri;yf;si;hx;vx; mo;eb;eb;eb;bs;na;tu;bd;eo; feng;sl,af,al;al;aa;aa;qj;af;dh;aa; tian;ku;ku;aa;ww;ww;qt;ll;wu;	0
 子陌清风	zi;la;va;aa,vh;aa;nd;hi;bb;va; mo;eb;eb;eb;bs;na;tu;bd;eo; qing;do;do;dq;kl;eb;kv;ig;do; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
 紫青玉蓉膏	zi;vx;vx;sc;ri;yf;si;hx;vx; qing;fo;fo;of,fo;al;qb;av;ge;ao; yu;wd;wd;ad,wd;aa;mi;ni;gy;wd; rong;cg;ck;cr;zo;tr;lh;ap;ck; gao;wo;wo;og,ok,wo;il;yb;gv;yp;wo;	0
@@ -146673,7 +146674,7 @@ use_preset_vocabulary: false
 安吉拉的藤套装	an;bn;bn;bn;iy;jv;wb;pv;gn; ji;tk;uk;ku,uk;go;gr;gd;fk;uk; la;fl;fl;fl;jb;qt;ui;ru;fl; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; teng;cu;cu;ct;zo;te;lk;ae;cu; tao;dg;ds;di;xh;ki;mp;dd;dv; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	0
 安吉拉的天蚕套装	an;bn;bn;bn;iy;jv;wb;pv;gn; ji;tk;uk;ku,uk;go;gr;gd;fk;uk; la;fl;fl;fl;jb;qt;ui;ru;fl; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; tian;ad;ad;ad;ue;mk;fm;gd;ad; can;ti;ti;it,ti;uf;hi,mi;fc;gd;ti; tao;dg;ds;di;xh;ki;mp;dd;dv; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	0
 傲天魔剑	ao;rw;rw;ra,rw;xj;ok;jh;wg;rw; tian;ad;ad;ad;ue;mk;fm;gd;ad; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
-巴迪之矛	ba;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; di;zy;zy;zy;vq;yw;du;mp;zy; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+巴迪之矛	ba;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; di;zy;zy;zy;vq;yw;du;mp;zy; zhi;dn;dn;dd;hh;io;ri;pp;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 巴卡斯司令官	ba;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; si;vk;vk;gk,ka;ro;sr;ad;ng;vk; ling;rs;rs;rs;ep;oi;jk;wy;rv; guan;bl;bk;bg,bk;id;jr;wk;pn;ga;	0
 巴特之弓	ba;sl;sl,vv;ag,kg,vg;tt;au;mb;cn;vv; te;nc;nc;ns;bk;hi;qk;tr;nc; zhi;dn;dn;dd;hh;io;ri;pp;dn; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
 白金护手	bai;po;po;pa,po;ss;ha;ub;rr;po; jin;rb;ra;ra,pa;ed;cc;zj;qq;ra; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
@@ -146697,7 +146698,7 @@ use_preset_vocabulary: false
 布朗司	bu;uj;uj;ju,uj;sy;kb;nr;dm;aj; lang;lo;do;ol;hl;ib;iv;yv;do; si;vk;vk;gk,ka;ro;sr;ad;ng;vk;	0
 彩云兽	cai;cp;pp;pc;hu;bh;ye;es;pp; yun;ag,es;es;es,se;up;mi;by;fc;ev; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek;	0
 仓库使者嘎迪恩	cang;rv;rv;re;et;ou;jz;wb;rv; ku;gi;gi;gi;rt;iq;xy;yl;gi; shi;rl;rl;rl;xy;ok;jb;wg;rl; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; ga;kg;kg;kg;oa;ri;dp;kd;kg; di;zy;zy;zy;vq;yw;du;mp;zy; en;yx;kx;xy;nn;wp;rh;ld;wx;	0
-长矛侦察兵	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; zhen;rb;rr;rv;xm;oo;jo;wh;rr; cha;bu;bx;bj;ii;jf;wf;pw;gx; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
+长矛侦察兵	chang;pn;pn;pd;uh;po;pc;ta;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; zhen;rb;rr;rv;xm;oo;jo;wh;rr; cha;bu;bx;bj;ii;jf;wf;pw;gx; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
 炽炎魔	chi;hv;hb;hv;tf;fc;ch;ok;hb; yan;hh;hh;hh;tt;ff;cc;oo;hh; mo;gg;gg;gm,mg;ds;ii;za;ys;gv;	0
 传说护手	chuan;rv;rv;rv;xh;oi;ji;wf;rv; shuo;yx;ye;yd;ck;iu;sp;yu;ye; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
 传说护腿	chuan;rv;rv;rv;xh;oi;ji;wf;rv; shuo;yx;ye;yd;ck;iu;sp;yu;ye; hu;fh;fh;fh;jq;qs;um;ry;fh; tui;og;oz;ot;lq;bv;vu;ev;oh;	0
@@ -146774,7 +146775,7 @@ use_preset_vocabulary: false
 风之靴	feng;jx;jx;ji;iy;hk;ob;mq;jx; zhi;dn;dn;dd;hh;io;ri;pp;dn; xue;gb;gb;gh;va;tp;tv;af;cb;	0
 风之指环	feng;jx;jx;ji;iy;hk;ob;mq;jx; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhi;fo;fo;fv;jv;qa;uo;rx;fo; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
 复活之杖	fu;pw;pw;pw,rw,wo;ej;oe;eh;tj;pw; huo;du;dk;du;ko;er;ka;it;dk; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	1
-斧刃矛	fu;fj;bj;fj,jf;fp;cl;ht;wq;bj; ren;dd;dd;dd;ii;si;pi;vy;dd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+斧刃矛	fu;fj;bj;fj,jf;fp;cl;ht;wq;bj; ren;dd;dd;dd;ii;si;pi;vy;dd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 钢铁之盾	gang;jx;jx;jg;dy;ok;zb;qm;jx; tie;jf;ju;ju;de;oo;zh;qr;ju; zhi;dn;dn;dd;hh;io;ri;pp;dn; dun;io;po;po;us;hu;xq;rf;pm;	0
 高级进化宝石	gao;wk;wk;wk;io;yr;gg;ym;wk; ji;sj;sj;sj;eh;ve;ic;xe;sj; jin;zj;zj;zj;uq;yt;qu;fj;zj; hua;rb;rb;rb;xa;op;jv;wx;rb; bao;by;by;by;ia;ji;wi;pg;gy; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 戈登之杖	ge;yp;ad;ad;aa,ha;ii;pg;ag;ad; deng;bb;va;dd;rd;nt;hz;wg;vd; zhi;dn;dn;dd;hh;io;ri;pp;dn; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
@@ -146800,7 +146801,7 @@ use_preset_vocabulary: false
 汉斯的魔王套装	han;dy;dy;dy;kl;ee;kr;ic;dy; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; wang;at;at;aa;aa;mg;nw;gg;at; tao;dg;ds;di;xh;ki;mp;dd;dv; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	0
 汉斯的皮套装	han;dy;dy;dy;kl;ee;kr;ic;dy; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; tao;dg;ds;di;xh;ki;mp;dd;dv; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	0
 汉斯的青铜套装	han;dy;dy;dy;kl;ee;kr;ic;dy; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; de;bu;bu,b;bu;sh;hi,xx;ui;r,rq;bu; qing;fo;fo;of,fo;al;qb;av;ge;ao; tong;jk;jk;jt;do;or;zd;qm;jk; tao;dg;ds;di;xh;ki;mp;dd;dv; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	0
-鹤嘴矛	he;bn;dn;nv;ic;om;wx;pw;dn; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+鹤嘴矛	he;bn;dn;nv;ic;om;wx;pw;dn; zui;ky;ky;kj,kz;op;rb;dt;kh;ky; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 黑凤凰护手	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; feng;jy;jy;jy;il;he;or;mc;jy; huang;jw;jw;jh;ia;hg;on;mr;jw; hu;fh;fh;fh;jq;qs;um;ry;fh; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
 黑凤凰护腿	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; feng;jy;jy;jy;il;he;or;mc;jy; huang;jw;jw;jh;ia;hg;on;mr;jw; hu;fh;fh;fh;jq;qs;um;ry;fh; tui;og;oz;ot;lq;bv;vu;ev;oh;	0
 黑凤凰之铠	hei;lh;lh;ad,ha;nn;wf;ph;lf;ae; feng;jy;jy;jy;il;he;or;mc;jy; huang;jw;jw;jh;ia;hg;on;mr;jw; zhi;dn;dn;dd;hh;io;ri;pp;dn; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
@@ -147039,8 +147040,8 @@ use_preset_vocabulary: false
 守护之魂术	shou;bc;bc;bc;ik;ji;wk;pf;gc; hu;fh;fh;fh;jq;qs;um;ry;fh; zhi;dn;dn;dd;hh;io;ri;pp;dn; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
 兽角	shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; jiao;dy;dy;dy;gi,gp;ng,nq;xt;qe;ey;	14
 束缚术	shu;gr;an;ad,mk;df;dl;xs;gk;an; fu;sc;sc;sc,sf;ek;vi;ik;xg;sc; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
-双鹤矛	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; he;bn;dn;nv;ic;om;wx;pw;dn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
-双刃矛	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; ren;dd;dd;dd;ii;si;pi;vy;dd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
+双鹤矛	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; he;bn;dn;nv;ic;om;wx;pw;dn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+双刃矛	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; ren;dd;dd;dd;ii;si;pi;vy;dd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	2
 水晶流星	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; jing;oo;oo;oo;vv;aa;oo;jj;oo; liu;di;dv;di;kr;eu;ko;iy;dv; xing;ou;ou;ou;va;am;ol;jt;ou;	0
 水之项链	shui;ln;ln;ad,uv;oo;ee;ks;ii;vn; zhi;dn;dn;dd;hh;io;ri;pp;dn; xiang;gy;gr;gy,yg;pm;mo;uw;ad;gr; lian;ji;jz;jl;dq;oq;zu;ql;ji;	0
 瞬间移动术	shun;of;ol;ou;sp;bq;qv;he;mu; jian;mo;mo;mo,om;ov;la;ao;uj;mo; yi;hx;hx;hd;uf;hn;xl;tq;hx; dong;yl;el;ly,yl;uu;ms;bs;fc;el; shu;md;md;md;wh;id,xd;ei;sy;ld;	0
@@ -147120,7 +147121,7 @@ use_preset_vocabulary: false
 再生原石	zai;ar;ar;aa,at;dg;mb;fg;gm;ar; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; yuan;ix;ix;ix;ri;mf;xy;dr;ix; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 增益魔法	zeng;to;to;tc;gv;ga;go;fu;to; yi;bm;bm;mb;fa;tt;ka;uw;em; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; fa;dq;ds;dq;kp;ei;kk;if;dv;	1
 战斗权杖	zhan;vg;lg;gv;pa;yi;yp;hk;vg; dou;ud;du;du;hs;yj;jd;uf;du; quan;my;my;my;wl;de;er;sc;ly; zhang;mv;mv;mv;wh;dk;eb;sd;lv;	0
-战矛	zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	11
+战矛	zhan;vg;lg;gv;pa;yi;yp;hk;vg; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	11
 战盟使者罗兰斯	zhan;vg;lg;gv;pa;yi;yp;hk;vg; meng;om;om;mm;va;at;oa;je;om; shi;rl;rl;rl;xy;ok;jb;wg;rl; zhe;lo;lo;lo,ol;gv;ja;qo;ft;uo; luo;sx;sx;sx;af;wi;yl;lq;sx; lan;bs;bs;bs,qe;fu;tm;ht;uf;es; si;cj;qj;jq,qj;vp;tl;zt;ad;qj;	0
 战神之力	zhan;vg;lg;gv;pa;yi;yp;hk;vg; shen;pu;pu;uu;hp;il;fg;py;pu; zhi;dn;dn;dd;hh;io;ri;pp;dn; li;vp;vp;gp;uu;ks;sl;lt;vp;	0
 战士之盾	zhan;vg;lg;gv;pa;yi;yp;hk;vg; shi;ua;ua;aa;gg;jm;gs;fg;ua; zhi;dn;dn;dd;hh;io;ri;pp;dn; dun;io;po;po;us;hu;xq;rf;pm;	0
@@ -147323,7 +147324,7 @@ use_preset_vocabulary: false
 地魂灵石	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; hun;yg;eg;gy,yg;us;mi;ba;fc;ev; ling;eh;eh;hx,xh;st;sf;bc;vo;vh; shi;ak;ak;kp,aa,ak,pk;tt;mr;ms;dg;ak;	0
 地火兽弓箭手	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv; jian;vd;vd;vq;ni;hn;rp;tu;vd; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
 地火兽骑将	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; qi;mk;mk;mq;zj;nr;nz;cd;mk; jiang;lc;dc;dc,jc,pc;lk;li;ak;uq;dc;	0
-地火兽投矛手	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; tou;fu;fy;fu;jl;qe;ur;rm;fy; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
+地火兽投矛手	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; huo;br,rb;dr;dd;tt;ff;ch;oo;dr; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; tou;fu;fy;fu;jl;qe;ur;rm;fy; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; shou;pf;pl;pa,ub;oo;qq;us;rt;pv;	0
 地牢卷轴	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; lao;bn;bn;bn;ib;jq;wq;pr;gn; juan;jv;jv;ef,je;ft;fu;hz;ud;dv; zhou;iy;iy;iy;tp;kw;yd;lm;iy;	0
 地牢逃脱卷包	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; lao;bn;bn;bn;ib;jq;wq;pr;gn; tao;zv;zd;zv;kq;yo;pu;iq;zv; tuo;ox;oe;od;lk;bu,xu;vp;eu;oe; juan;jv;jv;ef,je;ft;fu;hz;ud;dv; bao;bs;bs;gs;ut;pu;nv;qn;pv;	0
 地下魔域八层	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; xia;ab;ab;ab,ad;dh;my;fy;gh;ab; mo;gg;gg;gm,mg;ds;ii;za;ys;gv; yu;ta;ta;th;gd,ga;gm;gf;fa;tg; ba;pn;pn;pd;ff;ho;hb;wt;pn; ceng;uy;us;uy;qp;si;cb;nf;uv;	0
@@ -148530,7 +148531,7 @@ use_preset_vocabulary: false
 八菱锤	ba;pn;pn;pd;ff;ho;hb;wt;pn; ling;cw;cw;cl,cw;zj;te;lh;af;cw; chui;jt;ji;ji;dg;om;zg;qt;ji;	0
 八面火	ba;pn;pn;pd;ff;ho;hb;wt;pn; mian;ao;aa;aa;dd;ml;bm;dm;aa; huo;br,rb;dr;dd;tt;ff;ch;oo;dr;	0
 霸王战靴	ba;yo;yo;yo;yl;mb;tv;fa;yo; wang;at;at;aa;aa;mg;nw;gg;at; zhan;vg;lg;gv;pa;yi;yp;hk;vg; xue;gb;gb;gh;va;tp;tv;af;cb;	0
-霸王丈八矛	ba;yo;yo;yo;yl;mb;tv;fa;yo; wang;at;at;aa;aa;mg;nw;gg;at; zhang;an;an;ad;dh,sh,dy;jk;fb;dy;an; ba;pn;pn;pd;ff;ho;hb;wt;pn; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+霸王丈八矛	ba;yo;yo;yo;yl;mb;tv;fa;yo; wang;at;at;aa;aa;mg;nw;gg;at; zhang;an;an;ad;dh,sh,dy;jk;fb;dy;an; ba;pn;pn;pd;ff;ho;hb;wt;pn; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 霸王之铠	ba;yo;yo;yo;yl;mb;tv;fa;yo; wang;at;at;aa;aa;mg;nw;gg;at; zhi;dn;dn;dd;hh;io;ri;pp;dn; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
 百草林	bai;ab;ab;ab;ds;ma;fu;dj;ab; cao;cu;cu;cz;zs;tj;ln;aj;cu; lin;mm;mm;mm;ww;dd;ee;ss;ll;	0
 白虹剑仙	bai;po;po;pa,po;ss;ha;ub;rr;po; hong;ig;ig;ig;fp;lm;cu;ja;ig; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; xian;ru;re;ru;xp;ou;jv;wm;rs;	0
@@ -148552,7 +148553,7 @@ use_preset_vocabulary: false
 百兽奔双月斩	bai;ab;ab;ab;ds;ma;fu;dj;ab; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; ben;dc;dc;dc,dh;xp;kt;ml;df;dh; shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe; zhan;ij;ij;ij,ji;tp;kl;yt;lr;ij;	0
 白头巾	bai;po;po;pa,po;ss;ha;ub;rr;po; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; jin;kl;ll;aa;yy;lb;rj;mh;aa;	13
 白杨盾	bai;po;po;pa,po;ss;ha;ub;rr;po; yang;mp;mp;my;wu;dh;ee;sn;lp; dun;io;po;po;us;hu;xq;rf;pm;	0
-白杨蛇矛	bai;po;po;pa,po;ss;ha;ub;rr;po; yang;mp;mp;my;wu;dh;ee;sn;lp; she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+白杨蛇矛	bai;po;po;pa,po;ss;ha;ub;rr;po; yang;mp;mp;my;wu;dh;ee;sn;lp; she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 白羽冠	bai;po;po;pa,po;ss;ha;ub;rr;po; yu;xx;xx;xx;dd;sm;zv;nn;xx; guan;bc;bc;bc;ik;bi;wk;pf;gc;	0
 白玉戟	bai;po;po;pa,po;ss;ha;ub;rr;po; yu;wd;wd;ad,wd;aa;mi;ni;gy;wd; ji;ug;ug;gu,ug;sa;ji;np;fj;ug;	0
 百战狮王铠	bai;ab;ab;ab;ds;ma;fu;dj;ab; zhan;vg;lg;gv;pa;yi;yp;hk;vg; shi;qj;qj;qu;by;kb;mr;qt;qj; wang;at;at;aa;aa;mg;nw;gg;at; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
@@ -148627,7 +148628,7 @@ use_preset_vocabulary: false
 长立盾	chang;pn;pn;pd;uh;po;pc;ta;pn; li;wb;wa;da;bb;yt;il;uu;wa; dun;io;po;po;us;hu;xq;rf;pm;	0
 长枪突击	chang;pn;pn;pd;uh;po;pc;ta;pn; qiang;mv;mv;mc;wt;du;ez;sw;lv; tu;bq;bq;xq,bq;ib;jk;em;pw;gq; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	0
 长刃尖大刀	chang;pn;pn;pd;uh;po;pc;ta;pn; ren;dd;dd;dd;ii;si;pi;vy;dd; jian;xd;xd;xd;ix;fk;ym;id;ad; da;ar;un;ad;xx;kk;md;dd;an; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp;	0
-长蛇蛇矛	chang;pn;pn;pd;uh;po;pc;ta;pn; she;ib;ib;it;fa;lp;cv;jp;ib; she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+长蛇蛇矛	chang;pn;pn;pd;uh;po;pc;ta;pn; she;ib;ib;it;fa;lp;cv;jp;ib; she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 长条旗	chang;pn;pn;pd;uh;po;pc;ta;pn; tiao;wm;wm;wm;jf;hd;he;ts;wx; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
 长袖袍	chang;pn;pn;pd;uh;po;pc;ta;pn; xiu;py;py;yy;hp;lw;td;pu;py; pao;pb;ps;yb;ht;lu;tv;pu;pv;	0
 超地龙极震	chao;tk;tk;zv;qo;gr;pd;fh;tk; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; long;yp;ud;ad;sh;ip;tl;dx;ab; ji;mj,mn;mj;mj;wh;de;ec;se;lj; zhen;yi;yn;yi;yh;mv;tf;fd;yh;	0
@@ -148728,10 +148729,10 @@ use_preset_vocabulary: false
 地点标记旗	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; dian;vh;lh;hv;pn;yf,xf;yc;hk;ve; biao;mu;mx;mu;wi;df;ef;sf;lx; ji;yj;yj;yj;ct;iu;sv;yn;yj; qi;fb;fb;fq;ff;yc;lh;yt;fb;	0
 地龙极震	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; long;yp;ud;ad;sh;ip;tl;dx;ab; ji;mj,mn;mj;mj;wh;de;ec;se;lj; zhen;yi;yn;yi;yh;mv;tf;fd;yh;	0
 地龙震	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; long;yp;ud;ad;sh;ip;tl;dx;ab; zhen;yi;yn;yi;yh;mv;tf;fd;yh;	0
-地矛	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+地矛	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 地茅遍地	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;cm;cp;cm;zu;th;lt;ac;cm; bian;zc;zc;zb;qq;yb;mu;yn;zc; di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty;	0
 地茅刺	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;cm;cp;cm;zu;th;lt;ac;cm; ci;ud;ad;dc;di;dn;ep;gm;ad;	0
-地矛刺	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; ci;ud;ad;dc;di;dn;ep;gm;ad;	0
+地矛刺	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; ci;ud;ad;dc;di;dn;ep;gm;ad;	0
 地茅乱刺	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; mao;cm;cp;cm;zu;th;lt;ac;cm; luan;uv;qv;ug;mr,sr;hu;aa;td;qv; ci;ud;ad;dc;di;dn;ep;gm;ad;	0
 地痞头子	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; pi;bk;bk;bf;mo;kr;ad;ug;bk; tou;dd;dd;dd;hx;yk,xk;wm;ud;dd; zi;la;va;aa,vh;aa;nd;hi;bb;va;	5
 地泉	di;ty;ty;ty;gr,ga;gd;ge;f,fb;ty; quan;bu;bu;bu,ub;so;he;uk;ri;bu;	1
@@ -148851,7 +148852,7 @@ use_preset_vocabulary: false
 符玺郎	fu;vc;vc;vf;nw,nk;hi;rk;tw;vc; xi;dy;dy;we,ye;ga;ni;xi;qi;ey; lang;le;de;el;hb;il;it;yv;de;	6
 夫馀	fu;er;an;ad,er;ee;qo;hf;fw;an; yu;um;;uy;gw;nd;qx;qn;ux;	2
 钢弓	gang;jx;jx;jg;dy;ok;zb;qm;jx; gong;vv;vv;ag,vg;rr;nn;bg;xn;vv;	0
-钢矛	gang;jx;jx;jg;dy;ok;zb;qm;jx; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	3
+钢矛	gang;jx;jx;jg;dy;ok;zb;qm;jx; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	3
 刚破	gang;kd;kd;dg;oi;bn;mp;mq;gd; po;up;uy;up;tl;me;mr;dh;uy;	14
 钢刃扇	gang;jx;jx;jg;dy;ok;zb;qm;jx; ren;dd;dd;dd;ii;si;pi;vy;dd; shan;hx;hx;hy,yh;qd;hm,im;mz;yn;hx;	0
 刚体法	gang;kd;kd;dg;oi;bn;mp;mq;gd; ti;rb;rb;rb;xd;om;jf;ws;rb; fa;dq;ds;dq;kp;ei;kk;if;dv;	0
@@ -148891,7 +148892,7 @@ use_preset_vocabulary: false
 苟文若	gou;cj;ck;cj;zi;tr;lg;aq;ck; wen;wx;wx;wi,dd;jj;yk;vw;yy;wx; ruo;ck;ck;cy;zo;tr;ld;ad;ck;	0
 古代巨鳄	gu;uk;uk;uk;so;jr;cg;dg;uk; dai;ry;ry;ry;xa;op;jp;wa;rg; ju;kk;ka;kk,aa;dr;ss;nn;an;ka; e;yk;ak;ye,yk;qr;ns;wa;qg;ek;	0
 骨都侯	gu;go;lo;go,ob,og;cc;bb;fg;me;ao; dou;le;le;ev;gb;jl;qt;ft;ue; hou;ru;ru;ru;xx;ok;jo;wn;rd;	0
-古矛枪	gu;uk;uk;uk;so;jr;cg;dg;uk; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
+古矛枪	gu;uk;uk;uk;so;jr;cg;dg;uk; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
 顾雍	gu;iy;ir;ye;rm;mo;xw;db;ir; yong;wv;wf;wv;ia;yg;zu;yx;wa;	59
 谷螽王	gu;bk;bk;bk,kr;fo;cr;hg;ww;bk; zhong;di;wi;id,di;jf;hi;hc;tu;wi; wang;at;at;aa;aa;mg;nw;gg;at;	0
 挂王	gua;ft;ft;fg;jg;qg;ug;rf;ft; wang;at;at;aa;aa;mg;nw;gg;at;	5
@@ -149366,7 +149367,7 @@ use_preset_vocabulary: false
 两裆铠	liang;ar;ad;ad;de;mb;ml;gm;ad; dang;pe;pe;yd;hs;lm;tb;pu;pd; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	3
 两刃叉	liang;ar;ad;ad;de;mb;ml;gm;ad; ren;dd;dd;dd;ii;si;pi;vy;dd; cha;yd;yd;dy,yd;lh;ei,xi;ri;cy;yd;	0
 两刃斧	liang;ar;ad;ad;de;mb;ml;gm;ad; ren;dd;dd;dd;ii;si;pi;vy;dd; fu;fj;bj;fj,jf;fp;cl;ht;wq;bj;	0
-两刃矛	liang;ar;ad;ad;de;mb;ml;gm;ad; ren;dd;dd;dd;ii;si;pi;vy;dd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
+两刃矛	liang;ar;ad;ad;de;mb;ml;gm;ad; ren;dd;dd;dd;ii;si;pi;vy;dd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	1
 两刃抓枪	liang;ar;ad;ad;de;mb;ml;gm;ad; ren;dd;dd;dd;ii;si;pi;vy;dd; zhua;fv;fv;fv;jh;qo,xo;uy;rr;fv; qiang;mv;mv;mc;wt;du;ez;sw;lv;	0
 两万技能点	liang;ar;ad;ad;de;mb;ml;gm;ad; wan;av;ap;ag,ap;du;ms;fp;dn;ap; ji;fv;fy;fv;jl;qe;uc;rf;fy; neng;sb;sb;sb;pa;ip;kv;ce;vb; dian;vh;lh;hv;pn;yf,xf;yc;hk;ve;	0
 两仪鞭	liang;ar;ad;ad;de;mb;ml;gm;ad; yi;ry;ry;ry;xy,xh;ok,xk;jb;wy;ry; bian;gg;gg;gb;vy;tk;tb;af;cg;	0
@@ -149690,14 +149691,14 @@ use_preset_vocabulary: false
 青竹丝	qing;fo;fo;of,fo;al;qb;av;ge;ao; zhu;gg;pl,gg;gg;nn;hh;ru;tt;pd; si;sa;va;aa;ee;vm;ii;xx;ss;	0
 穹光披风	qiong;bg;bg;xg,bg;ir;jn;eb;pw;gg; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee; pi;fp;fy;fp;jl;qe;ur;rh;fy; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
 穷奇铠	qiong;bl;bl;xl,bl;iu;js;es;pw;gl; qi;dk;dk;dk;xj;kr;mz;ds;dk; kai;jj;jj;jj,jq;dt;ou;zv;qm;jj;	0
-酋矛	qiu;by;by;by,qa;fd;tm;hy;us;ey; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	3
+酋矛	qiu;by;by;by,qa;fd;tm;hy;us;ey; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	3
 驱豹	qu;mq;mx;mq;zr;nk;nb;ca;mx; bao;vu;vu;vu;uh;bi;mi;ee;pu;	0
 驱豹冲	qu;mq;mx;mq;zr;nk;nb;ca;mx; bao;vu;vu;vu;uh;bi;mi;ee;pu; chong;dv;dv;dv;fp;il;wg;uk;dv;	0
 驱豹突击	qu;mq;mx;mq;zr;nk;nb;ca;mx; bao;vu;vu;vu;uh;bi;mi;ee;pu; tu;bq;bq;xq,bq;ib;jk;em;pw;gq; ji;fk;ak;aa,eu,fk;gp;qu;um;fm;aa;	0
 屈刀	qu;ui;ui;ui;qp;su;cm;nb;ui; dao;vp;vp;gp,pg;ii;sh;pd;vn;vp;	1
 驱狼日月棍	qu;mq;mx;mq;zr;nk;nb;ca;mx; lang;ql;ql;ql;bh;kv;mi;qt;qh; ri;ka;ka;aa,or,ri;vv;aa;or;jj;wa; yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe; gun;mb;mb;mk;wa;dp;ev;sj;lb;	0
-屈庐矛	qu;ui;ui;ui;qp;su;cm;nb;ui; lu;gh;gh;gh;rq;is,xs;xm;yy;gh; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
-曲矛	qu;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+屈庐矛	qu;ui;ui;ui;qp;su;cm;nb;ui; lu;gh;gh;gh;rq;is,xs;xm;yy;gh; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+曲矛	qu;kc;la;aa,oa;vp,pd;tw,xw;yq;ma;aa; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 阙翟祭服	que;mq;mr;mj,mq;oe;lo;ae;uu;mr; zhai;xv;xf;yv;da;sg;zu;nw;xa; ji;xu;px;uy,ou;fi;bf;hf;wf;px; fu;oy;oy;oy;ll;be;vr;eb;oy;	0
 群龙卷风火	qun;yy;yy;yj;rp;sq;bg;vt;yy; long;yp;ud;ad;sh;ip;tl;dx;ab; juan;jv;jv;ef,je;ft;fu;hz;ud;dv; feng;jx;jx;ji;iy;hk;ob;mq;jx; huo;br,rb;dr;dd;tt;ff;ch;oo;dr;	0
 群龙舞十方	qun;yy;yy;yj;rp;sq;bg;vt;yy; long;yp;ud;ad;sh;ip;tl;dx;ab; wu;pf;pl;rf,pa,xf;ep;oq;ev;rl;pa; shi;al;al;aa;ss;jj;ns;fg;aa; fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp;	0
@@ -149830,7 +149831,7 @@ use_preset_vocabulary: false
 兽皮披风	shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; pi;py;vy;ad,ay,vd,vy,ya;rl;de;rp;hc;vy; pi;fp;fy;fp;jl;qe;ur;rh;fy; feng;jx;jx;ji;iy;hk;ob;mq;jx;	0
 兽牙饰	shou;bk;bk;ka,bk;fo;cr;hd;ul;ek; ya;gp,ac;ap;ap;du;mh;ly;ah;ap; shi;uj;uj;uj;gy;nb;qr;qn;uj;	0
 书生扇	shu;vd;vd;ad,vd;rh;is;ai;nn;vd; sheng;pf;pf;na;eg,aa;hm;ls;tg;pa; shan;hx;hx;hy,yh;qd;hm,im;mz;yn;hx;	0
-双叉矛	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; cha;yd;yd;dy,yd;lh;ei,xi;ri;cy;yd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+双叉矛	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; cha;yd;yd;dy,yd;lh;ei,xi;ri;cy;yd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 双钩枪	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; gou;jg;js;jg;dp;oi,xi;zk;qq;jv; qiang;mv;mv;mc;wt;du;ez;sw;lv;	2
 双股寒铁剑	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; gu;ou;oy;ou;ll;be;vr;em;oy; han;bd;bd;bd;ih;jy;ww;pf;gd; tie;jf;ju;ju;de;oo;zh;qr;ju; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 双剑士	shuang;yy;yy;yy;ll;ee,xe;rr;cc;yy; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd; shi;ua;ua;aa;gg;jm;gs;fg;ua;	1
@@ -149951,7 +149952,7 @@ use_preset_vocabulary: false
 铁骨折扇	tie;jf;ju;ju;de;oo;zh;qr;ju; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; zhe;fj;fj;fj;jp;ql;ut;rr;fj; shan;hx;hx;hy,yh;qd;hm,im;mz;yn;hx;	0
 铁戟兵	tie;jf;ju;ju;de;oo;zh;qr;ju; ji;ug;ug;gu,ug;sa;ji;np;fj;ug; bing;qb;qb;qb;uf;oc;th;rg;qb;	0
 铁蒺藜骨朵	tie;jf;ju;ju;de;oo;zh;qr;ju; ji;cu;cu;cj;zx;tk;lo;au;cd; li;cu;cu;cl;zo;te;lk;at;cu; gu;go;lo;go,ob,og;cc;bb;fg;me;ao; duo;jm;jm;mj,jm;iw;hd;oe;ms;jl;	0
-铁脊蛇矛	tie;jf;ju;ju;de;oo;zh;qr;ju; ji;ro;do;od,or;fl;fb;wv;iw;do; she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+铁脊蛇矛	tie;jf;ju;ju;de;oo;zh;qr;ju; ji;ro;do;od,or;fl;fb;wv;iw;do; she;ib;ib;it;fa;lp;cv;jp;ib; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 铁甲机关兽	tie;jf;ju;ju;de;oo;zh;qr;ju; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; ji;mj;mj;mj;wi;dn;eo;sm;lj; guan;bt;bt;bt,qd;fx;tk;hm;ud;et; shou;bk;bk;ka,bk;fo;cr;hd;ul;ek;	0
 铁甲龙	tie;jf;ju;ju;de;oo;zh;qr;ju; jia;ol,tl;ll;aa,oa;vp;wl;sj;lh;aa; long;yp;ud;ad;sh;ip;tl;dx;ab;	15
 铁假面	tie;jf;ju;ju;de;oo;zh;qr;ju; jia;ry;ry;rj,ry;xl;oe;jr;wn;ry; mian;ao;aa;aa;dd;ml;bm;dm;aa;	0
@@ -150323,7 +150324,7 @@ use_preset_vocabulary: false
 斩铁	zhan;ij;ij;ij,ji;tp;kl;yt;lr;ij; tie;jf;ju;ju;de;oo;zh;qr;ju;	57
 斩岩剑	zhan;ij;ij;ij,ji;tp;kl;yt;lr;ij; yan;uu;eu;uu;pt;ur;vm;md;sk; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	0
 斩月	zhan;ij;ij;ij,ji;tp;kl;yt;lr;ij; yue;ke;ka;oy,pa,yt;ll;bb;vy;ee;pe;	0
-丈八点刚矛	zhang;an;an;ad;dh,sh,dy;jk;fb;dy;an; ba;pn;pn;pd;ff;ho;hb;wt;pn; dian;vh;lh;hv;pn;yf,xf;yc;hk;ve; gang;kd;kd;dg;oi;bn;mp;mq;gd; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
+丈八点刚矛	zhang;an;an;ad;dh,sh,dy;jk;fb;dy;an; ba;pn;pn;pd;ff;ho;hb;wt;pn; dian;vh;lh;hv;pn;yf,xf;yc;hk;ve; gang;kd;kd;dg;oi;bn;mp;mq;gd; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp;	0
 丈八乌钝槊	zhang;an;an;ad;dh,sh,dy;jk;fb;dy;an; ba;pn;pn;pd;ff;ho;hb;wt;pn; wu;pa;pa;pa;ud;pm;xu;qn;pa; dun;jt;jt;jt;dr;ou;zs;qg;jt; shuo;nm;bm;mo,mu;fw;td,xd;he;ub;el;	0
 丈二护身棍	zhang;an;an;ad;dh,sh,dy;jk;fb;dy;an; er;aa;aa;aa;uu;mm;me;fg;aa; hu;fh;fh;fh;jq;qs;um;ry;fh; shen;zc;pp;pp;uu;hh;zs;tm;pp; gun;mb;mb;mk;wa;dp;ev;sj;lb;	0
 张俊义	zhang;gi;gi;gi;rh;no;bp;xt;gi; jun;rw;rw;rj,rw;xj;oe;jh;wc;rw; yi;dx;dx;di,id;hy,yh;ik,xk;ib;yq;dx;	3
@@ -150725,4 +150726,3 @@ use_preset_vocabulary: false
 薪王	xin;cj;cj;cx;zp;tl;lt;au;cj; wang;at;at;aa;aa;mg;nw;gg;at;	100
 全战	quan;rw;rw;rw;ea;og;jn;wg;rw; zhan;vg;lg;gv;pa;yi;yp;hk;vg;	100
 幻剑	huan;yv;yv;yg;rr;vs,xs;ia;xn;sv; jian;qd,rd;rd;da,dq;ei;on;jp;wg;rd;	121
-

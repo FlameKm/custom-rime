@@ -8730,7 +8730,7 @@ use_preset_vocabulary: false
 味隆	wei;kw;kw;kw;oe;rd;da;kf;kw; long;eu;eu;eu;ba;nm;tl;bt;eu;	0
 维罗非尼	wei;sv;sf;sv;ea;vg;iu;xw;sa; luo;sx;sx;sx;af;wi;yl;lq;sx; fei;ls;la;aa;pu;ly;rf;dj;aa; ni;ub;ub;ub;qa;sp;cv;nx;ub;	2
 维洛斯明碱	wei;sv;sf;sv;ea;vg;iu;xw;sa; luo;dk;dk;dg;ko;er;ks;it;dk; si;cj;qj;jq,qj;vp;tl;zt;ad;qj; ming;oo;oo;oo;vl;ab;ov;je;oo; jian;uk;uk;ux;th;mr;md;dd;ug;	0
-卫矛碱	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; jian;uk;uk;ux;th;mr;md;dd;ug;	0
+卫矛碱	wei;ea;va,ea;ea,ga;bd;sm;zf;bg;ea; mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; jian;uk;uk;ux;th;mr;md;dd;ug;	0
 维纳卡兰	wei;sv;sf;sv;ea;vg;iu;xw;sa; na;sn;sn;sn;ee;vb;ij;xm;sn; ka;ub;ub;bx,ub;ph;yy;yy;hh;ub; lan;bs;bs;bs,qe;fu;tm;ht;uf;es;	0
 胃粘膜素	wei;to;to;ot,to;wl;wb;qv;le;to; nian;mv;mk;mv;lo;fr;pd;oh;mk; mo;od;od;om;lx;bk;vm;ea;od; su;fx;fx;sf,fs;ai;qf;ai;gx;ax;	0
 韦氏试剂	wei;fv;al;aa;up;qs;gw;fn;aa; shi;pv;pv;pg;ur;hp;bs;qa;pv; shi;yg;yg;yu;cp;im;su;ya;yg; ji;qd;wd;dq;ji;yn;qp;yj;wd;	0
@@ -18414,7 +18414,7 @@ use_preset_vocabulary: false
 忙路线	mang;xw;xw;xw;nr;pv;hf;ny;xw; lu;zk;zk;zg;go;rr;ps;kh;zk; xian;sj;sj;sj;ea;vj;ip;xg;sg;	0
 忙期	mang;xw;xw;xw;nr;pv;hf;ny;xw; qi;co;qo;oq,qo;vl;tb;zv;ad;qo;	1
 忙循环	mang;xw;xw;xw;nr;pv;hf;ny;xw; xun;ro;io;xd;hs;hu;wq;tr;rm; huan;wb;wb;wb;ah;mf;nc;gg;wb;	0
-矛盾命题	mao;yp;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; ming;re;re;re;eb;ol;jz;wg;re; ti;oy;or;uy,yu;vm;ao;ow;jg;or;	4
+矛盾命题	mao;yp,sc;sp;sp,ap,vp;pu;nh;it;cb;vp; dun;io;po;po;us;hu;xq;rf;pm; ming;re;re;re;eb;ol;jz;wg;re; ti;oy;or;uy,yu;vm;ao;ow;jg;or;	4
 貌似奇性	mao;ve;ve;ve,vm;uk;bu;mp;ee;pe; si;rr;rr;ry;xe;oo;jj;wn;rr; qi;dk;dk;dk;xj;kr;mz;ds;dk; xing;xu;xu;xu;na;pm;hl;nt;xu;	0
 貌似误差	mao;ve;ve;ve,vm;uk;bu;mp;ee;pe; si;rr;rr;ry;xe;oo;jj;wn;rr; wu;yt;yt;yw;cx;ik;sm;yk;yt; cha;yg;yg;yg;fp;tm;gu;ud;eg;	0
 玫瑰线	mei;ww;ww;ww;aj;mk,xk;nh;gt;ww; gui;wg;wg;wg;as;mi;na;gr;wv; xian;sj;sj;sj;ea;vj;ip;xg;sg;	1
@@ -36753,4 +36753,3 @@ use_preset_vocabulary: false
 基弧	ji;ct;qt;tq,qt;vg;tg;zg;ad;qt; hu;gg;gg;gg;rh;no;by;xr;gg;	100
 静定问题	jing;fy;fl;qv;ap;qd;ab;ge;qv; ding;bz;br;bp;ie;jo;wt;pg;gr; wen;mk;mk;km,mk;oo;lr;ad;uk;mk; ti;oy;or;uy,yu;vm;ao;ow;jg;or;	16
 束缚电子	shu;gr;an;ad,mk;df;dl;xs;gk;an; fu;sc;sc;sc,sf;ek;vi;ik;xg;sc; dian;ov,yv;lv;ag,og;ee;lu;oa;jn;av; zi;la;va;aa,vh;aa;nd;hi;bb;va;	16
-
