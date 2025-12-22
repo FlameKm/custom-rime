@@ -26,8 +26,6 @@ schema_list:
 switcher:
   caption: 〔方案選單〕
   hotkeys:
-    - Control+grave
-    - Control+Shift+grave
     - F4
   save_options:
     - ascii_mode
