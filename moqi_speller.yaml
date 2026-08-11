@@ -35,6 +35,9 @@ zrm_speller:
     - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
 
 flypy_speller:
+    # 模糊音：in / ing 互容。小鹤里 in→b 键、ing→k 键，开启后 b/k 互打都能出字
+    - derive/^(\w+?)in(;.*)$/$1ing$2/
+    - derive/^(\w+?)ing(;.*)$/$1in$2/
     #- erase/^xx$/
     - derive/^([jqxy])u(;.*)$/$1v$2/
     - derive/^([aoe])([ioun])(;.*)$/$1$1$2$3/
