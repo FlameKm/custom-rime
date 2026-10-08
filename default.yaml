@@ -1,7 +1,10 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: '0.40'
+# 注意：此值必须 >= /usr/share/rime-data/default.yaml 的 config_version。
+# librime 部署时（ConfigFileUpdate/TrashDeprecatedUserCopy）会把 config_version
+# 低于共享版的用户 default.yaml 当作旧版遗留副本丢进 trash/，导致只剩朙月拼音等默认方案。
+config_version: '0.99'
 
 schema_list:
   - schema: moqi_wan_flypymo # 墨奇万象·小鹤+墨奇形
