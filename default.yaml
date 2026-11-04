@@ -144,6 +144,9 @@ key_binder:
     # - { when: paging, accept: bracketleft, send: Page_Up }
     # - { when: has_menu, accept: bracketright, send: Page_Down }
 
+    # 中英文标点切换，与下面系统自带的 Control+Shift+3 并存
+    - { when: always, accept: Control+period, toggle: ascii_punct }
+
     # 两种按键配置，鼠须管 Control+Shift+4 生效，小狼毫 Control+Shift+dollar 生效，都写上了。
     # numbered_mode_switch:
     # - { when: always, select: .next, accept: Control+Shift+1 }                  # 在最近的两个方案之间切换
