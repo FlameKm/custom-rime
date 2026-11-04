@@ -403,3 +403,23 @@ sort: by_weight
 四个龍	si[ke ge[rl ls[[
 四个土
 
+
+# ===== 常用词（显式编码，避开多音字自动注音的风险）=====
+加串器	jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; chuan;kl,vv;ll;aa,vv;op;ll;dg;kk;aa; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	460000
+解串器	jie;dn;dn;jn;gb;nq;xq;qe;en; chuan;kl,vv;ll;aa,vv;op;ll;dg;kk;aa; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	280000
+拿图	na;ru;ru;uh;eo;oq;ju;wg;ru; tu;kd;kd;kd;nh;wy;rw;lt;wd;	260000
+加解串器	jia;lk;lk;lk,kl;uo;kr;sd;lk;lk; jie;dn;dn;jn;gb;nq;xq;qe;en; chuan;kl,vv;ll;aa,vv;op;ll;dg;kk;aa; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk;	180000
+森云	sen;mm;mm;ml;ww;dd;ee;ss;ll; yun;ag,es;es;es,se;up;mi;by;fc;ev;	180000
+硬件组	ying;ug;ug;ug;ty;mk;mb;dg;ug; jian;rn;rn;rn;xb;oq;jq;wr;rn; zu;sq;sq;sq;eu;vm;if;xe;sq;	140000
+媒体链路	mei;nm;nm;nm;yw;vd;be;va;nl; ti;rb;rb;rb;xd;om;jf;ws;rb; lian;ji;jz;jl;dq;oq;zu;ql;ji; lu;zk;zk;zg;go;rr;ps;kh;zk;	140000
+多仓库	duo;xx;xx;xx;ff;ni;ll;qq;xx; cang;rv;rv;re;et;ou;jz;wb;rv; ku;gi;gi;gi;rt;iq;xy;yl;gi;	140000
+资产型	zi;db;dr;bc;fm;io;wo;uq;dr; chan;wi;lp;dp,li,wp;bu;yh;ix;u,ut;wi; xing;kt;kt;tx;ug;mg;fg;ga;kt;	140000
+寄存器手册	ji;bk;bk;bq;ij;jr;wz;pd;gk; cun;uz;uz;uz,za;sa;kd;nh;dh;az; qi;kk;kk;kk,qk;oo;rr;dd;kk;kk; shou;pf;pl;pa,ub;oo;qq;us;rt;pv; ce;ka;pa;ka,pa;jj;bm;ic;mm;pa;	120000
+兼容层	jian;bb;bn;bd,bj,qd,qj;ff;tc;hc;uv;en; rong;bg;bk;bg;io;jr;wh;pw;gk; ceng;uy;us;uy;qp;si;cb;nf;uv;	120000
+拓展口	tuo;fu;fu;fu;jt;qr;um;rd;fk; zhan;uy;un;uy;qh;sv;ct;na;uh; kou;la;la;aa;oo;rr;dk;kk;aa;	120000
+棋盘格	qi;mb;mb;mq;wf;dc;eh;sa;lb; pan;vm;vm;mv,vm;ta;ht;ia;te;vm; ge;mk;mk;mg;wo;dr;es;st;lk;	120000
+热拔插	re;fh;fh;hv;jn;qf;uc;rv;fe; ba;fy;fd;fb,fy;jh;qe,qk;ui;rd;fy; cha;fj;fj;fi,fj;js;qx;up;rt;fj;	120000
+判据	pan;bd;bd;db;fi;fn;hp;ud;dd; ju;fg;fk;fj;jo;qr;uc;rn;fk;	120000
+子仓库	zi;la;va;aa,vh;aa;nd;hi;bb;va; cang;rv;rv;re;et;ou;jz;wb;rv; ku;gi;gi;gi;rt;iq;xy;yl;gi;	120000
+曝光图	bao;ou;ou;ob;vo;ae;ok;jj;ou; guang;xe;xw;ea,xw;hk;fu;mg;iq;ee; tu;kd;kd;kd;nh;wy;rw;lt;wd;	120000
+后装	hou;ik;pk;pk;uo;hr;xd;rg;pk; zhuang;ly;dy;yv;lk;lv;at;uf;dh;	120000
