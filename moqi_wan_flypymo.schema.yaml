@@ -106,6 +106,9 @@ aux_patch:
     __include: moqi_speller.yaml:/common_aux
 
 __patch:
+  # 中英混输自动空格。必须排在 speller 之前才能拦下字母键（补前置空格），
+  # 同时天然早于 selector，空格键选英文候选也能拦到
+  "engine/processors/@before 4": "lua_processor@*cn_en_space"
   add_user_dict/dictionary: moqi_wan.extended
   user_dict_set/dictionary: moqi_wan.extended
   translator/prism: moqi_wan_flypymo
